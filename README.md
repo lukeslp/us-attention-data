@@ -75,16 +75,18 @@ const gdelt = await d3.json("gdelt_weekly_events.json");
 
 ## Related
 
-- [one-year visualization](https://dr.eamer.dev/datavis/one-year/) — the viz this data powers
-- [Data Trove](https://dr.eamer.dev/datavis/data_trove/) — full dataset catalog
-- [lukesteuber.com](https://lukesteuber.com) — portfolio
+- [one-year visualization](https://dr.eamer.dev/datavis/one-year/) -- the viz this data powers
+- [Data Trove](https://dr.eamer.dev/datavis/data_trove/) -- full dataset catalog
+- [lukesteuber.com](https://lukesteuber.com) -- portfolio
 
 ---
+
+## Author
+
+[Luke Steuber](https://lukesteuber.com) -- [@lukesteuber.com](https://bsky.app/profile/lukesteuber.com) on Bluesky
 
 ## License
 
 MIT. See [LICENSE](LICENSE).
 
 Data sourced from Wikipedia (CC BY-SA), GDELT (open), and Google Trends (fair use for research).
-
-Collected and packaged by [Luke Steuber](https://lukesteuber.com).
