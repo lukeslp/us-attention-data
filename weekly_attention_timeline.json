@@ -1,0 +1,2206 @@
+{
+  "metadata": {
+    "generated_at": "2025-12-20T07:45:24Z",
+    "sources": [
+      "google_trends_interest.json",
+      "gdelt_timeline.json",
+      "wikipedia_pageviews.json"
+    ],
+    "note": "Weekly regional attention scores are normalized from real sources; values are relative, not sentiment."
+  },
+  "weekly_timeline": [
+    {
+      "week_start": "2024-12-30",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00145,
+          "wikipedia": 244835.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.44533999999999996,
+          "wikipedia": 91827.5
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.19087142857142858,
+          "wikipedia": 24668.5
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.03685,
+          "wikipedia": 15.285714285714286
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1232,
+          "wikipedia": 18.25
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 3.0127333333333333,
+          "wikipedia": 163228.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 3.32,
+        "north_america": 0.0,
+        "asia_pacific": 0.0,
+        "middle_east": 3.67,
+        "africa": 0.0,
+        "europe": 0.0
+      }
+    },
+    {
+      "week_start": "2025-01-06",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00315,
+          "wikipedia": 437113.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6786,
+          "wikipedia": 145728.44444444444
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.31787142857142864,
+          "wikipedia": 44011.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.05185000000000001,
+          "wikipedia": 31.428571428571427
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1880285714285714,
+          "wikipedia": 45.416666666666664
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.416433333333333,
+          "wikipedia": 291419.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 12.53,
+        "north_america": 33.49,
+        "asia_pacific": 25.03,
+        "middle_east": 25.7,
+        "africa": 33.49,
+        "europe": 33.43
+      }
+    },
+    {
+      "week_start": "2025-01-13",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0038499999999999997,
+          "wikipedia": 438865.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6414,
+          "wikipedia": 164605.75
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3500857142857142,
+          "wikipedia": 44115.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06541666666666666,
+          "wikipedia": 31.857142857142858
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1974857142857143,
+          "wikipedia": 137.25
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.213233333333334,
+          "wikipedia": 292587.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 12.78,
+        "north_america": 33.79,
+        "asia_pacific": 33.79,
+        "middle_east": 100.0,
+        "africa": 33.79,
+        "europe": 33.61
+      }
+    },
+    {
+      "week_start": "2025-01-20",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0055,
+          "wikipedia": 619577.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.76994,
+          "wikipedia": 206554.33333333334
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.4489571428571428,
+          "wikipedia": 62278.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.08510000000000001,
+          "wikipedia": 37.857142857142854
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.21107142857142858,
+          "wikipedia": 94.83333333333333
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.458833333333332,
+          "wikipedia": 413065.0
+        }
+      },
+      "regions": {
+        "latin_america": 16.21,
+        "north_america": 65.26,
+        "asia_pacific": 53.27,
+        "middle_east": 65.7,
+        "africa": 65.26,
+        "europe": 65.0
+      }
+    },
+    {
+      "week_start": "2025-01-27",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0031,
+          "wikipedia": 432384.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.52524,
+          "wikipedia": 162181.375
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3634857142857143,
+          "wikipedia": 43476.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.10049999999999999,
+          "wikipedia": 40.285714285714285
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.19364285714285717,
+          "wikipedia": 28.166666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.7572,
+          "wikipedia": 288270.3333333333
+        }
+      },
+      "regions": {
+        "latin_america": 17.6,
+        "north_america": 32.66,
+        "asia_pacific": 32.67,
+        "middle_east": 11.75,
+        "africa": 32.66,
+        "europe": 32.5
+      }
+    },
+    {
+      "week_start": "2025-02-03",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0049,
+          "wikipedia": 432554.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.7568400000000001,
+          "wikipedia": 144297.77777777778
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3636285714285714,
+          "wikipedia": 43487.6
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.08801666666666667,
+          "wikipedia": 31.285714285714285
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.2069,
+          "wikipedia": 22.0
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 7.026,
+          "wikipedia": 288380.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 12.46,
+        "north_america": 32.69,
+        "asia_pacific": 24.36,
+        "middle_east": 6.77,
+        "africa": 32.69,
+        "europe": 32.52
+      }
+    },
+    {
+      "week_start": "2025-02-10",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0034,
+          "wikipedia": 422845.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.7759400000000001,
+          "wikipedia": 158605.0
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.42172857142857145,
+          "wikipedia": 42554.9
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.061316666666666665,
+          "wikipedia": 57.285714285714285
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.20791428571428572,
+          "wikipedia": 27.083333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.6925333333333334,
+          "wikipedia": 281917.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 27.26,
+        "north_america": 31.0,
+        "asia_pacific": 31.01,
+        "middle_east": 10.88,
+        "africa": 31.0,
+        "europe": 30.91
+      }
+    },
+    {
+      "week_start": "2025-02-17",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00335,
+          "wikipedia": 405802.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6573,
+          "wikipedia": 152255.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3766857142857143,
+          "wikipedia": 40908.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06723333333333334,
+          "wikipedia": 35.57142857142857
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1537,
+          "wikipedia": 20.666666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.7562999999999995,
+          "wikipedia": 270547.0
+        }
+      },
+      "regions": {
+        "latin_america": 14.89,
+        "north_america": 28.03,
+        "asia_pacific": 28.06,
+        "middle_east": 5.65,
+        "africa": 28.03,
+        "europe": 28.06
+      }
+    },
+    {
+      "week_start": "2025-02-24",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.004,
+          "wikipedia": 475524.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.66138,
+          "wikipedia": 178353.0
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.42098571428571424,
+          "wikipedia": 47877.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.0662,
+          "wikipedia": 32.857142857142854
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.16614285714285712,
+          "wikipedia": 34.333333333333336
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.120866666666667,
+          "wikipedia": 317027.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 13.35,
+        "north_america": 40.18,
+        "asia_pacific": 40.18,
+        "middle_east": 16.71,
+        "africa": 40.17,
+        "europe": 40.11
+      }
+    },
+    {
+      "week_start": "2025-03-03",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0017000000000000001,
+          "wikipedia": 534803.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.75,
+          "wikipedia": 200575.625
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.47537142857142856,
+          "wikipedia": 53850.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.07054999999999999,
+          "wikipedia": 26.285714285714285
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1703857142857143,
+          "wikipedia": 35.666666666666664
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.761299999999999,
+          "wikipedia": 356544.3333333333
+        }
+      },
+      "regions": {
+        "latin_america": 9.61,
+        "north_america": 50.5,
+        "asia_pacific": 50.5,
+        "middle_east": 17.8,
+        "africa": 50.5,
+        "europe": 50.43
+      }
+    },
+    {
+      "week_start": "2025-03-10",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0004,
+          "wikipedia": 448075.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.7120599999999999,
+          "wikipedia": 168047.625
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.44314285714285717,
+          "wikipedia": 45077.8
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06555000000000001,
+          "wikipedia": 28.428571428571427
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1731714285714286,
+          "wikipedia": 25.916666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.609166666666668,
+          "wikipedia": 298726.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 10.82,
+        "north_america": 35.4,
+        "asia_pacific": 35.39,
+        "middle_east": 9.91,
+        "africa": 35.39,
+        "europe": 35.27
+      }
+    },
+    {
+      "week_start": "2025-03-17",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0003,
+          "wikipedia": 418903.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6795000000000001,
+          "wikipedia": 157110.5
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3558857142857143,
+          "wikipedia": 42126.2
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.08105,
+          "wikipedia": 33.57142857142857
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.15281428571428574,
+          "wikipedia": 30.083333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.363700000000001,
+          "wikipedia": 279280.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 13.76,
+        "north_america": 30.32,
+        "asia_pacific": 30.31,
+        "middle_east": 13.27,
+        "africa": 30.31,
+        "europe": 30.17
+      }
+    },
+    {
+      "week_start": "2025-03-24",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0005,
+          "wikipedia": 418105.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6646799999999999,
+          "wikipedia": 156836.375
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.39637142857142854,
+          "wikipedia": 42044.5
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.08476666666666667,
+          "wikipedia": 28.428571428571427
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.14780000000000001,
+          "wikipedia": 19.166666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.761500000000001,
+          "wikipedia": 278746.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 10.84,
+        "north_america": 30.18,
+        "asia_pacific": 30.19,
+        "middle_east": 4.43,
+        "africa": 30.18,
+        "europe": 30.03
+      }
+    },
+    {
+      "week_start": "2025-03-31",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00285,
+          "wikipedia": 382449.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.87522,
+          "wikipedia": 143472.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.4244714285714286,
+          "wikipedia": 38446.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.09743333333333333,
+          "wikipedia": 25.857142857142858
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.19301428571428572,
+          "wikipedia": 21.25
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.9235,
+          "wikipedia": 254974.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 9.38,
+        "north_america": 23.97,
+        "asia_pacific": 23.98,
+        "middle_east": 6.15,
+        "africa": 23.97,
+        "europe": 23.81
+      }
+    },
+    {
+      "week_start": "2025-04-07",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00455,
+          "wikipedia": 388190.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 1.14846,
+          "wikipedia": 145624.5
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.4461,
+          "wikipedia": 39009.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.1007,
+          "wikipedia": 30.571428571428573
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.21227142857142858,
+          "wikipedia": 28.333333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 7.060700000000001,
+          "wikipedia": 258803.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 12.07,
+        "north_america": 24.97,
+        "asia_pacific": 24.98,
+        "middle_east": 11.9,
+        "africa": 24.97,
+        "europe": 24.78
+      }
+    },
+    {
+      "week_start": "2025-04-14",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00245,
+          "wikipedia": 372961.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 1.40488,
+          "wikipedia": 139908.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.39558571428571426,
+          "wikipedia": 37454.4
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.0702,
+          "wikipedia": 58.714285714285715
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.19541428571428573,
+          "wikipedia": 21.583333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.376,
+          "wikipedia": 248662.0
+        }
+      },
+      "regions": {
+        "latin_america": 28.08,
+        "north_america": 22.32,
+        "asia_pacific": 22.33,
+        "middle_east": 6.42,
+        "africa": 22.31,
+        "europe": 22.1
+      }
+    },
+    {
+      "week_start": "2025-04-21",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00235,
+          "wikipedia": 380505.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.90608,
+          "wikipedia": 126886.11111111111
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.33735714285714286,
+          "wikipedia": 38207.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06551666666666667,
+          "wikipedia": 38.57142857142857
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.16517142857142858,
+          "wikipedia": 26.916666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.490266666666667,
+          "wikipedia": 253683.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 16.6,
+        "north_america": 23.63,
+        "asia_pacific": 16.28,
+        "middle_east": 10.71,
+        "africa": 23.63,
+        "europe": 23.4
+      }
+    },
+    {
+      "week_start": "2025-04-28",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00255,
+          "wikipedia": 390622.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.7594400000000001,
+          "wikipedia": 146529.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3371857142857143,
+          "wikipedia": 39226.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.0755,
+          "wikipedia": 48.42857142857143
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.15277142857142856,
+          "wikipedia": 25.833333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.674366666666667,
+          "wikipedia": 260432.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 22.22,
+        "north_america": 25.39,
+        "asia_pacific": 25.4,
+        "middle_east": 9.83,
+        "africa": 25.39,
+        "europe": 25.16
+      }
+    },
+    {
+      "week_start": "2025-05-05",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00195,
+          "wikipedia": 427768.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.7942,
+          "wikipedia": 160463.0
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3744428571428572,
+          "wikipedia": 42942.3
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06595,
+          "wikipedia": 28.0
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1730857142857143,
+          "wikipedia": 49.0
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.044533333333334,
+          "wikipedia": 285189.0
+        }
+      },
+      "regions": {
+        "latin_america": 10.58,
+        "north_america": 31.86,
+        "asia_pacific": 31.87,
+        "middle_east": 28.59,
+        "africa": 31.86,
+        "europe": 31.58
+      }
+    },
+    {
+      "week_start": "2025-05-12",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0014,
+          "wikipedia": 404534.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.78538,
+          "wikipedia": 151733.125
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3570857142857143,
+          "wikipedia": 40597.8
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06163333333333334,
+          "wikipedia": 28.0
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.22188571428571427,
+          "wikipedia": 28.666666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.322866666666667,
+          "wikipedia": 269699.3333333333
+        }
+      },
+      "regions": {
+        "latin_america": 10.58,
+        "north_america": 27.81,
+        "asia_pacific": 27.82,
+        "middle_east": 12.17,
+        "africa": 27.81,
+        "europe": 27.53
+      }
+    },
+    {
+      "week_start": "2025-05-19",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0028,
+          "wikipedia": 352621.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.73614,
+          "wikipedia": 132263.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2974285714285715,
+          "wikipedia": 35399.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06473333333333334,
+          "wikipedia": 30.428571428571427
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.13752857142857142,
+          "wikipedia": 21.916666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.477266666666668,
+          "wikipedia": 235091.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 11.96,
+        "north_america": 18.77,
+        "asia_pacific": 18.78,
+        "middle_east": 6.65,
+        "africa": 18.77,
+        "europe": 18.54
+      }
+    },
+    {
+      "week_start": "2025-05-26",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0034999999999999996,
+          "wikipedia": 352158.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6711800000000001,
+          "wikipedia": 132117.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.28662857142857145,
+          "wikipedia": 35355.6
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06516666666666666,
+          "wikipedia": 26.428571428571427
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1321142857142857,
+          "wikipedia": 27.333333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.932933333333334,
+          "wikipedia": 234781.0
+        }
+      },
+      "regions": {
+        "latin_america": 9.69,
+        "north_america": 18.69,
+        "asia_pacific": 18.71,
+        "middle_east": 11.02,
+        "africa": 18.69,
+        "europe": 18.47
+      }
+    },
+    {
+      "week_start": "2025-06-02",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00505,
+          "wikipedia": 360492.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.70894,
+          "wikipedia": 135212.375
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3258571428571428,
+          "wikipedia": 36214.6
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06418333333333333,
+          "wikipedia": 33.857142857142854
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.15161428571428573,
+          "wikipedia": 31.0
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.535700000000001,
+          "wikipedia": 240340.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 13.92,
+        "north_america": 20.14,
+        "asia_pacific": 20.15,
+        "middle_east": 14.01,
+        "africa": 20.14,
+        "europe": 19.95
+      }
+    },
+    {
+      "week_start": "2025-06-09",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0038,
+          "wikipedia": 392460.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.63812,
+          "wikipedia": 147200.0
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.29274285714285714,
+          "wikipedia": 39496.9
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.044033333333333334,
+          "wikipedia": 43.57142857142857
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.16595714285714286,
+          "wikipedia": 34.666666666666664
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.376966666666667,
+          "wikipedia": 261655.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 19.44,
+        "north_america": 25.71,
+        "asia_pacific": 25.71,
+        "middle_east": 16.98,
+        "africa": 25.71,
+        "europe": 25.63
+      }
+    },
+    {
+      "week_start": "2025-06-16",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 409524.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 153593.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 41267.5
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 32.285714285714285
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 32.083333333333336
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 273028.0
+        }
+      },
+      "regions": {
+        "latin_america": 31.37,
+        "north_america": 100.0,
+        "asia_pacific": 100.0,
+        "middle_east": 40.72,
+        "africa": 100.0,
+        "europe": 100.0
+      }
+    },
+    {
+      "week_start": "2025-06-23",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 343366.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 147187.57142857142
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 34592.6
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 23.428571428571427
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 22.083333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": null,
+          "wikipedia": 228919.0
+        }
+      },
+      "regions": {
+        "latin_america": 21.28,
+        "north_america": 76.96,
+        "asia_pacific": 94.05,
+        "middle_east": 24.53,
+        "africa": 76.96,
+        "europe": 76.93
+      }
+    },
+    {
+      "week_start": "2025-06-30",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0461,
+          "wikipedia": 325723.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.53142,
+          "wikipedia": 122193.625
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.21577142857142853,
+          "wikipedia": 32733.4
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.04666666666666666,
+          "wikipedia": 33.857142857142854
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.10974285714285714,
+          "wikipedia": 22.666666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 3.3053000000000003,
+          "wikipedia": 217161.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 13.91,
+        "north_america": 14.09,
+        "asia_pacific": 14.1,
+        "middle_east": 7.23,
+        "africa": 14.09,
+        "europe": 13.94
+      }
+    },
+    {
+      "week_start": "2025-07-07",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.05375,
+          "wikipedia": 299534.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.78502,
+          "wikipedia": 112353.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2990428571428571,
+          "wikipedia": 30090.4
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.05840000000000001,
+          "wikipedia": 38.142857142857146
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1591857142857143,
+          "wikipedia": 31.916666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.2411,
+          "wikipedia": 199703.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 16.35,
+        "north_america": 9.53,
+        "asia_pacific": 9.53,
+        "middle_east": 14.75,
+        "africa": 9.53,
+        "europe": 9.37
+      }
+    },
+    {
+      "week_start": "2025-07-14",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0556,
+          "wikipedia": 288636.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.72402,
+          "wikipedia": 108264.75
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3016571428571428,
+          "wikipedia": 29000.5
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.05848333333333333,
+          "wikipedia": 24.571428571428573
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.13108571428571428,
+          "wikipedia": 25.0
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.1133,
+          "wikipedia": 192432.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 8.62,
+        "north_america": 7.63,
+        "asia_pacific": 7.63,
+        "middle_east": 9.13,
+        "africa": 7.63,
+        "europe": 7.49
+      }
+    },
+    {
+      "week_start": "2025-07-21",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.06315,
+          "wikipedia": 286999.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.68562,
+          "wikipedia": 107650.75
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.28944285714285717,
+          "wikipedia": 28828.2
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06555000000000001,
+          "wikipedia": 33.142857142857146
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.13215714285714286,
+          "wikipedia": 21.083333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.390133333333334,
+          "wikipedia": 191345.0
+        }
+      },
+      "regions": {
+        "latin_america": 13.51,
+        "north_america": 7.35,
+        "asia_pacific": 7.35,
+        "middle_east": 5.97,
+        "africa": 7.34,
+        "europe": 7.19
+      }
+    },
+    {
+      "week_start": "2025-07-28",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.07115,
+          "wikipedia": 290599.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.82104,
+          "wikipedia": 109006.0
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3240285714285714,
+          "wikipedia": 29209.8
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06443333333333333,
+          "wikipedia": 40.857142857142854
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.13808571428571428,
+          "wikipedia": 30.75
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.2203333333333335,
+          "wikipedia": 193748.0
+        }
+      },
+      "regions": {
+        "latin_america": 17.9,
+        "north_america": 7.97,
+        "asia_pacific": 7.98,
+        "middle_east": 13.79,
+        "africa": 7.97,
+        "europe": 7.85
+      }
+    },
+    {
+      "week_start": "2025-08-04",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.055400000000000005,
+          "wikipedia": 302722.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.8745200000000001,
+          "wikipedia": 113547.375
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2800142857142857,
+          "wikipedia": 30424.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.05711666666666667,
+          "wikipedia": 34.142857142857146
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.13442857142857143,
+          "wikipedia": 30.416666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.9657333333333336,
+          "wikipedia": 201827.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 14.07,
+        "north_america": 10.08,
+        "asia_pacific": 10.09,
+        "middle_east": 13.52,
+        "africa": 10.08,
+        "europe": 9.95
+      }
+    },
+    {
+      "week_start": "2025-08-11",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.04575,
+          "wikipedia": 330391.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.72984,
+          "wikipedia": 123928.5
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3035571428571428,
+          "wikipedia": 33219.4
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06079999999999999,
+          "wikipedia": 31.285714285714285
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.14692857142857146,
+          "wikipedia": 24.583333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.355,
+          "wikipedia": 220272.0
+        }
+      },
+      "regions": {
+        "latin_america": 12.45,
+        "north_america": 14.9,
+        "asia_pacific": 14.91,
+        "middle_east": 8.81,
+        "africa": 14.9,
+        "europe": 14.78
+      }
+    },
+    {
+      "week_start": "2025-08-18",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.03775,
+          "wikipedia": 326002.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.74794,
+          "wikipedia": 122288.75
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.29838571428571425,
+          "wikipedia": 32759.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06960000000000001,
+          "wikipedia": 37.42857142857143
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.12265714285714287,
+          "wikipedia": 33.416666666666664
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.793733333333334,
+          "wikipedia": 217348.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 15.95,
+        "north_america": 14.14,
+        "asia_pacific": 14.14,
+        "middle_east": 15.94,
+        "africa": 14.14,
+        "europe": 13.98
+      }
+    },
+    {
+      "week_start": "2025-08-25",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00225,
+          "wikipedia": 370011.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.7676000000000001,
+          "wikipedia": 138784.25
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.28572857142857144,
+          "wikipedia": 37161.7
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.07771666666666667,
+          "wikipedia": 29.428571428571427
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1276,
+          "wikipedia": 23.75
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.053833333333334,
+          "wikipedia": 246684.0
+        }
+      },
+      "regions": {
+        "latin_america": 11.4,
+        "north_america": 21.8,
+        "asia_pacific": 21.8,
+        "middle_east": 8.12,
+        "africa": 21.8,
+        "europe": 21.59
+      }
+    },
+    {
+      "week_start": "2025-09-01",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00165,
+          "wikipedia": 428147.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6905,
+          "wikipedia": 160580.5
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.31815714285714286,
+          "wikipedia": 43002.5
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.07560000000000001,
+          "wikipedia": 32.0
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1379,
+          "wikipedia": 27.5
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.699166666666667,
+          "wikipedia": 285442.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 12.86,
+        "north_america": 31.92,
+        "asia_pacific": 31.92,
+        "middle_east": 11.16,
+        "africa": 31.92,
+        "europe": 31.68
+      }
+    },
+    {
+      "week_start": "2025-09-08",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0021,
+          "wikipedia": 446785.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.77292,
+          "wikipedia": 167588.125
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2861714285714285,
+          "wikipedia": 44873.5
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.056249999999999994,
+          "wikipedia": 44.42857142857143
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.15562857142857142,
+          "wikipedia": 37.0
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 6.493799999999999,
+          "wikipedia": 297872.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 19.93,
+        "north_america": 35.17,
+        "asia_pacific": 35.18,
+        "middle_east": 18.86,
+        "africa": 35.17,
+        "europe": 34.92
+      }
+    },
+    {
+      "week_start": "2025-09-15",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0044,
+          "wikipedia": 434193.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.86128,
+          "wikipedia": 162951.25
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.3017714285714286,
+          "wikipedia": 43717.8
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.0762,
+          "wikipedia": 185.0
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.15965714285714286,
+          "wikipedia": 28.0
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.7604,
+          "wikipedia": 289486.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 100.0,
+        "north_america": 32.98,
+        "asia_pacific": 33.03,
+        "middle_east": 11.59,
+        "africa": 32.98,
+        "europe": 32.92
+      }
+    },
+    {
+      "week_start": "2025-09-22",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00545,
+          "wikipedia": 394549.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.772,
+          "wikipedia": 147989.375
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.29904285714285717,
+          "wikipedia": 39629.2
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.09386666666666665,
+          "wikipedia": 37.142857142857146
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.16219999999999998,
+          "wikipedia": 31.833333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.413733333333334,
+          "wikipedia": 263045.6666666667
+        }
+      },
+      "regions": {
+        "latin_america": 15.8,
+        "north_america": 26.07,
+        "asia_pacific": 26.08,
+        "middle_east": 14.69,
+        "africa": 26.07,
+        "europe": 25.85
+      }
+    },
+    {
+      "week_start": "2025-09-29",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0014,
+          "wikipedia": 385954.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.67276,
+          "wikipedia": 144748.25
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.26552857142857145,
+          "wikipedia": 38762.2
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06921666666666666,
+          "wikipedia": 70.14285714285714
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.14461428571428575,
+          "wikipedia": 22.833333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.805133333333333,
+          "wikipedia": 257310.0
+        }
+      },
+      "regions": {
+        "latin_america": 34.58,
+        "north_america": 24.58,
+        "asia_pacific": 24.57,
+        "middle_east": 7.39,
+        "africa": 24.58,
+        "europe": 24.36
+      }
+    },
+    {
+      "week_start": "2025-10-06",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0046,
+          "wikipedia": 340200.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.67946,
+          "wikipedia": 127589.0
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.26601428571428576,
+          "wikipedia": 34192.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.07313333333333333,
+          "wikipedia": 21.571428571428573
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.18415714285714285,
+          "wikipedia": 19.25
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.782333333333333,
+          "wikipedia": 226807.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 6.92,
+        "north_america": 16.61,
+        "asia_pacific": 16.61,
+        "middle_east": 4.53,
+        "africa": 16.61,
+        "europe": 16.46
+      }
+    },
+    {
+      "week_start": "2025-10-13",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0021,
+          "wikipedia": 333636.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.68566,
+          "wikipedia": 125132.25
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2942428571428572,
+          "wikipedia": 33577.4
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.0871,
+          "wikipedia": 32.57142857142857
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.16398571428571426,
+          "wikipedia": 19.083333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.511833333333333,
+          "wikipedia": 222436.0
+        }
+      },
+      "regions": {
+        "latin_america": 13.2,
+        "north_america": 15.47,
+        "asia_pacific": 15.46,
+        "middle_east": 4.37,
+        "africa": 15.46,
+        "europe": 15.4
+      }
+    },
+    {
+      "week_start": "2025-10-20",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00315,
+          "wikipedia": 346053.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6620000000000001,
+          "wikipedia": 129796.375
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2794714285714286,
+          "wikipedia": 34796.1
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.08691666666666668,
+          "wikipedia": 40.142857142857146
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.17284285714285713,
+          "wikipedia": 13.666666666666666
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.532266666666667,
+          "wikipedia": 230716.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 17.51,
+        "north_america": 17.63,
+        "asia_pacific": 17.63,
+        "middle_east": 0.0,
+        "africa": 17.63,
+        "europe": 17.5
+      }
+    },
+    {
+      "week_start": "2025-10-27",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.005699999999999999,
+          "wikipedia": 342385.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.72804,
+          "wikipedia": 128414.25
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2724142857142858,
+          "wikipedia": 34432.8
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.07081666666666665,
+          "wikipedia": 53.57142857142857
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1363,
+          "wikipedia": 17.75
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.864233333333334,
+          "wikipedia": 228275.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 25.15,
+        "north_america": 16.99,
+        "asia_pacific": 16.99,
+        "middle_east": 3.27,
+        "africa": 16.99,
+        "europe": 16.87
+      }
+    },
+    {
+      "week_start": "2025-11-03",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0051,
+          "wikipedia": 363425.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6664999999999999,
+          "wikipedia": 136319.25
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.25047142857142857,
+          "wikipedia": 36514.0
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.056633333333333334,
+          "wikipedia": 88.0
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.15962857142857143,
+          "wikipedia": 26.0
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.030233333333333,
+          "wikipedia": 242316.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 44.75,
+        "north_america": 20.66,
+        "asia_pacific": 20.66,
+        "middle_east": 9.97,
+        "africa": 20.65,
+        "europe": 20.47
+      }
+    },
+    {
+      "week_start": "2025-11-10",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0003,
+          "wikipedia": 346894.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6177,
+          "wikipedia": 130141.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.2458428571428571,
+          "wikipedia": 34887.9
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06823333333333333,
+          "wikipedia": 34.0
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.17707142857142857,
+          "wikipedia": 27.333333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.773366666666667,
+          "wikipedia": 231274.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 14.0,
+        "north_america": 17.78,
+        "asia_pacific": 17.79,
+        "middle_east": 11.06,
+        "africa": 17.77,
+        "europe": 17.66
+      }
+    },
+    {
+      "week_start": "2025-11-17",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00405,
+          "wikipedia": 340060.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.71074,
+          "wikipedia": 127725.25
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.27867142857142857,
+          "wikipedia": 34174.2
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.06269999999999999,
+          "wikipedia": 24.285714285714285
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1727857142857143,
+          "wikipedia": 32.666666666666664
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.167700000000001,
+          "wikipedia": 226715.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 8.46,
+        "north_america": 16.58,
+        "asia_pacific": 16.67,
+        "middle_east": 15.37,
+        "africa": 16.58,
+        "europe": 16.43
+      }
+    },
+    {
+      "week_start": "2025-11-24",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00445,
+          "wikipedia": 315653.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6881400000000001,
+          "wikipedia": 118432.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.29138571428571425,
+          "wikipedia": 31720.5
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.060733333333333334,
+          "wikipedia": 29.0
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.1258142857142857,
+          "wikipedia": 19.166666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.738466666666667,
+          "wikipedia": 210446.0
+        }
+      },
+      "regions": {
+        "latin_america": 11.15,
+        "north_america": 12.33,
+        "asia_pacific": 12.35,
+        "middle_east": 4.41,
+        "africa": 12.33,
+        "europe": 12.19
+      }
+    },
+    {
+      "week_start": "2025-12-01",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.0029,
+          "wikipedia": 339932.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6439999999999999,
+          "wikipedia": 127532.875
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.24465714285714288,
+          "wikipedia": 34154.8
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.05388333333333333,
+          "wikipedia": 25.571428571428573
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.11875714285714287,
+          "wikipedia": 24.333333333333332
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 5.115433333333333,
+          "wikipedia": 226630.0
+        }
+      },
+      "regions": {
+        "latin_america": 9.19,
+        "north_america": 16.56,
+        "asia_pacific": 16.58,
+        "middle_east": 8.59,
+        "africa": 16.56,
+        "europe": 16.39
+      }
+    },
+    {
+      "week_start": "2025-12-08",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00275,
+          "wikipedia": 352627.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.6852,
+          "wikipedia": 132272.625
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.26671428571428574,
+          "wikipedia": 35416.4
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.061766666666666664,
+          "wikipedia": 14.285714285714286
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.13917142857142856,
+          "wikipedia": 119.91666666666667
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.838866666666667,
+          "wikipedia": 235089.33333333334
+        }
+      },
+      "regions": {
+        "latin_america": 2.77,
+        "north_america": 18.77,
+        "asia_pacific": 18.78,
+        "middle_east": 85.93,
+        "africa": 18.77,
+        "europe": 18.57
+      }
+    },
+    {
+      "week_start": "2025-12-15",
+      "components": {
+        "africa": {
+          "google_trends": null,
+          "gdelt": 0.00195,
+          "wikipedia": 269342.0
+        },
+        "asia_pacific": {
+          "google_trends": null,
+          "gdelt": 0.5654399999999999,
+          "wikipedia": 101031.375
+        },
+        "europe": {
+          "google_trends": null,
+          "gdelt": 0.23567142857142856,
+          "wikipedia": 27029.3
+        },
+        "latin_america": {
+          "google_trends": null,
+          "gdelt": 0.05865000000000001,
+          "wikipedia": 9.428571428571429
+        },
+        "middle_east": {
+          "google_trends": null,
+          "gdelt": 0.11375714285714286,
+          "wikipedia": 21.416666666666668
+        },
+        "north_america": {
+          "google_trends": null,
+          "gdelt": 4.715766666666666,
+          "wikipedia": 179564.66666666666
+        }
+      },
+      "regions": {
+        "latin_america": 0.0,
+        "north_america": 4.27,
+        "asia_pacific": 4.27,
+        "middle_east": 6.22,
+        "africa": 4.27,
+        "europe": 4.08
+      }
+    }
+  ]
+}

@@ -1,0 +1,3775 @@
+{
+  "metadata": {
+    "version": "3.0",
+    "last_updated": "2025-12-19",
+    "sources": [
+      "unified_data.json",
+      "events-database.js",
+      "events.json",
+      "weekly_trends.json"
+    ],
+    "total_events": 177
+  },
+  "events": [
+    {
+      "id": "iraq_war_2003",
+      "date": "2003-03-20",
+      "name": "Iraq War Invasion",
+      "description": "US-led invasion of Iraq without UN Security Council approval",
+      "regions": [
+        "Europe",
+        "Middle East",
+        "Global"
+      ],
+      "impact_score": 85,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Germany",
+        "France",
+        "United Kingdom",
+        "Spain",
+        "Turkey"
+      ],
+      "polling_evidence": "France favorability dropped to 31%, Germany to historic lows, UK 58%",
+      "google_trends": "Massive spike in 'anti-American' searches globally",
+      "tags": [
+        "War",
+        "Unilateralism",
+        "WMD"
+      ],
+      "week": 12
+    },
+    {
+      "id": "abu_ghraib_2004",
+      "date": "2004-04-28",
+      "name": "Abu Ghraib Scandal",
+      "description": "Public revelation of torture and abuse of Iraqi prisoners by US military personnel",
+      "regions": [
+        "Middle East",
+        "Europe",
+        "Global"
+      ],
+      "impact_score": 75,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Iraq",
+        "Turkey",
+        "Egypt",
+        "Jordan",
+        "Germany",
+        "France"
+      ],
+      "polling_evidence": "Further deterioration of US image in Europe and Middle East",
+      "tags": [
+        "Human Rights",
+        "Torture",
+        "War Crimes"
+      ],
+      "week": 18
+    },
+    {
+      "id": "guantanamo_2002",
+      "date": "2002-01-11",
+      "name": "Guantanamo Bay Detention Facility Opened",
+      "description": "First detainees arrived at Guantanamo Bay detention camp",
+      "regions": [
+        "Europe",
+        "Latin America",
+        "Global"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Germany",
+        "France",
+        "United Kingdom",
+        "Cuba"
+      ],
+      "polling_evidence": "Ongoing symbol of US human rights violations",
+      "tags": [
+        "Human Rights",
+        "Detention",
+        "War on Terror"
+      ],
+      "week": 2
+    },
+    {
+      "id": "snowden_2013",
+      "date": "2013-06-06",
+      "name": "Snowden NSA Revelations",
+      "description": "Edward Snowden revealed NSA mass surveillance programs including spying on allies",
+      "regions": [
+        "Europe",
+        "Latin America",
+        "Asia-Pacific"
+      ],
+      "impact_score": 80,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Germany",
+        "France",
+        "Brazil",
+        "Mexico"
+      ],
+      "polling_evidence": "Widespread disapproval in Germany, calls for digital sovereignty",
+      "tags": [
+        "Surveillance",
+        "Privacy",
+        "Espionage"
+      ],
+      "week": 23
+    },
+    {
+      "id": "guatemala_coup_1954",
+      "date": "1954-06-18",
+      "name": "Guatemalan Coup d'\u00c9tat",
+      "description": "CIA-backed overthrow of democratically elected President Jacobo \u00c1rbenz",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 75,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Guatemala",
+        "Nicaragua",
+        "El Salvador",
+        "Honduras"
+      ],
+      "polling_evidence": "Decades of civil war, foundational anti-American sentiment in Central America",
+      "tags": [
+        "Coup",
+        "Cold War",
+        "United Fruit Company"
+      ],
+      "week": 24
+    },
+    {
+      "id": "chile_coup_1973",
+      "date": "1973-09-11",
+      "name": "Chilean Coup d'\u00c9tat",
+      "description": "US-backed military coup ousting President Salvador Allende",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 85,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Chile",
+        "Argentina",
+        "Uruguay",
+        "Brazil"
+      ],
+      "polling_evidence": "Primary example in anti-American rhetoric across Latin America",
+      "tags": [
+        "Coup",
+        "Cold War",
+        "Human Rights",
+        "Pinochet"
+      ],
+      "week": 37
+    },
+    {
+      "id": "nicaragua_contras_1980s",
+      "date": "1981-01-01",
+      "name": "Nicaragua Contra War",
+      "description": "US backing of Contra rebels against Sandinista government, Iran-Contra scandal",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Nicaragua",
+        "Honduras",
+        "El Salvador",
+        "Costa Rica"
+      ],
+      "polling_evidence": "Civilian deaths, destabilization, drug trafficking linkages",
+      "tags": [
+        "Intervention",
+        "Iran-Contra",
+        "Drug War"
+      ],
+      "week": 1
+    },
+    {
+      "id": "afghanistan_withdrawal_2021",
+      "date": "2021-08-30",
+      "name": "Afghanistan Withdrawal",
+      "description": "Chaotic US military withdrawal from Afghanistan after 20 years",
+      "regions": [
+        "Europe",
+        "Asia-Pacific",
+        "Global"
+      ],
+      "impact_score": 60,
+      "sentiment_direction": "MixedNegative",
+      "affected_countries": [
+        "Afghanistan",
+        "Pakistan",
+        "United Kingdom",
+        "Germany"
+      ],
+      "polling_evidence": "Questions about US reliability, humanitarian crisis",
+      "tags": [
+        "Withdrawal",
+        "Taliban",
+        "Refugees"
+      ],
+      "week": 35
+    },
+    {
+      "id": "drone_kabul_2021",
+      "date": "2021-08-29",
+      "name": "Kabul Drone Strike (Civilian Casualties)",
+      "description": "US drone strike killed 10 Afghan civilians including 7 children, erroneously believed to be ISIS-K",
+      "regions": [
+        "Middle East",
+        "Asia-Pacific"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "polling_evidence": "Criticism of 'over-the-horizon' capabilities",
+      "tags": [
+        "Drone Strikes",
+        "Civilian Casualties"
+      ],
+      "week": 34
+    },
+    {
+      "id": "gaza_war_2023",
+      "date": "2023-10-07",
+      "name": "Gaza War - US Support for Israel",
+      "description": "Unwavering US diplomatic and military support for Israel during Gaza conflict",
+      "regions": [
+        "Middle East",
+        "Europe",
+        "Latin America",
+        "Global"
+      ],
+      "impact_score": 90,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Tunisia",
+        "Turkey",
+        "Egypt",
+        "Jordan",
+        "South Africa",
+        "Brazil",
+        "Ireland"
+      ],
+      "polling_evidence": "Net Israel favorability dropped 18.5 points in 42/43 countries, US seen as complicit",
+      "google_trends": "Spike in 'Gaza genocide' and 'US Israel' searches",
+      "tags": [
+        "Israel",
+        "Gaza",
+        "Human Rights",
+        "Humanitarian Crisis"
+      ],
+      "week": 40
+    },
+    {
+      "id": "trump_muslim_ban_2017",
+      "date": "2017-01-27",
+      "name": "Travel Ban (Muslim Ban)",
+      "description": "Executive order banning travel from several Muslim-majority countries",
+      "regions": [
+        "Middle East",
+        "Asia-Pacific"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Iran",
+        "Iraq",
+        "Libya",
+        "Somalia",
+        "Sudan",
+        "Syria",
+        "Yemen"
+      ],
+      "polling_evidence": "Sharp decline in US favorability in Muslim-majority nations",
+      "tags": [
+        "Immigration",
+        "Islamophobia",
+        "Executive Order"
+      ],
+      "week": 4
+    },
+    {
+      "id": "trump_border_wall_2017",
+      "date": "2017-01-25",
+      "name": "Border Wall Executive Order",
+      "description": "Executive order for construction of border wall with Mexico",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 75,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "Mexico"
+      ],
+      "polling_evidence": "Mexico favorability dropped from 66% (2015) to 30% (2017)",
+      "tags": [
+        "Immigration",
+        "Border Security",
+        "Mexico Relations"
+      ],
+      "week": 4
+    },
+    {
+      "id": "paris_accord_withdrawal_2017",
+      "date": "2017-06-01",
+      "name": "Paris Climate Accord Withdrawal",
+      "description": "US withdrew from the Paris Agreement on climate change",
+      "regions": [
+        "Europe",
+        "Global"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "affected_countries": [
+        "France",
+        "Germany",
+        "Netherlands",
+        "Sweden",
+        "Denmark"
+      ],
+      "polling_evidence": "Decline in European trust of US leadership on global issues",
+      "tags": [
+        "Climate Change",
+        "Multilateralism",
+        "Environment"
+      ],
+      "week": 22
+    },
+    {
+      "id": "biden_inauguration_2021",
+      "date": "2021-01-20",
+      "name": "Biden Inauguration",
+      "description": "Transition from Trump to Biden administration",
+      "regions": [
+        "Europe",
+        "Asia-Pacific",
+        "Latin America",
+        "Global"
+      ],
+      "impact_score": -75,
+      "sentiment_direction": "Positive",
+      "affected_countries": [
+        "Germany",
+        "France",
+        "United Kingdom",
+        "Canada",
+        "Japan",
+        "South Korea"
+      ],
+      "polling_evidence": "Median 75% confidence in Biden vs 17% for Trump in 12 nations, 40+ point swing",
+      "tags": [
+        "Leadership Change",
+        "Restoration of Alliances"
+      ],
+      "week": 3
+    },
+    {
+      "id": "ukraine_support_2022",
+      "date": "2022-02-24",
+      "name": "Ukraine War Support",
+      "description": "Strong US support for Ukraine following Russian invasion",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": -60,
+      "sentiment_direction": "Positive",
+      "affected_countries": [
+        "Poland",
+        "Ukraine",
+        "Baltic States",
+        "Czech Republic"
+      ],
+      "polling_evidence": "Poland favorability reached 93% in 2023, highest ever",
+      "tags": [
+        "Ukraine",
+        "NATO",
+        "Russian Aggression",
+        "Security"
+      ],
+      "week": 8
+    },
+    {
+      "id": "evt_001",
+      "name": "New Year Global Markets Open",
+      "date": "2025-01-01",
+      "description": "New Year Global Markets Open (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "markets",
+        "global"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 1
+    },
+    {
+      "id": "evt_002",
+      "name": "College Football Playoff Final",
+      "date": "2025-01-01",
+      "description": "College Football Playoff Final (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "football",
+        "ncaa"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 1
+    },
+    {
+      "id": "evt_003",
+      "name": "LA Wildfires Emergency",
+      "date": "2025-01-08",
+      "description": "LA Wildfires Emergency (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 75,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "disaster",
+        "california",
+        "climate"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 2
+    },
+    {
+      "id": "evt_004",
+      "name": "Australian Open Tennis",
+      "date": "2025-01-08",
+      "description": "Australian Open Tennis (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tennis",
+        "grand-slam"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 2
+    },
+    {
+      "id": "evt_005",
+      "name": "Trump Inauguration",
+      "date": "2025-01-15",
+      "description": "Trump Inauguration (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 85,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "us-politics",
+        "inauguration",
+        "trump"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 3
+    },
+    {
+      "id": "evt_006",
+      "name": "Day 1 Executive Orders",
+      "date": "2025-01-15",
+      "description": "Day 1 Executive Orders (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "us-politics",
+        "executive-orders"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 3
+    },
+    {
+      "id": "evt_007",
+      "name": "Paris Agreement Withdrawal Announced",
+      "date": "2025-01-15",
+      "description": "Paris Agreement Withdrawal Announced (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "climate",
+        "treaties"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 3
+    },
+    {
+      "id": "evt_008",
+      "name": "WHO Withdrawal Announced",
+      "date": "2025-01-15",
+      "description": "WHO Withdrawal Announced (Friction)",
+      "category": "Health",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "who",
+        "international"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 3
+    },
+    {
+      "id": "evt_009",
+      "name": "WEF Davos 2025",
+      "date": "2025-01-22",
+      "description": "WEF Davos 2025 (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "davos",
+        "wef",
+        "global-economy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 4
+    },
+    {
+      "id": "evt_010",
+      "name": "Fentanyl Tariff Threat",
+      "date": "2025-01-22",
+      "description": "Fentanyl Tariff Threat (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tariffs",
+        "china",
+        "drugs"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 4
+    },
+    {
+      "id": "evt_011",
+      "name": "Development Policy Shift",
+      "date": "2025-01-22",
+      "description": "Development Policy Shift (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "foreign-aid",
+        "usaid"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 4
+    },
+    {
+      "id": "evt_013",
+      "name": "Remain in Mexico Policy",
+      "date": "2025-01-29",
+      "description": "Remain in Mexico Policy (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "immigration",
+        "mexico",
+        "border"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 5
+    },
+    {
+      "id": "evt_014",
+      "name": "China Tariffs (10%)",
+      "date": "2025-01-29",
+      "description": "China Tariffs (10%) (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 60,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tariffs",
+        "china",
+        "trade-war"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 5
+    },
+    {
+      "id": "evt_015",
+      "name": "EU AI Act General Provisions",
+      "date": "2025-01-29",
+      "description": "EU AI Act General Provisions (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "ai",
+        "regulation",
+        "eu"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 5
+    },
+    {
+      "id": "evt_016",
+      "name": "Valentine's Day",
+      "date": "2025-02-05",
+      "description": "Valentine's Day (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "consumer"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 6
+    },
+    {
+      "id": "evt_017",
+      "name": "DOGE Cost-Cutting Begins",
+      "date": "2025-02-05",
+      "description": "DOGE Cost-Cutting Begins (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "doge",
+        "government",
+        "spending"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 6
+    },
+    {
+      "id": "evt_018",
+      "name": "Lunar New Year",
+      "date": "2025-02-05",
+      "description": "Lunar New Year (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "asia",
+        "chinese-new-year"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 6
+    },
+    {
+      "id": "evt_019",
+      "name": "NATO Spending Ultimatum",
+      "date": "2025-02-12",
+      "description": "NATO Spending Ultimatum (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "nato",
+        "defense",
+        "europe"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 7
+    },
+    {
+      "id": "evt_020",
+      "name": "Ukraine Peace Talks Stall",
+      "date": "2025-02-12",
+      "description": "Ukraine Peace Talks Stall (Friction)",
+      "category": "Conflict",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "ukraine",
+        "russia",
+        "war"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 7
+    },
+    {
+      "id": "evt_021",
+      "name": "Indonesia Youth Protests",
+      "date": "2025-02-12",
+      "description": "Indonesia Youth Protests (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "protests",
+        "indonesia"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 7
+    },
+    {
+      "id": "evt_022",
+      "name": "Oscars 2025",
+      "date": "2025-02-19",
+      "description": "Oscars 2025 (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "entertainment",
+        "awards",
+        "film"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 8
+    },
+    {
+      "id": "evt_023",
+      "name": "Federal Reserve Rate Decision",
+      "date": "2025-02-19",
+      "description": "Federal Reserve Rate Decision (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "fed",
+        "interest-rates",
+        "monetary-policy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 8
+    },
+    {
+      "id": "evt_025",
+      "name": "Market Correction",
+      "date": "2025-02-26",
+      "description": "Market Correction (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "stocks",
+        "correction",
+        "volatility"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 9
+    },
+    {
+      "id": "evt_026",
+      "name": "Visa Restrictions Expanded",
+      "date": "2025-03-05",
+      "description": "Visa Restrictions Expanded (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "immigration",
+        "visas",
+        "travel"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 10
+    },
+    {
+      "id": "evt_027",
+      "name": "SXSW 2025",
+      "date": "2025-03-05",
+      "description": "SXSW 2025 (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "conference",
+        "tech",
+        "music"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 10
+    },
+    {
+      "id": "evt_028",
+      "name": "March Madness Begins",
+      "date": "2025-03-12",
+      "description": "March Madness Begins (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "basketball",
+        "ncaa",
+        "tournament"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 11
+    },
+    {
+      "id": "evt_029",
+      "name": "USAID Dissolution Announced",
+      "date": "2025-03-12",
+      "description": "USAID Dissolution Announced (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 75,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "usaid",
+        "foreign-aid"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 11
+    },
+    {
+      "id": "evt_030",
+      "name": "Tariff Announcement Phase 2",
+      "date": "2025-03-19",
+      "description": "Tariff Announcement Phase 2 (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tariffs",
+        "trade-war"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 12
+    },
+    {
+      "id": "evt_031",
+      "name": "Champions League Quarterfinals",
+      "date": "2025-03-19",
+      "description": "Champions League Quarterfinals (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "soccer",
+        "champions-league"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 12
+    },
+    {
+      "id": "evt_032",
+      "name": "USAID Freeze Takes Effect",
+      "date": "2025-03-26",
+      "description": "USAID Freeze Takes Effect (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 80,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "usaid",
+        "foreign-aid"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 13
+    },
+    {
+      "id": "evt_033",
+      "name": "Easter 2025",
+      "date": "2025-03-26",
+      "description": "Easter 2025 (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "religious"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 13
+    },
+    {
+      "id": "evt_035",
+      "name": "Tax Day",
+      "date": "2025-04-02",
+      "description": "Tax Day (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "taxes",
+        "us-economy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 14
+    },
+    {
+      "id": "evt_036",
+      "name": "Tariff Pause (90 days)",
+      "date": "2025-04-09",
+      "description": "Tariff Pause (90 days) (Alignment)",
+      "category": "Economic",
+      "type": "alignment",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 60,
+      "sentiment_direction": "Positive",
+      "tags": [
+        "tariffs",
+        "trade-war"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 15
+    },
+    {
+      "id": "evt_037",
+      "name": "China Retaliation Tariffs",
+      "date": "2025-04-09",
+      "description": "China Retaliation Tariffs (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 80,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tariffs",
+        "china",
+        "trade-war"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 15
+    },
+    {
+      "id": "evt_038",
+      "name": "Earth Day 2025",
+      "date": "2025-04-09",
+      "description": "Earth Day 2025 (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "environment",
+        "climate"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 15
+    },
+    {
+      "id": "evt_039",
+      "name": "Market Volatility Peak",
+      "date": "2025-04-16",
+      "description": "Market Volatility Peak (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 75,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "stocks",
+        "volatility",
+        "markets"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 16
+    },
+    {
+      "id": "evt_040",
+      "name": "Kentucky Derby",
+      "date": "2025-04-16",
+      "description": "Kentucky Derby (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "horse-racing"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 16
+    },
+    {
+      "id": "evt_041",
+      "name": "Mother's Day",
+      "date": "2025-04-23",
+      "description": "Mother's Day (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "consumer"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 17
+    },
+    {
+      "id": "evt_042",
+      "name": "EU-US Trade Talks Begin",
+      "date": "2025-04-23",
+      "description": "EU-US Trade Talks Begin (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "trade",
+        "eu",
+        "negotiations"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 17
+    },
+    {
+      "id": "evt_044",
+      "name": "NATO Defense Summit",
+      "date": "2025-04-30",
+      "description": "NATO Defense Summit (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "nato",
+        "defense",
+        "military"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 18
+    },
+    {
+      "id": "evt_045",
+      "name": "Memorial Day",
+      "date": "2025-05-07",
+      "description": "Memorial Day (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "us-holiday"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 19
+    },
+    {
+      "id": "evt_046",
+      "name": "Eurovision 2025",
+      "date": "2025-05-07",
+      "description": "Eurovision 2025 (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "music",
+        "entertainment",
+        "europe"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 19
+    },
+    {
+      "id": "evt_047",
+      "name": "Trump MENA Visit",
+      "date": "2025-05-14",
+      "description": "Trump MENA Visit (Alignment)",
+      "category": "Political",
+      "type": "alignment",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Positive",
+      "tags": [
+        "diplomacy",
+        "middle-east",
+        "trump"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 20
+    },
+    {
+      "id": "evt_048",
+      "name": "USAID OIG Report",
+      "date": "2025-05-14",
+      "description": "USAID OIG Report (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 60,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "usaid",
+        "investigation"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 20
+    },
+    {
+      "id": "evt_049",
+      "name": "Hurricane Season Begins",
+      "date": "2025-05-14",
+      "description": "Hurricane Season Begins (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "weather",
+        "hurricanes"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 20
+    },
+    {
+      "id": "evt_050",
+      "name": "French Open Tennis",
+      "date": "2025-05-21",
+      "description": "French Open Tennis (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tennis",
+        "grand-slam"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 21
+    },
+    {
+      "id": "evt_051",
+      "name": "Gaza Ceasefire Talks",
+      "date": "2025-05-21",
+      "description": "Gaza Ceasefire Talks (Friction)",
+      "category": "Conflict",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "gaza",
+        "israel",
+        "ceasefire"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 21
+    },
+    {
+      "id": "evt_052",
+      "name": "Father's Day",
+      "date": "2025-05-28",
+      "description": "Father's Day (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "consumer"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 22
+    },
+    {
+      "id": "evt_053",
+      "name": "NBA Finals Begin",
+      "date": "2025-05-28",
+      "description": "NBA Finals Begin (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "basketball",
+        "nba",
+        "finals"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 22
+    },
+    {
+      "id": "evt_055",
+      "name": "Juneteenth",
+      "date": "2025-06-04",
+      "description": "Juneteenth (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "us-holiday"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 23
+    },
+    {
+      "id": "evt_056",
+      "name": "Pew Survey: US Image Abroad",
+      "date": "2025-06-11",
+      "description": "Pew Survey: US Image Abroad (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 60,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "polling",
+        "diplomacy",
+        "image"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 24
+    },
+    {
+      "id": "evt_057",
+      "name": "G7 Summit Canada",
+      "date": "2025-06-11",
+      "description": "G7 Summit Canada (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "g7",
+        "summit",
+        "diplomacy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 24
+    },
+    {
+      "id": "evt_058",
+      "name": "4th of July Week",
+      "date": "2025-06-11",
+      "description": "4th of July Week (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "us-holiday"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 24
+    },
+    {
+      "id": "evt_059",
+      "name": "Amazon Prime Day",
+      "date": "2025-06-18",
+      "description": "Amazon Prime Day (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "retail",
+        "ecommerce",
+        "amazon"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 25
+    },
+    {
+      "id": "evt_060",
+      "name": "Wimbledon Begins",
+      "date": "2025-06-18",
+      "description": "Wimbledon Begins (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tennis",
+        "grand-slam"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 25
+    },
+    {
+      "id": "evt_061",
+      "name": "NATO Summit The Hague",
+      "date": "2025-06-25",
+      "description": "NATO Summit The Hague (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 75,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "nato",
+        "summit",
+        "defense"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 26
+    },
+    {
+      "id": "evt_062",
+      "name": "Texas Floods",
+      "date": "2025-06-25",
+      "description": "Texas Floods (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "disaster",
+        "flooding",
+        "texas"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 26
+    },
+    {
+      "id": "evt_063",
+      "name": "Tour de France Begins",
+      "date": "2025-06-25",
+      "description": "Tour de France Begins (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "cycling",
+        "tour-de-france"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 26
+    },
+    {
+      "id": "evt_065",
+      "name": "Q2 Earnings Season",
+      "date": "2025-07-02",
+      "description": "Q2 Earnings Season (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "earnings",
+        "stocks",
+        "quarterly"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 27
+    },
+    {
+      "id": "evt_066",
+      "name": "Summer Olympics Paris",
+      "date": "2025-07-09",
+      "description": "Summer Olympics Paris (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "olympics",
+        "paris",
+        "global-sports"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 28
+    },
+    {
+      "id": "evt_067",
+      "name": "Tariff Letters Sent",
+      "date": "2025-07-09",
+      "description": "Tariff Letters Sent (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tariffs",
+        "trade-war"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 28
+    },
+    {
+      "id": "evt_068",
+      "name": "Olympics Continue",
+      "date": "2025-07-16",
+      "description": "Olympics Continue (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "olympics",
+        "global-sports"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 29
+    },
+    {
+      "id": "evt_069",
+      "name": "Federal Reserve Meeting",
+      "date": "2025-07-16",
+      "description": "Federal Reserve Meeting (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "fed",
+        "interest-rates"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 29
+    },
+    {
+      "id": "evt_070",
+      "name": "UN Global Compact 25th Anniversary",
+      "date": "2025-07-23",
+      "description": "UN Global Compact 25th Anniversary (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "un",
+        "anniversary",
+        "global"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 30
+    },
+    {
+      "id": "evt_071",
+      "name": "Back to School Begins",
+      "date": "2025-07-23",
+      "description": "Back to School Begins (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "education",
+        "consumer",
+        "retail"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 30
+    },
+    {
+      "id": "evt_073",
+      "name": "Back to School Peak",
+      "date": "2025-07-30",
+      "description": "Back to School Peak (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "education",
+        "retail"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 31
+    },
+    {
+      "id": "evt_074",
+      "name": "WEF Trade Report",
+      "date": "2025-08-06",
+      "description": "WEF Trade Report (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "wef",
+        "trade",
+        "report"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 32
+    },
+    {
+      "id": "evt_075",
+      "name": "Hurricane Season Peak",
+      "date": "2025-08-06",
+      "description": "Hurricane Season Peak (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "hurricanes",
+        "weather",
+        "disaster"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 32
+    },
+    {
+      "id": "evt_076",
+      "name": "China Trade Truce Extension",
+      "date": "2025-08-13",
+      "description": "China Trade Truce Extension (Alignment)",
+      "category": "Economic",
+      "type": "alignment",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Positive",
+      "tags": [
+        "china",
+        "trade",
+        "tariffs"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 33
+    },
+    {
+      "id": "evt_077",
+      "name": "Labor Day Weekend",
+      "date": "2025-08-13",
+      "description": "Labor Day Weekend (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "us-holiday"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 33
+    },
+    {
+      "id": "evt_078",
+      "name": "US Open Tennis",
+      "date": "2025-08-20",
+      "description": "US Open Tennis (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tennis",
+        "grand-slam"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 34
+    },
+    {
+      "id": "evt_079",
+      "name": "Apple Event",
+      "date": "2025-08-20",
+      "description": "Apple Event (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "apple",
+        "iphone",
+        "tech-event"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 34
+    },
+    {
+      "id": "evt_080",
+      "name": "College Football Season Opens",
+      "date": "2025-08-27",
+      "description": "College Football Season Opens (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "football",
+        "ncaa"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 35
+    },
+    {
+      "id": "evt_081",
+      "name": "Diwali 2025",
+      "date": "2025-08-27",
+      "description": "Diwali 2025 (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "india",
+        "religious"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 35
+    },
+    {
+      "id": "evt_083",
+      "name": "Bundesliga Season",
+      "date": "2025-09-03",
+      "description": "Bundesliga Season (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "soccer",
+        "bundesliga"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 36
+    },
+    {
+      "id": "evt_084",
+      "name": "UN General Assembly",
+      "date": "2025-09-10",
+      "description": "UN General Assembly (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "un",
+        "unga",
+        "diplomacy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 37
+    },
+    {
+      "id": "evt_085",
+      "name": "MLB Playoffs Begin",
+      "date": "2025-09-10",
+      "description": "MLB Playoffs Begin (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "baseball",
+        "mlb",
+        "playoffs"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 37
+    },
+    {
+      "id": "evt_086",
+      "name": "US-China Deal Announced",
+      "date": "2025-09-17",
+      "description": "US-China Deal Announced (Alignment)",
+      "category": "Economic",
+      "type": "alignment",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 72,
+      "sentiment_direction": "Positive",
+      "tags": [
+        "china",
+        "trade",
+        "deal"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 38
+    },
+    {
+      "id": "evt_087",
+      "name": "October Prime Day",
+      "date": "2025-09-17",
+      "description": "October Prime Day (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "retail",
+        "amazon",
+        "ecommerce"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 38
+    },
+    {
+      "id": "evt_088",
+      "name": "Global Tariff Increase Confirmed",
+      "date": "2025-09-17",
+      "description": "Global Tariff Increase Confirmed (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tariffs",
+        "trade-war"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 38
+    },
+    {
+      "id": "evt_089",
+      "name": "UNGA High-Level Week",
+      "date": "2025-09-24",
+      "description": "UNGA High-Level Week (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "un",
+        "unga",
+        "diplomacy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 39
+    },
+    {
+      "id": "evt_090",
+      "name": "Oktoberfest 2025",
+      "date": "2025-09-24",
+      "description": "Oktoberfest 2025 (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "festival",
+        "germany",
+        "beer"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 39
+    },
+    {
+      "id": "evt_092",
+      "name": "Q3 Earnings Season",
+      "date": "2025-10-01",
+      "description": "Q3 Earnings Season (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "earnings",
+        "stocks"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 40
+    },
+    {
+      "id": "evt_093",
+      "name": "Halloween",
+      "date": "2025-10-08",
+      "description": "Halloween (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "consumer"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 41
+    },
+    {
+      "id": "evt_094",
+      "name": "Cricket World Cup",
+      "date": "2025-10-08",
+      "description": "Cricket World Cup (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 35,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "cricket",
+        "world-cup"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 41
+    },
+    {
+      "id": "evt_095",
+      "name": "World Series",
+      "date": "2025-10-15",
+      "description": "World Series (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "baseball",
+        "mlb",
+        "world-series"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 42
+    },
+    {
+      "id": "evt_096",
+      "name": "Wicked Movie Release",
+      "date": "2025-10-15",
+      "description": "Wicked Movie Release (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "entertainment",
+        "film"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 42
+    },
+    {
+      "id": "evt_097",
+      "name": "USAID Dissolution Complete",
+      "date": "2025-10-22",
+      "description": "USAID Dissolution Complete (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 65,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "usaid",
+        "foreign-aid"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 43
+    },
+    {
+      "id": "evt_098",
+      "name": "Government Shutdown",
+      "date": "2025-10-22",
+      "description": "Government Shutdown (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "shutdown",
+        "budget",
+        "congress"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 43
+    },
+    {
+      "id": "evt_099",
+      "name": "Election Day 2025",
+      "date": "2025-10-29",
+      "description": "Election Day 2025 (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "elections",
+        "voting"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 44
+    },
+    {
+      "id": "evt_100",
+      "name": "Tanzania Election Protests",
+      "date": "2025-10-29",
+      "description": "Tanzania Election Protests (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "protests",
+        "africa",
+        "elections"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 44
+    },
+    {
+      "id": "evt_102",
+      "name": "ATP Finals",
+      "date": "2025-11-05",
+      "description": "ATP Finals (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tennis",
+        "atp"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 45
+    },
+    {
+      "id": "evt_103",
+      "name": "Premier League Midseason",
+      "date": "2025-11-05",
+      "description": "Premier League Midseason (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "soccer",
+        "premier-league"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 45
+    },
+    {
+      "id": "evt_104",
+      "name": "COP30 in Bel\u00e9m",
+      "date": "2025-11-12",
+      "description": "COP30 in Bel\u00e9m (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 80,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "climate",
+        "cop",
+        "brazil"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 46
+    },
+    {
+      "id": "evt_105",
+      "name": "El Salvador Deal",
+      "date": "2025-11-12",
+      "description": "El Salvador Deal (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "el-salvador",
+        "central-america"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 46
+    },
+    {
+      "id": "evt_106",
+      "name": "Thanksgiving 2025",
+      "date": "2025-11-19",
+      "description": "Thanksgiving 2025 (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "North America"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "us-holiday"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 47
+    },
+    {
+      "id": "evt_107",
+      "name": "Cyber Monday",
+      "date": "2025-11-19",
+      "description": "Cyber Monday (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "retail",
+        "ecommerce",
+        "shopping"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 47
+    },
+    {
+      "id": "evt_108",
+      "name": "Indonesia Protests Peak",
+      "date": "2025-11-26",
+      "description": "Indonesia Protests Peak (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 60,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "protests",
+        "indonesia"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 48
+    },
+    {
+      "id": "evt_109",
+      "name": "China Tariff Exclusions",
+      "date": "2025-11-26",
+      "description": "China Tariff Exclusions (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "china",
+        "tariffs"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 48
+    },
+    {
+      "id": "evt_110",
+      "name": "Christmas Season Begins",
+      "date": "2025-11-26",
+      "description": "Christmas Season Begins (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "christmas",
+        "retail"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 48
+    },
+    {
+      "id": "evt_112",
+      "name": "Brazil/Canada Tariffs",
+      "date": "2025-12-03",
+      "description": "Brazil/Canada Tariffs (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 85,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "tariffs",
+        "brazil",
+        "canada"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 49
+    },
+    {
+      "id": "evt_113",
+      "name": "Spotify Wrapped",
+      "date": "2025-12-03",
+      "description": "Spotify Wrapped (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "music",
+        "spotify",
+        "social"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 49
+    },
+    {
+      "id": "evt_114",
+      "name": "Hanukkah 2025",
+      "date": "2025-12-10",
+      "description": "Hanukkah 2025 (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 15,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "religious"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 50
+    },
+    {
+      "id": "evt_115",
+      "name": "Year-End Market Rally",
+      "date": "2025-12-10",
+      "description": "Year-End Market Rally (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 35,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "stocks",
+        "markets",
+        "rally"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 50
+    },
+    {
+      "id": "evt_116",
+      "name": "Winter Solstice",
+      "date": "2025-12-17",
+      "description": "Winter Solstice (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 10,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "solstice",
+        "seasonal"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 51
+    },
+    {
+      "id": "evt_117",
+      "name": "National Security Strategy",
+      "date": "2025-12-17",
+      "description": "National Security Strategy (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "security",
+        "military",
+        "strategy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 51
+    },
+    {
+      "id": "evt_118",
+      "name": "Christmas Eve/Day",
+      "date": "2025-12-17",
+      "description": "Christmas Eve/Day (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "christmas"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 51
+    },
+    {
+      "id": "evt_119",
+      "name": "Gaza Ceasefire Extension",
+      "date": "2025-12-24",
+      "description": "Gaza Ceasefire Extension (Alignment)",
+      "category": "Conflict",
+      "type": "alignment",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Positive",
+      "tags": [
+        "gaza",
+        "israel",
+        "ceasefire"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 52
+    },
+    {
+      "id": "evt_120",
+      "name": "New Year's Eve",
+      "date": "2025-12-24",
+      "description": "New Year's Eve (Friction)",
+      "category": "Cultural",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 20,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "holiday",
+        "new-years"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 52
+    },
+    {
+      "id": "evt_121",
+      "name": "Champions League Final",
+      "date": "2025-12-24",
+      "description": "Champions League Final (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "soccer",
+        "champions-league"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 52
+    },
+    {
+      "id": "evt_123",
+      "name": "Google I/O 2025",
+      "date": "2025-03-12",
+      "description": "Google I/O 2025 (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "google",
+        "tech-event",
+        "ai"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 11
+    },
+    {
+      "id": "evt_124",
+      "name": "WWDC 2025",
+      "date": "2025-06-11",
+      "description": "WWDC 2025 (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "apple",
+        "wwdc",
+        "tech-event"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 24
+    },
+    {
+      "id": "evt_125",
+      "name": "Meta Connect 2025",
+      "date": "2025-10-01",
+      "description": "Meta Connect 2025 (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 25,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "meta",
+        "vr",
+        "tech-event"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 40
+    },
+    {
+      "id": "evt_126",
+      "name": "AI Safety Summit",
+      "date": "2025-02-19",
+      "description": "AI Safety Summit (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "ai",
+        "safety",
+        "regulation"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 8
+    },
+    {
+      "id": "evt_127",
+      "name": "OpenAI GPT-5 Launch",
+      "date": "2025-04-09",
+      "description": "OpenAI GPT-5 Launch (Friction)",
+      "category": "Tech",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "ai",
+        "openai",
+        "gpt"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 15
+    },
+    {
+      "id": "evt_129",
+      "name": "ECB Rate Decision",
+      "date": "2025-03-19",
+      "description": "ECB Rate Decision (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "ecb",
+        "interest-rates",
+        "eu"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 12
+    },
+    {
+      "id": "evt_130",
+      "name": "Bank of Japan Policy Shift",
+      "date": "2025-05-07",
+      "description": "Bank of Japan Policy Shift (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "boj",
+        "japan",
+        "monetary-policy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 19
+    },
+    {
+      "id": "evt_131",
+      "name": "China GDP Report Q2",
+      "date": "2025-06-18",
+      "description": "China GDP Report Q2 (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "china",
+        "gdp",
+        "economy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 25
+    },
+    {
+      "id": "evt_132",
+      "name": "EU Energy Crisis Meeting",
+      "date": "2025-08-27",
+      "description": "EU Energy Crisis Meeting (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "energy",
+        "eu",
+        "crisis"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 35
+    },
+    {
+      "id": "evt_133",
+      "name": "BRICS Summit 2025",
+      "date": "2025-10-22",
+      "description": "BRICS Summit 2025 (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "brics",
+        "summit",
+        "emerging-markets"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 43
+    },
+    {
+      "id": "evt_135",
+      "name": "Argentina Economic Crisis",
+      "date": "2025-04-16",
+      "description": "Argentina Economic Crisis (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 60,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "argentina",
+        "crisis",
+        "inflation"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 16
+    },
+    {
+      "id": "evt_136",
+      "name": "Copa America 2025",
+      "date": "2025-05-28",
+      "description": "Copa America 2025 (Friction)",
+      "category": "Sports",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 35,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "soccer",
+        "copa-america"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 22
+    },
+    {
+      "id": "evt_137",
+      "name": "Venezuela Political Crisis",
+      "date": "2025-08-13",
+      "description": "Venezuela Political Crisis (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "venezuela",
+        "crisis"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 33
+    },
+    {
+      "id": "evt_138",
+      "name": "Chile Mining Protests",
+      "date": "2025-10-08",
+      "description": "Chile Mining Protests (Friction)",
+      "category": "Economic",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "mining",
+        "protests",
+        "chile"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 41
+    },
+    {
+      "id": "evt_140",
+      "name": "Taiwan Strait Tensions",
+      "date": "2025-04-02",
+      "description": "Taiwan Strait Tensions (Friction)",
+      "category": "Conflict",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 70,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "taiwan",
+        "china",
+        "tensions"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 14
+    },
+    {
+      "id": "evt_141",
+      "name": "India General Election Results",
+      "date": "2025-05-14",
+      "description": "India General Election Results (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "india",
+        "election"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 20
+    },
+    {
+      "id": "evt_142",
+      "name": "Japan LDP Leadership Change",
+      "date": "2025-07-16",
+      "description": "Japan LDP Leadership Change (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "japan",
+        "politics"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 29
+    },
+    {
+      "id": "evt_143",
+      "name": "Philippines Typhoon",
+      "date": "2025-09-10",
+      "description": "Philippines Typhoon (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "typhoon",
+        "disaster",
+        "philippines"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 37
+    },
+    {
+      "id": "evt_144",
+      "name": "ASEAN Summit 2025",
+      "date": "2025-11-05",
+      "description": "ASEAN Summit 2025 (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "asean",
+        "summit",
+        "diplomacy"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 45
+    },
+    {
+      "id": "evt_146",
+      "name": "French Protests Resume",
+      "date": "2025-03-26",
+      "description": "French Protests Resume (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "france",
+        "protests"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 13
+    },
+    {
+      "id": "evt_147",
+      "name": "UK Local Elections",
+      "date": "2025-04-30",
+      "description": "UK Local Elections (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 35,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "uk",
+        "elections"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 18
+    },
+    {
+      "id": "evt_148",
+      "name": "European Parliament Session",
+      "date": "2025-06-04",
+      "description": "European Parliament Session (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 35,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "eu",
+        "parliament"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 23
+    },
+    {
+      "id": "evt_149",
+      "name": "Italy Government Crisis",
+      "date": "2025-08-06",
+      "description": "Italy Government Crisis (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "italy",
+        "politics"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 32
+    },
+    {
+      "id": "evt_150",
+      "name": "EU Migration Summit",
+      "date": "2025-09-24",
+      "description": "EU Migration Summit (Friction)",
+      "category": "Political",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 55,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "eu",
+        "migration",
+        "summit"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 39
+    },
+    {
+      "id": "evt_152",
+      "name": "Sudan Peace Agreement",
+      "date": "2025-03-12",
+      "description": "Sudan Peace Agreement (Alignment)",
+      "category": "Conflict",
+      "type": "alignment",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 35,
+      "sentiment_direction": "Positive",
+      "tags": [
+        "sudan",
+        "peace"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 11
+    },
+    {
+      "id": "evt_153",
+      "name": "Sahel Security Summit",
+      "date": "2025-04-23",
+      "description": "Sahel Security Summit (Friction)",
+      "category": "Conflict",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 40,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "africa",
+        "security"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 17
+    },
+    {
+      "id": "evt_154",
+      "name": "Yemen Truce Renewal",
+      "date": "2025-07-02",
+      "description": "Yemen Truce Renewal (Alignment)",
+      "category": "Conflict",
+      "type": "alignment",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Positive",
+      "tags": [
+        "yemen",
+        "truce"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 27
+    },
+    {
+      "id": "evt_155",
+      "name": "Armenia-Azerbaijan Tensions",
+      "date": "2025-09-03",
+      "description": "Armenia-Azerbaijan Tensions (Friction)",
+      "category": "Conflict",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "armenia",
+        "azerbaijan"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 36
+    },
+    {
+      "id": "evt_157",
+      "name": "Global Vaccine Summit",
+      "date": "2025-05-21",
+      "description": "Global Vaccine Summit (Friction)",
+      "category": "Health",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 30,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "vaccines",
+        "health",
+        "summit"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 21
+    },
+    {
+      "id": "evt_158",
+      "name": "Avian Flu Outbreak Concern",
+      "date": "2025-08-20",
+      "description": "Avian Flu Outbreak Concern (Friction)",
+      "category": "Health",
+      "type": "friction",
+      "regions": [
+        "Global"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "flu",
+        "outbreak",
+        "health"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 34
+    },
+    {
+      "id": "evt_160",
+      "name": "Amazon Deforestation Peak",
+      "date": "2025-04-16",
+      "description": "Amazon Deforestation Peak (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "Latin America"
+      ],
+      "impact_score": 50,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "amazon",
+        "deforestation",
+        "brazil"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 16
+    },
+    {
+      "id": "evt_161",
+      "name": "European Heat Wave",
+      "date": "2025-07-09",
+      "description": "European Heat Wave (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "Europe"
+      ],
+      "impact_score": 45,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "heat-wave",
+        "climate",
+        "europe"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 28
+    },
+    {
+      "id": "evt_162",
+      "name": "Pacific Island Climate Summit",
+      "date": "2025-09-17",
+      "description": "Pacific Island Climate Summit (Friction)",
+      "category": "Environmental",
+      "type": "friction",
+      "regions": [
+        "Asia-Pacific"
+      ],
+      "impact_score": 35,
+      "sentiment_direction": "Negative",
+      "tags": [
+        "climate",
+        "pacific",
+        "islands"
+      ],
+      "source": "cycles_scenario_db",
+      "is_hypothetical": true,
+      "week": 38
+    },
+    {
+      "id": "evt_012",
+      "week": 5,
+      "name": "Super Bowl LIX",
+      "category": "sports",
+      "tags": [
+        "football",
+        "nfl",
+        "super-bowl"
+      ],
+      "region": "US",
+      "impact": 30,
+      "sigma": 2,
+      "type": "Friction",
+      "sentiment": 0.5,
+      "searchVolume": 100,
+      "regions": {
+        "us": {
+          "impact": 30,
+          "sentiment": 0.5
+        }
+      }
+    },
+    {
+      "id": "evt_024",
+      "week": 9,
+      "name": "Trump-Zelenskyy Meeting",
+      "category": "political",
+      "tags": [
+        "ukraine",
+        "diplomacy",
+        "trump"
+      ],
+      "region": "EU",
+      "impact": 70,
+      "sigma": 4,
+      "type": "Friction",
+      "sentiment": -0.5,
+      "searchVolume": 80,
+      "regions": {
+        "eu": {
+          "impact": 70,
+          "sentiment": -0.5
+        }
+      }
+    },
+    {
+      "id": "evt_034",
+      "week": 14,
+      "name": "Liberation Day Tariffs",
+      "category": "economic",
+      "tags": [
+        "tariffs",
+        "trade-war",
+        "trump"
+      ],
+      "region": "Global",
+      "impact": 95,
+      "sigma": 4,
+      "type": "Friction",
+      "sentiment": -0.8,
+      "searchVolume": 85,
+      "regions": {
+        "global": {
+          "impact": 95,
+          "sentiment": -0.8
+        }
+      }
+    },
+    {
+      "id": "evt_043",
+      "week": 18,
+      "name": "Cannes Film Festival",
+      "category": "cultural",
+      "tags": [
+        "entertainment",
+        "film",
+        "festival"
+      ],
+      "region": "EU",
+      "impact": 20,
+      "sigma": 2,
+      "type": "Friction",
+      "sentiment": 0.3,
+      "searchVolume": 55,
+      "regions": {
+        "eu": {
+          "impact": 20,
+          "sentiment": 0.3
+        }
+      }
+    },
+    {
+      "id": "evt_054",
+      "week": 23,
+      "name": "Iran Strikes Authorized",
+      "category": "conflict",
+      "tags": [
+        "iran",
+        "military",
+        "middle-east"
+      ],
+      "region": "Global",
+      "impact": 85,
+      "sigma": 4,
+      "type": "Friction",
+      "sentiment": -0.7,
+      "searchVolume": 80,
+      "regions": {
+        "global": {
+          "impact": 85,
+          "sentiment": -0.7
+        }
+      }
+    },
+    {
+      "id": "evt_064",
+      "week": 27,
+      "name": "France Outdoor Smoking Ban",
+      "category": "health",
+      "tags": [
+        "health-policy",
+        "france"
+      ],
+      "region": "EU",
+      "impact": 30,
+      "sigma": 2,
+      "type": "Friction",
+      "sentiment": 0.1,
+      "searchVolume": 40,
+      "regions": {
+        "eu": {
+          "impact": 30,
+          "sentiment": 0.1
+        }
+      }
+    },
+    {
+      "id": "evt_072",
+      "week": 31,
+      "name": "EU AI Act GPAI Rules",
+      "category": "tech",
+      "tags": [
+        "ai",
+        "regulation",
+        "eu"
+      ],
+      "region": "EU",
+      "impact": 60,
+      "sigma": 4,
+      "type": "Friction",
+      "sentiment": -0.3,
+      "searchVolume": 50,
+      "regions": {
+        "eu": {
+          "impact": 60,
+          "sentiment": -0.3
+        }
+      }
+    },
+    {
+      "id": "evt_082",
+      "week": 36,
+      "name": "Government Shutdown Threat",
+      "category": "political",
+      "tags": [
+        "budget",
+        "shutdown",
+        "congress"
+      ],
+      "region": "US",
+      "impact": 55,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.5,
+      "searchVolume": 65,
+      "regions": {
+        "us": {
+          "impact": 55,
+          "sentiment": -0.5
+        }
+      }
+    },
+    {
+      "id": "evt_091",
+      "week": 40,
+      "name": "Nobel Prize Week",
+      "category": "cultural",
+      "tags": [
+        "nobel",
+        "awards",
+        "science"
+      ],
+      "region": "Global",
+      "impact": 25,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": 0.3,
+      "searchVolume": 60,
+      "regions": {
+        "global": {
+          "impact": 25,
+          "sentiment": 0.3
+        }
+      }
+    },
+    {
+      "id": "evt_101",
+      "week": 45,
+      "name": "Black Friday",
+      "category": "economic",
+      "tags": [
+        "retail",
+        "consumer",
+        "shopping"
+      ],
+      "region": "Global",
+      "impact": 30,
+      "sigma": 2,
+      "type": "Friction",
+      "sentiment": 0.3,
+      "searchVolume": 100,
+      "regions": {
+        "global": {
+          "impact": 30,
+          "sentiment": 0.3
+        }
+      }
+    },
+    {
+      "id": "evt_111",
+      "week": 49,
+      "name": "US-UK Pharma Deal",
+      "category": "economic",
+      "tags": [
+        "pharma",
+        "trade",
+        "uk"
+      ],
+      "region": "EU",
+      "impact": 40,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.2,
+      "searchVolume": 35,
+      "regions": {
+        "eu": {
+          "impact": 40,
+          "sentiment": -0.2
+        }
+      }
+    },
+    {
+      "id": "evt_122",
+      "week": 3,
+      "name": "CES 2025",
+      "category": "tech",
+      "tags": [
+        "ces",
+        "tech-event",
+        "consumer-electronics"
+      ],
+      "region": "Global",
+      "impact": 25,
+      "sigma": 2,
+      "type": "Friction",
+      "sentiment": 0.3,
+      "searchVolume": 70,
+      "regions": {
+        "global": {
+          "impact": 25,
+          "sentiment": 0.3
+        }
+      }
+    },
+    {
+      "id": "evt_128",
+      "week": 4,
+      "name": "OPEC+ Production Cut",
+      "category": "economic",
+      "tags": [
+        "oil",
+        "opec",
+        "energy"
+      ],
+      "region": "Global",
+      "impact": 50,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.4,
+      "searchVolume": 45,
+      "regions": {
+        "global": {
+          "impact": 50,
+          "sentiment": -0.4
+        }
+      }
+    },
+    {
+      "id": "evt_134",
+      "week": 7,
+      "name": "Brazil Carnival",
+      "category": "cultural",
+      "tags": [
+        "carnival",
+        "brazil",
+        "festival"
+      ],
+      "region": "South America",
+      "impact": 25,
+      "sigma": 2,
+      "type": "Friction",
+      "sentiment": 0.5,
+      "searchVolume": 70,
+      "regions": {
+        "south_america": {
+          "impact": 25,
+          "sentiment": 0.5
+        }
+      }
+    },
+    {
+      "id": "evt_139",
+      "week": 9,
+      "name": "North Korea Missile Test",
+      "category": "conflict",
+      "tags": [
+        "north-korea",
+        "missiles",
+        "security"
+      ],
+      "region": "APAC",
+      "impact": 65,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.6,
+      "searchVolume": 70,
+      "regions": {
+        "apac": {
+          "impact": 65,
+          "sentiment": -0.6
+        }
+      }
+    },
+    {
+      "id": "evt_145",
+      "week": 5,
+      "name": "Germany Coalition Crisis",
+      "category": "political",
+      "tags": [
+        "germany",
+        "politics",
+        "coalition"
+      ],
+      "region": "EU",
+      "impact": 55,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.5,
+      "searchVolume": 50,
+      "regions": {
+        "eu": {
+          "impact": 55,
+          "sentiment": -0.5
+        }
+      }
+    },
+    {
+      "id": "evt_151",
+      "week": 6,
+      "name": "Syria Stabilization Talks",
+      "category": "conflict",
+      "tags": [
+        "syria",
+        "diplomacy"
+      ],
+      "region": "Global",
+      "impact": 45,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.3,
+      "searchVolume": 40,
+      "regions": {
+        "global": {
+          "impact": 45,
+          "sentiment": -0.3
+        }
+      }
+    },
+    {
+      "id": "evt_156",
+      "week": 10,
+      "name": "WHO Pandemic Preparedness Report",
+      "category": "health",
+      "tags": [
+        "who",
+        "pandemic",
+        "health"
+      ],
+      "region": "Global",
+      "impact": 35,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.2,
+      "searchVolume": 40,
+      "regions": {
+        "global": {
+          "impact": 35,
+          "sentiment": -0.2
+        }
+      }
+    },
+    {
+      "id": "evt_159",
+      "week": 8,
+      "name": "Arctic Ice Report",
+      "category": "environmental",
+      "tags": [
+        "arctic",
+        "climate",
+        "ice"
+      ],
+      "region": "Global",
+      "impact": 35,
+      "sigma": 3,
+      "type": "Friction",
+      "sentiment": -0.3,
+      "searchVolume": 40,
+      "regions": {
+        "global": {
+          "impact": 35,
+          "sentiment": -0.3
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "dataset_name": "Wikipedia Pageviews Trends",
+  "last_updated": "2026-01-19",
+  "source": "Wikimedia REST API (Pageviews)",
+  "api_url": "https://wikimedia.org/api/rest_v1",
+  "record_count": {
+    "trending_articles": 500,
+    "event_articles": 10
+  },
+  "date_range": "Last 90 days",
+  "fields": {
+    "article": "Wikipedia article title",
+    "total_views": "Total pageviews over analysis period",
+    "days_in_top_100": "Number of days article appeared in top 100",
+    "peak_views": "Maximum daily pageviews",
+    "avg_daily_views": "Average daily pageviews",
+    "timeline": "Array of daily pageview counts with dates"
+  },
+  "notes": "Wikipedia pageview data from Wikimedia REST API. Data available from July 2015 onwards. Trending articles are based on aggregated views over last 30 days. Event articles track major topics that spike during news events.",
+  "api_key_required": false,
+  "rate_limits": "5000 requests per hour per IP"
+}

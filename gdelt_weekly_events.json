@@ -1,0 +1,1797 @@
+{
+  "metadata": {
+    "source": "GDELT 2.1 Doc API",
+    "query": "(\"United States\" OR \"United States of America\")",
+    "timeframe": "2025-01-01 2025-12-31",
+    "generated_at": "2025-12-20T06:32:08Z",
+    "note": "Events are top article titles per week (not sentiment scores)."
+  },
+  "weekly_events": [
+    {
+      "week_start": "2025-01-01",
+      "week_end": "2025-01-07",
+      "events": [
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0645\u0631\u0627\u0633\u0645 \u062a\u0634\u06cc\u06cc\u0639 \u062c\u0646\u0627\u0632\u0647 \u0631\u0648\u0633\u0627\u06cc\u200c\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0686\u0637\u0648\u0631 \u0628\u0631\u06af\u0632\u0627\u0631 \u0645\u06cc\u200c\u0634\u0648\u062f \u061f ",
+          "url": "https://www.balatarin.com:443/permlink/2024/12/31/6276999",
+          "sourcecountry": "Iran",
+          "seendate": "20250101T181500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062a\u0628\u0627\u062f\u0644 \u062d\u0645\u0644\u0627\u062a \u0628\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u060c \u062d\u0648\u062b\u06cc\u200c\u0647\u0627 \u0648 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u062f\u0631 \u06cc\u0645\u0646 \u0648 \u0645\u0646\u0637\u0642\u0647",
+          "url": "https://www.balatarin.com:443/permlink/2025/1/1/6277601",
+          "sourcecountry": "Iran",
+          "seendate": "20250102T163000Z"
+        },
+        {
+          "title": "Trump complains that US flags will be half - staff on his inauguration day",
+          "url": "https://freerepublic.com/focus/f-news/4287982/posts",
+          "sourcecountry": "United States",
+          "seendate": "20250103T231500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0631\u0627\u06cc \u0633\u0646\u0627\u0631\u06cc\u0648\u0647\u0627\u06cc \u0627\u062d\u062a\u0645\u0627\u0644\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u062a\u0627\u0633\u06cc\u0633\u0627\u062a \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646",
+          "url": "https://www.balatarin.com:443/permlink/2025/1/3/6278720",
+          "sourcecountry": "Iran",
+          "seendate": "20250104T121500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062a\u0631\u0627\u0645\u067e : \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u062f\u0631 \u062d\u0627\u0644 \u0641\u0631\u0648\u067e\u0627\u0634\u06cc \u0627\u0633\u062a",
+          "url": "https://www.balatarin.com:443/permlink/2025/1/3/6278572",
+          "sourcecountry": "Iran",
+          "seendate": "20250104T110000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-01-08",
+      "week_end": "2025-01-14",
+      "events": [
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062a\u0631\u0627\u0645\u067e \u067e\u06cc\u0631\u0648\u0632 \u0634\u062f \u060c \u062a\u0631\u0648\u062f\u0648 \u0627\u0633\u062a\u0639\u0641\u0627 \u062f\u0627\u062f \u060c \u062a\u0627 \u0646\u0634\u0627\u0646 \u062f\u0647\u062f \u06a9\u0647 \u0628\u0631\u0627\u06cc \u06a9\u0634\u0648\u0631\u0634 \u0686\u06af\u0648\u0646\u0647 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0641\u062f\u0627\u06a9\u0627\u0631\u06cc \u06a9\u0646\u062f\u270d\ufe0f \u0639\u0628\u062f\u0627\u0644\u0647 \u0628\u0627\u0628\u0627\u062e\u0627\u0646\u06cc",
+          "url": "https://www.balatarin.com:443/permlink/2025/1/7/6280765",
+          "sourcecountry": "Iran",
+          "seendate": "20250108T153000Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0645\u0635\u0645\u0645 \u0627\u0633\u062a \u0628\u0647 \u062c\u0646\u06af \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u067e\u0627\u06cc\u0627\u0646 \u062f\u0647\u062f \u061b \u0622\u062e\u0631\u06cc\u0646 \u06a9\u0645\u06a9 \u0646\u0638\u0627\u0645\u06cc \u0628\u0627\u06cc\u062f\u0646 \u0628\u0647 \u06a9\u06cc\u200c\u06cc\u0641",
+          "url": "https://www.radiofarda.com/a/33266971.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250108T021500Z"
+        },
+        {
+          "title": "\u0631\u0647\u0628\u0631 \u06af\u0631\u0648\u0647 \u062a\u0628\u0647\u06a9\u0627\u0631 \u0698\u0627\u067e\u0646\u06cc \u0628\u0647 \u0642\u0627\u0686\u0627\u0642 \u0645\u0648\u0627\u062f \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0627\u0632 \u0645\u06cc\u0627\u0646\u0645\u0627\u0631 \u0628\u0647 \u0627\u06cc\u0631\u0627\u0646 \u0627\u0639\u062a\u0631\u0627\u0641 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/japanese-crime-leader-pleads-guilty-in-us-to-trafficking-nuclear-materials-from-myanmar/33269285.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250109T071500Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u0686\u0637\u0648\u0631 \u06a9\u0646\u062a\u0631\u0644 \u06a9\u0627\u0646\u0627\u0644 \u067e\u0627\u0646\u0627\u0645\u0627 \u0631\u0627 \u0628\u0647\u200c\u062f\u0633\u062a \u0622\u0648\u0631\u062f \u0648 \u067e\u0627\u0646\u0627\u0645\u0627 \u0686\u0637\u0648\u0631 \u0622\u0646 \u0631\u0627 \u067e\u0633 \u06af\u0631\u0641\u062a \u061f ",
+          "url": "https://www.bbc.com/persian/articles/clynk2dvnd4o",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250108T070000Z"
+        },
+        {
+          "title": "\u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0648\u0633\u0648\u0633\u0647\u200c\u0627\u0646\u06af\u06cc\u0632 \u062f\u0628\u06cc\u0631\u06a9\u0644 \u0646\u0627\u062a\u0648 \u0628\u0647 \u062a\u0631\u0627\u0645\u067e \u2013 DW \u2013 \u06f1\u06f4\u06f0\u06f3 / \u06f1\u06f0 / \u06f2\u06f0",
+          "url": "https://www.dw.com/fa-ir/%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%D9%88%D8%B3%D9%88%D8%B3%D9%87%D8%A7%D9%86%DA%AF%DB%8C%D8%B2-%D8%AF%D8%A8%DB%8C%D8%B1%DA%A9%D9%84-%D9%86%D8%A7%D8%AA%D9%88-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE/a-71255259",
+          "sourcecountry": "Germany",
+          "seendate": "20250109T133000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-01-15",
+      "week_end": "2025-01-21",
+      "events": [
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0646\u062e\u0633\u062a\u200c\u0648\u0632\u06cc\u0631 \u06af\u0631\u06cc\u0646\u0644\u0646\u062f : \u0646\u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u06cc\u0645 \u0628\u062e\u0634\u06cc \u0627\u0632 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0627\u0634\u06cc\u0645",
+          "url": "https://www.balatarin.com:443/permlink/2025/1/18/6285426",
+          "sourcecountry": "Iran",
+          "seendate": "20250118T230000Z"
+        },
+        {
+          "title": "Global appreciation | The Peninsula Qatar",
+          "url": "http://thepeninsulaqatar.com/editorial/17/01/2025/global-appreciation-1",
+          "sourcecountry": "Qatar",
+          "seendate": "20250117T091500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u062a\u06cc\u06a9\u200c\u062a\u0627\u06a9 \u062f\u0631 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 : \u0646\u0628\u0631\u062f\u06cc \u0645\u06cc\u0627\u0646 \u0642\u062f\u0631\u062a\u200c\u0647\u0627\u06cc \u062c\u0647\u0627\u0646\u06cc",
+          "url": "https://www.balatarin.com:443/permlink/2025/1/19/6285969",
+          "sourcecountry": "Iran",
+          "seendate": "20250120T061500Z"
+        },
+        {
+          "title": "\u06a9\u0648\u0628\u0627 \u0637\u0628\u0642 \u062a\u0648\u0627\u0641\u0642 \u0628\u0627 \u062f\u0648\u0644\u062a \u0628\u0627\u06cc\u062f\u0646 \u0632\u0646\u062f\u0627\u0646\u06cc\u0627\u0646 \u0633\u06cc\u0627\u0633\u06cc \u0631\u0627 \u0622\u0632\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/cuba-frees-jailed-protesters-in-biden-terror-list-deal/33277468.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250116T061500Z"
+        },
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d3f\u0d32\u0d46 \u0d2d\u0d3e\u0d35\u0d3f \u0d24\u0d32\u0d2e\u0d41\u0d31 \u0d07\u0d38\u0d4d\u0d30\u0d3e\u0d08\u0d32\u0d3f\u0d28\u0d46 \u0d24\u0d33\u0d4d\u0d33\u0d3f\u0d2a\u0d4d\u0d2a\u0d31\u0d1e\u0d4d\u0d1e\u0d47\u0d15\u0d4d\u0d15\u0d3e\u0d02 ; \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d07\u0d38\u0d4d\u0d30\u0d3e\u0d08\u0d32\u0d3f\u0d32\u0d46 \u0d2f\u0d41 . \u0d0e\u0d38\u0d4d \u0d05\u0d02\u0d2c\u0d3e\u0d38\u0d3f\u0d21\u0d30\u0d4d\u200d",
+          "url": "https://www.chandrikadaily.com/americas-future-generation-may-reject-israel-us-ambassador-to-israel-with-warning.html",
+          "sourcecountry": "India",
+          "seendate": "20250115T140000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-01-22",
+      "week_end": "2025-01-28",
+      "events": [
+        {
+          "title": "  \u0d38\u0d02\u0d2d\u0d35\u0d02 \u0d15\u0d4a\u0d33\u0d4d\u0d33\u0d3e\u0d02 , \u0d0e\u0d24\u0d3f\u0d30\u0d3e\u0d33\u0d3f\u0d15\u0d33\u0d4d\u200d \u0d35\u0d30\u0d1f\u0d4d\u0d1f\u0d46 ; \u0d1a\u0d48\u0d28\u0d40\u0d38\u0d4d \u0d06\u0d2a\u0d4d\u0d2a\u0d3f\u0d28\u0d46 \u0d2a\u0d4d\u0d30\u0d15\u0d40\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d13\u0d2a\u0d4d\u0d2a\u0d23\u0d4d\u200d \u0d0e\u0d10 \u0d38\u0d3f\u0d07\u0d12 , DeepSeek , ChatGPT , OpenAI , AI , Artificial Intelligence , Sam Altman , latest news , malayalam news",
+          "url": "https://www.mathrubhumi.com/technology/news/sam-altman-openai-chatgpt-deepseek-1.10291297",
+          "sourcecountry": "India",
+          "seendate": "20250128T054500Z"
+        },
+        {
+          "title": "M Modi Likely To Visit White House In February | \u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d2b\u0d46\u0d2c\u0d4d\u0d30\u0d41\u0d35\u0d30\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d35\u0d48\u0d31\u0d4d\u0d31\u0d4d \u0d39\u0d57\u0d38\u0d4d \u0d38\u0d28\u0d4d\u0d26\u0d30\u0d4d\u200d\u0d36\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d4d\u200d \u0d38\u0d3e\u0d27\u0d4d\u0d2f\u0d24 : \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d28\u0d32\u0d4d\u0d32 \u0d2c\u0d28\u0d4d\u0d27\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
+          "url": "https://www.mangalam.com/news/detail/760702-latest-news-m-modi-likely-to-visit-white-house-in-february.html",
+          "sourcecountry": "India",
+          "seendate": "20250128T070000Z"
+        },
+        {
+          "title": "\u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u0631\u0648\u0628\u06cc\u0648 \u0628\u0627 \u0646\u062a\u0627\u0646\u06cc\u0627\u0647\u0648 \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u06cc\u0631\u0627\u0646 \u0648 \u06af\u0631\u0648\u06af\u0627\u0646\u200c\u0647\u0627\u06cc \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u062f\u0631 \u063a\u0632\u0647",
+          "url": "https://www.radiofarda.com/a/us-top-diplomat-rubio-discusses-iran-gaza-hostages-with-israeli-pm-netanyahu/33285390.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250122T234500Z"
+        },
+        {
+          "title": "\u062f\u0648\u0644\u062a \u0628\u0627\u06cc\u062f\u0646 \u06f1\u06f5 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u06a9\u0627\u0646\u062f\u0648\u0645 \u0628\u0631\u0627\u06cc \u0637\u0627\u0644\u0628\u0627\u0646 \u062e\u0631\u06cc\u062f",
+          "url": "https://news.gooya.com/2025/01/post-94802.php",
+          "sourcecountry": "Iran",
+          "seendate": "20250128T190000Z"
+        },
+        {
+          "title": "\u0647\u0634\u062f\u0627\u0631 \u0645\u0627\u0631\u06a9\u0648 \u0631\u0648\u0628\u06cc\u0648 \u062f\u0631\u0628\u0627\u0631\u0647\u0654 \u062a\u0639\u06cc\u06cc\u0646 \u062c\u0627\u06cc\u0632\u0647\u200c\u0627\u06cc \u00ab \u0628\u0633\u06cc\u0627\u0631 \u0628\u0632\u0631\u06af \u00bb \u0628\u0631\u0627\u06cc \u0631\u0647\u0628\u0631\u0627\u0646 \u0627\u0631\u0634\u062f \u0637\u0627\u0644\u0628\u0627\u0646",
+          "url": "https://www.radiofarda.com/a/rubio-threatens-bounties-on-taliban-leaders-over-detained-americans/33289148.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250126T090000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-01-29",
+      "week_end": "2025-02-04",
+      "events": [
+        {
+          "title": "\u0622\u0698\u0627\u0646\u0633 \u062a\u0648\u0633\u0639\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0648 \u062f\u0644\u06cc\u0644 \u0645\u062e\u0627\u0644\u0641\u062a \u062a\u0631\u0627\u0645\u067e \u0628\u0627 \u0622\u0646 \u0686\u06cc\u0633\u062a \u061f ",
+          "url": "https://www.bbc.com/persian/articles/cx2kgek7178o",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250204T181500Z"
+        },
+        {
+          "title": "\u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d2d\u0d30\u0d23\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d46 \u0d1f\u0d46\u0d15\u0d4d \u0d2a\u0d4d\u0d30\u0d2d\u0d41 \u0d38\u0d3e\u0d2e\u0d4d\u0d30\u0d3e\u0d1c\u0d4d\u0d2f\u0d02 | Trump administration period and Oligarchs",
+          "url": "https://www.madhyamam.com/opinion/open-forum/trump-administration-period-and-oligarchs-1374941",
+          "sourcecountry": "India",
+          "seendate": "20250131T024500Z"
+        },
+        {
+          "title": "\u0d35\u0d3e\u0d37\u0d3f\u0d19\u0d4d\u0d1f\u0d23\u0d4d\u200d \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d3e\u0d2a\u0d15\u0d1f\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d4d\u200d \u0d0e\u0d32\u0d4d\u0d32\u0d3e\u0d35\u0d30\u0d41\u0d02 \u0d15\u0d4a\u0d32\u0d4d\u0d32\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d4d\u0d1f\u0d24\u0d3e\u0d2f\u0d3f \u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d4b\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d ; \u0d15\u0d23\u0d4d\u0d1f\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d24\u0d4d 28 \u0d2e\u0d43\u0d24\u0d26\u0d47\u0d39\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d , washington dc plane crash , united states , American Airlines , Army helicopter , Potomac Plane Crash",
+          "url": "https://www.mathrubhumi.com/news/world/washington-dc-plane-crash-no-survivors-expected-reports-1.10297871",
+          "sourcecountry": "India",
+          "seendate": "20250130T161500Z"
+        },
+        {
+          "title": "\u0648\u0627\u06a9\u0646\u0634 \u0632\u0646\u0627\u0646 \u0645\u0647\u0627\u062c\u0631 \u063a\u06cc\u0631\u0642\u0627\u0646\u0648\u0646\u06cc \u0628\u0647 \u0641\u0631\u0645\u0627\u0646 \u062a\u0631\u0627\u0645\u067e : \u062d\u0642\u0648\u0642 \u0641\u0631\u0632\u0646\u062f \u0645\u062a\u0648\u0644\u062f \u0646\u0634\u062f\u0647 \u0645\u0646 \u0646\u0642\u0636 \u0634\u062f\u0647 \u0627\u0633\u062a",
+          "url": "https://www.bbc.com/persian/articles/cx2mp2n8l9xo",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250130T164500Z"
+        },
+        {
+          "title": "\u0d2f\u0d41\u0d0e\u0d38\u0d3f\u0d32\u0d46 \u0d35\u0d3f\u0d2e\u0d3e\u0d28 \u0d26\u0d41\u0d30\u0d28\u0d4d\u0d24\u0d02 ; \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d35\u0d30\u0d3f\u0d32\u0d4d\u200d \u0d10\u0d38\u0d4d \u0d38\u0d4d\u200c\u0d15\u0d47\u0d31\u0d4d\u0d31\u0d3f\u0d19\u0d4d \u0d32\u0d4b\u0d15 \u0d1a\u0d3e\u0d02\u0d2a\u0d4d\u0d2f\u0d28\u0d4d\u200d\u0d2e\u0d3e\u0d30\u0d3e\u0d2f \u0d26\u0d2e\u0d4d\u0d2a\u0d24\u0d3f\u0d15\u0d33\u0d41\u0d02",
+          "url": "https://www.chandrikadaily.com/us-plane-disaster-among-the-dead-are-a-couple-who-are-ice-skating-world-champions.html",
+          "sourcecountry": "India",
+          "seendate": "20250130T140000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-02-05",
+      "week_end": "2025-02-11",
+      "events": [
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631\u06cc\u0627\u0641\u062a \u0628\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u067e\u0633\u062a\u06cc \u0627\u0632 \u0686\u06cc\u0646 \u0648 \u0647\u0646\u06af\u200c\u06a9\u0646\u06af \u0631\u0627 \u0628\u0647 \u062d\u0627\u0644\u062a \u062a\u0639\u0644\u06cc\u0642 \u062f\u0631\u0622\u0648\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/us-postal-service-suspends-incoming-packages-from-china-hong-kong/33303665.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250205T080000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0622\u06cc\u0627 \u062f\u06a9\u062a\u0631\u06cc\u0646 \u062c\u062f\u06cc\u062f \u062a\u0631\u0627\u0645\u067e \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0646\u0638\u0645 \u062c\u0647\u0627\u0646\u06cc \u0631\u0627 \u0628\u0627\u0632\u062a\u0639\u0631\u06cc\u0641 \u06a9\u0646\u062f \u061f ",
+          "url": "https://www.balatarin.com:443/permlink/2025/2/10/6296939",
+          "sourcecountry": "Iran",
+          "seendate": "20250211T094500Z"
+        },
+        {
+          "title": "| \u0d0e . \u0d38\u0d3f . \u0d1c\u0d4b\u0d30\u0d4d\u200d\u0d1c\u0d3f\u0d28\u0d4d\u0d31\u0d46 4 \u0d2a\u0d41\u0d38\u0d4d\u0d24\u0d15\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d2a\u0d4d\u0d30\u0d15\u0d3e\u0d36\u0d28\u0d02 \u0d1a\u0d46\u0d2f\u0d4d\u0d24\u0d41 , \u0d17\u0d4d\u0d30\u0d28\u0d4d\u0d25\u0d15\u0d3e\u0d30\u0d28\u0d41 \u0d1c\u0d28\u0d4d\u0d2e\u0d28\u0d3e\u0d1f\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d06\u0d26\u0d30\u0d02",
+          "url": "https://www.mangalam.com/news/detail/763170-america.html",
+          "sourcecountry": "India",
+          "seendate": "20250210T144500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062a\u0631\u0627\u0645\u067e : \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u067e\u0633 \u0627\u0632 \u067e\u0627\u06cc\u0627\u0646 \u062c\u0646\u06af \u060c \u063a\u0632\u0647 \u0631\u0627 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062a\u062d\u0648\u06cc\u0644 \u0645\u06cc\u200c\u062f\u0647\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/2/6/6295144",
+          "sourcecountry": "Iran",
+          "seendate": "20250207T110000Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u062f\u0633\u062a\u0648\u0631 \u062e\u0631\u0648\u062c \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0632 \u0634\u0648\u0631\u0627\u06cc \u062d\u0642\u0648\u0642 \u0628\u0634\u0631 \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0631\u0627 \u0635\u0627\u062f\u0631 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/trump-stops-us-involvement-with-un-rights-body-extends-unrwa-funding-halt/33303313.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250205T030000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-02-12",
+      "week_end": "2025-02-18",
+      "events": [
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u062d\u0627\u0644 \u0628\u0631\u0631\u0633\u06cc \u0639\u0641\u0648 \u06a9\u0627\u0645\u0644 \u0627\u062f\u0648\u0627\u0631\u062f \u0627\u0633\u0646\u0648\u062f\u0646 \u0627\u0633\u062a",
+          "url": "https://www.balatarin.com:443/permlink/2025/2/12/6298163",
+          "sourcecountry": "Iran",
+          "seendate": "20250213T071500Z"
+        },
+        {
+          "title": "\u0648\u0627\u0644\u200c\u0627\u0633\u062a\u0631\u06cc\u062a \u062c\u0648\u0631\u0646\u0627\u0644 : \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u062d\u0645\u0644\u0647 \u0628\u0647 \u062a\u0627\u0633\u06cc\u0633\u0627\u062a \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/israel-sees-opening-for-strikes-on-iranian-nuclear-sites-u-s-intelligence-warned-wsj/33313061.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250213T044500Z"
+        },
+        {
+          "title": "\u0d35\u0d3f\u0d34\u0d3f\u0d1e\u0d4d\u0d1e\u0d02 \u0d2a\u0d41\u0d33\u0d3f\u0d19\u0d4d\u0d15\u0d41\u0d1f\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d24\u0d3f\u0d30\u0d2f\u0d3f\u0d32\u0d4d\u200d\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d4d\u0d1f\u0d4d \u0d35\u0d3f\u0d26\u0d47\u0d36 \u0d35\u0d28\u0d3f\u0d24 \u0d2e\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41 , Vizhinjam , drowning , tourist death , accident , Russia , Germany , America",
+          "url": "https://www.mathrubhumi.com/news/kerala/vizhinjam-tourist-drowning-accident-1.10345487",
+          "sourcecountry": "India",
+          "seendate": "20250215T183000Z"
+        },
+        {
+          "title": "\u0d07\u0d28\u0d3f \u0d15\u0d33\u0d3f\u0d2e\u0d3e\u0d31\u0d41\u0d02 ; \u0d1a\u0d3f\u0d32\u0d4d\u0d32\u0d31\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d32\u0d4d\u0d32 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d35\u0d3e\u0d17\u0d4d\u0d26\u0d3e\u0d28\u0d02 \u0d1a\u0d46\u0d2f\u0d4d\u0d24 \u0d0e\u0d2b\u0d4d . 35 \u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d02",
+          "url": "https://www.mathrubhumi.com/news/world/india-f35-fighter-jets-trump-offer-1.10341859",
+          "sourcecountry": "India",
+          "seendate": "20250214T090000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u06cc\u062a \u0698\u0648\u0631\u0646\u0627\u0644 \u060c \u0628\u0647 \u0646\u0642\u0644 \u0627\u0632 \u0645\u0642\u0627\u0645\u0627\u062a \u0622\u06af\u0627\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc : \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0628\u0647 \u062a\u0627\u0633\u06cc\u0633\u0627\u062a \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0622\u0645\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/2/13/6298440",
+          "sourcecountry": "Iran",
+          "seendate": "20250213T084500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-02-19",
+      "week_end": "2025-02-25",
+      "events": [
+        {
+          "title": "\u0d2e\u0d4b\u0d21\u0d3f - \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d09\u0d2d\u0d2f\u0d15\u0d15\u0d4d\u0d37\u0d3f \u0d15\u0d30\u0d3e\u0d30\u0d4d\u200d ; \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d7b \u0d35\u0d3f\u0d2a\u0d23\u0d3f \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d7b \u0d15\u0d2e\u0d4d\u0d2a\u0d28\u0d3f\u0d15\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d",
+          "url": "https://janayugomonline.com/modi-trump-bilateral-agreement-indian-market-for-american-companies/",
+          "sourcecountry": "India",
+          "seendate": "20250219T013000Z"
+        },
+        {
+          "title": "\u0d1c\u0d28\u0d4d\u0d2e\u0d3e\u0d35\u0d15\u0d3e\u0d36 \u0d2a\u0d57\u0d30\u0d24\u0d4d\u0d35\u0d02 : \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d0e\u0d15\u0d4d\u200c\u0d38\u0d3f\u0d15\u0d4d\u0d2f\u0d42\u0d1f\u0d4d\u0d1f\u0d40\u0d35\u0d4d \u0d09\u0d24\u0d4d\u0d24\u0d30\u0d35\u0d4d \u0d2b\u0d46\u0d21\u0d31\u0d32\u0d4d\u200d \u0d05\u0d2a\u0d4d\u0d2a\u0d40\u0d32\u0d4d\u200d \u0d15\u0d4b\u0d1f\u0d24\u0d3f \u0d24\u0d33\u0d4d\u0d33\u0d3f",
+          "url": "https://www.sirajlive.com/birthright-citizenship-federal-appeals-court-rejects-trump-39-s-executive-order.html",
+          "sourcecountry": "India",
+          "seendate": "20250220T093000Z"
+        },
+        {
+          "title": "  \u0d05\u0d35\u0d30\u0d41\u0d1f\u0d46 \u0d15\u0d48\u0d35\u0d36\u0d02 \u0d27\u0d3e\u0d30\u0d3e\u0d33\u0d02 \u0d2a\u0d23\u0d2e\u0d41\u0d23\u0d4d\u0d1f\u0d4d  \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d33\u0d4d\u0d33 \u0d38\u0d3e\u0d2e\u0d4d\u0d2a\u0d24\u0d4d\u0d24\u0d3f\u0d15 \u0d38\u0d39\u0d3e\u0d2f\u0d02 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d31\u0d26\u0d4d\u0d26\u0d3e\u0d15\u0d4d\u0d15\u0d3f",
+          "url": "https://www.mathrubhumi.com/news/world/trump-halts-us-aid-india-1.10356241",
+          "sourcecountry": "India",
+          "seendate": "20250219T013000Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u06af\u0644\u0648\u06cc \u0627\u0642\u062a\u0635\u0627\u062f \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0631\u0627 \u0641\u0634\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f",
+          "url": "https://news.gooya.com/2025/02/post-95535.php",
+          "sourcecountry": "Iran",
+          "seendate": "20250221T214500Z"
+        },
+        {
+          "title": "\u0634\u0648\u0631\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0642\u0637\u0639\u0646\u0627\u0645\u0647 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u062c\u0646\u06af \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0631\u0627 \u062a\u0635\u0648\u06cc\u0628 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/us-resolution-on-ukraine-adopted-by-un-security-council/33326522.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250225T021500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-02-26",
+      "week_end": "2025-03-04",
+      "events": [
+        {
+          "title": "43 \u0d15\u0d47\u0d3e\u0d1f\u0d3f\u0d30\u0d42\u0d2a \u0d28\u0d32\u0d4d\u200d\u0d15\u0d3f\u0d2f\u0d3e\u0d32\u0d4d\u200d  US \u0d2a\u0d57\u0d30\u0d24\u0d4d\u0d35\u0d02 ; \u0d05\u0d24\u0d3f\u0d38\u0d2e\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d3e\u0d2f\u0d3f \u0d17\u0d47\u0d3e\u0d33\u0d4d\u200d\u0d21\u0d4d \u0d15\u0d3e\u0d30\u0d4d\u200d\u0d21\u0d4d \u0d05\u0d35\u0d24\u0d30\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d4d\u200d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d , Golden Card , US Citizenship , Immigration , Wealthy Foreigners , American Citizenship",
+          "url": "https://www.mathrubhumi.com/news/world/trump-5-million-golden-card-us-citizenship-1.10376752",
+          "sourcecountry": "India",
+          "seendate": "20250226T063000Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0632 \u06a9\u0634\u062a\u0647 \u0634\u062f\u0646 \u0631\u0647\u0628\u0631 \u0646\u0638\u0627\u0645\u06cc \u06af\u0631\u0648\u0647 \u0648\u0627\u0628\u0633\u062a\u0647 \u0628\u0647 \u0627\u0644\u0642\u0627\u0639\u062f\u0647 \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u062e\u0628\u0631 \u062f\u0627\u062f",
+          "url": "https://www.radiofarda.com/a/us-says-killed-military-leader-of-syria-al-qaeda-affiliate/33332820.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250301T201500Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0648\u0639\u062f\u0647 \u062a\u0639\u0631\u0641\u0647 \u06f2\u06f5 \u062f\u0631\u0635\u062f\u06cc \u0628\u0631 \u0648\u0627\u0631\u062f\u0627\u062a \u0627\u0632 \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u062f\u0627\u062f",
+          "url": "https://www.radiofarda.com/a/trump-threatens-eu-with-tariffs-of-25-on-cars-all-other-things-/33329787.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250227T063000Z"
+        },
+        {
+          "title": "\u0622\u06cc\u0627 \u0627\u0631\u0648\u067e\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0647\u0645\u0686\u0646\u0627\u0646 \u0628\u0647 \u062d\u0645\u0627\u06cc\u062a \u062f\u0641\u0627\u0639\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0645\u062a\u06a9\u06cc \u0628\u0627\u0634\u062f \u061f ",
+          "url": "https://www.bbc.com/persian/articles/ckgddnve9v2o",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250228T093000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0632\u0644\u0646\u0633\u06a9\u06cc \u062a\u0633\u0644\u06cc\u0645 \u062a\u0631\u0627\u0645\u067e \u0634\u062f \u061b \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u062a\u0648\u0627\u0641\u0642 \u0628\u0627 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0631 \u0633\u0631 \u0645\u0648\u0627\u062f \u0645\u0639\u062f\u0646\u06cc \u06a9\u0645\u06cc\u0627\u0628 \u0631\u0627 \u067e\u0630\u06cc\u0631\u0641\u062a",
+          "url": "https://www.balatarin.com:443/permlink/2025/2/26/6304525",
+          "sourcecountry": "Iran",
+          "seendate": "20250226T200000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-03-05",
+      "week_end": "2025-03-11",
+      "events": [
+        {
+          "title": "\u0641\u0631\u0645\u0627\u0646 \u062c\u062f\u06cc\u062f \u062a\u0631\u0627\u0645\u067e \u0628\u0631\u0627\u06cc \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0633\u0641\u0631 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u0627\u0645\u0644 \u00ab \u0627\u0641\u063a\u0627\u0646\u200c\u0647\u0627 \u0648 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u06cc\u200c\u0647\u0627 \u00bb \u0645\u06cc\u200c\u0634\u0648\u062f",
+          "url": "https://www.radiofarda.com/a/new-trump-travel-ban-could-bar-afghans-pakistanis-soon-sources-say/33338045.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250306T060000Z"
+        },
+        {
+          "title": "\u0645\u0627\u0631\u06a9\u0648 \u0631\u0648\u0628\u06cc\u0648 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u06f8\u06f3 \u062f\u0631\u0635\u062f \u067e\u0631\u0648\u0698\u0647\u200c\u0647\u0627\u06cc \u0622\u0698\u0627\u0646\u0633 \u062a\u0648\u0633\u0639\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0644\u063a\u0648 \u0634\u062f\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/us-officially-ending-83-of-usaid-programs-rubio-says/33343528.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250311T053000Z"
+        },
+        {
+          "title": "\u0641\u0631\u0645\u0627\u0646 \u062c\u062f\u06cc\u062f \u062a\u0631\u0627\u0645\u067e \u0628\u0631\u0627\u06cc \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0633\u0641\u0631 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0632 \u062f\u0633\u062a\u06a9\u0645 \u062f\u0648 \u06a9\u0634\u0648\u0631 \u0628\u0627 \u0627\u06a9\u062b\u0631\u06cc\u062a \u0645\u0633\u0644\u0645\u0627\u0646",
+          "url": "https://news.gooya.com/2025/03/post-95910.php",
+          "sourcecountry": "Iran",
+          "seendate": "20250306T164500Z"
+        },
+        {
+          "title": "IranPressNews : \u0627\u064a\u0631\u0627\u0646 \u067e\u0631\u0633 \u0646\u064a\u0648\u0632 \u0627\u062e\u0628\u0627\u0631 \u0627\u064a\u0631\u0627\u0646 \u0648 \u062c\u0647\u0627\u0646",
+          "url": "https://iranpressnews.com/source/243287.htm",
+          "sourcecountry": "Iran",
+          "seendate": "20250306T130000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0642\u06cc\u0645\u062a \u0628\u06cc\u062a\u200c\u06a9\u0648\u06cc\u0646 \u0628\u0647 \u06f8\u06f2 \u0647\u0632\u0627\u0631 \u062f\u0644\u0627\u0631 \u0631\u0633\u06cc\u062f \u061b \u0633\u0642\u0648\u0637 \u06f5 \u062f\u0631\u0635\u062f\u06cc \u067e\u0633 \u0627\u0632 \u0641\u0631\u0645\u0627\u0646 \u0627\u062c\u0631\u0627\u06cc\u06cc \u062a\u0631\u0627\u0645\u067e",
+          "url": "https://www.balatarin.com:443/permlink/2025/3/10/6310070",
+          "sourcecountry": "Iran",
+          "seendate": "20250310T151500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-03-12",
+      "week_end": "2025-03-18",
+      "events": [
+        {
+          "title": "200 \u0d2a\u0d47\u0d30\u0d46 \u0d24\u0d32\u0d2e\u0d4a\u0d1f\u0d4d\u0d1f\u0d2f\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d15\u0d48\u0d15\u0d3e\u0d32\u0d41\u0d15\u0d33\u0d4d\u200d \u0d15\u0d46\u0d1f\u0d4d\u0d1f\u0d3f \u0d28\u0d3e\u0d1f\u0d41\u0d15\u0d1f\u0d24\u0d4d\u0d24\u0d3f ; \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d15\u0d4d\u0d30\u0d42\u0d30\u0d24 .. ",
+          "url": "https://www.manoramanews.com/gulf-and-global/world/2025/03/17/us-deports-over-200-venezuelan-immigrants-to-ei-salvador-despite-court-ban.html",
+          "sourcecountry": "India",
+          "seendate": "20250317T161500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0645\u0630\u0627\u06a9\u0631\u0647 \u0648\u0632\u0631\u0627\u06cc \u062e\u0627\u0631\u062c\u0647 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0639\u0631\u0628\u06cc \u0628\u0627 \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0637\u0631\u062d \u0628\u0627\u0632\u0633\u0627\u0632\u06cc \u063a\u0632\u0647",
+          "url": "https://www.balatarin.com:443/permlink/2025/3/13/6311289",
+          "sourcecountry": "Iran",
+          "seendate": "20250314T064500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062e\u0648\u0627\u0628 \u062a\u0631\u0627\u0645\u067e \u0622\u0634\u0641\u062a\u0647 \u0634\u062f / \u0627\u06af\u0631 \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u062a\u0639\u0631\u0641\u0647 \u0648\u06cc\u0633\u06a9\u06cc \u0631\u0627 \u0644\u063a\u0648 \u0646\u06a9\u0646 \u0631\u0648\u06cc \u062a\u0645\u0627\u0645 \u0634\u0631\u0627\u0628 \u0647\u0627 \u062a\u0639\u0631\u0641\u0647 \u06f2\u06f0\u06f0 \u062f\u0631\u0635\u062f\u06cc \u0645\u06cc\u06af\u0630\u0627\u0631\u0645",
+          "url": "https://www.balatarin.com:443/permlink/2025/3/13/6311528",
+          "sourcecountry": "Iran",
+          "seendate": "20250314T091500Z"
+        },
+        {
+          "title": "  \u0d35\u0d3f\u0d33\u0d3f\u0d1a\u0d4d\u0d1a\u0d3e\u0d7d \u0d35\u0d3f\u0d33\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d31\u0d24\u0d4d\u0d24\u0d41\u0d33\u0d4d\u0d33 \u0d07\u0d32\u0d15\u0d4d\u0d1f\u0d4d\u0d30\u0d40\u0d37\u0d7b , \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d1c\u0d40\u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d15\u0d3e\u0d30\u0d23\u0d19\u0d4d\u0d19\u0d7e \u0d28\u0d3f\u0d30\u0d24\u0d4d\u0d24\u0d3f \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d7b \u0d38\u0d4d\u0d35\u0d26\u0d47\u0d36\u0d3f",
+          "url": "https://www.mathrubhumi.com/lifestyle/news/america-native-living-in-india-list-10-things-she-wish-to-have-in-us-1.10416943",
+          "sourcecountry": "India",
+          "seendate": "20250312T080000Z"
+        },
+        {
+          "title": "\u0645\u0630\u0627\u06a9\u0631\u0647 \u0648\u0632\u0631\u0627\u06cc \u062e\u0627\u0631\u062c\u0647 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0639\u0631\u0628\u06cc \u0628\u0627 \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0637\u0631\u062d \u0628\u0627\u0632\u0633\u0627\u0632\u06cc \u063a\u0632\u0647",
+          "url": "https://www.radiofarda.com/a/arab-ministers-us-mideast-envoy-meet-on-gaza-reconstruction-says-qatar/33346139.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250313T050000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-03-19",
+      "week_end": "2025-03-25",
+      "events": [
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0628\u0631\u0627\u0633\u0627\u0633 \u0686\u0647 \u0642\u0627\u0646\u0648\u0646\u06cc \u0635\u062f\u0647\u0627 \u0648\u0646\u0632\u0648\u0626\u0644\u0627\u06cc\u06cc \u0631\u0627 \u0627\u0632 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u062e\u0631\u0627\u062c \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u061f ",
+          "url": "https://www.bbc.com/persian/articles/cvg5z9311r0o",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250319T070000Z"
+        },
+        {
+          "title": "\u0631\u0627\u062f\u06cc\u0648 \u0627\u0631\u0648\u067e\u0627\u06cc \u0622\u0632\u0627\u062f \u0627\u0632 \u00ab \u0633\u0627\u0632\u0645\u0627\u0646 \u0631\u0633\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u00bb \u0628\u0647 \u062f\u0644\u06cc\u0644 \u0642\u0637\u0639 \u0628\u0648\u062f\u062c\u0647\u200c\u0627\u0634 \u0628\u0647 \u062f\u0627\u062f\u06af\u0627\u0647 \u0634\u06a9\u0627\u06cc\u062a \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/rfe-rl-sues-usagm-to-block-termination-of-federal-grant/33352026.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250319T014500Z"
+        },
+        {
+          "title": "\u0646\u062e\u0633\u062a\u200c\u0648\u0632\u06cc\u0631 \u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9 \u062e\u0648\u0627\u0633\u062a\u0627\u0631 \u0627\u062a\u062d\u0627\u062f \u0627\u0631\u0648\u067e\u0627 \u0628\u0631\u0627\u06cc \u062d\u0641\u0638 \u0631\u0627\u062f\u06cc\u0648 \u0627\u0631\u0648\u067e\u0627\u06cc \u0622\u0632\u0627\u062f \u0634\u062f \u061b \u0634\u06a9\u0627\u06cc\u062a \u0635\u062f\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
+          "url": "https://www.radiofarda.com/a/czech-republic-to-rescue-radio-free-europe-after-donald-trump-funding-cuts/33355918.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250322T153000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0644\u063a\u0648 \u0627\u0642\u0627\u0645\u062a \u0642\u0627\u0646\u0648\u0646\u06cc \u06f5\u06f0\u06f0\u0647\u0632\u0627\u0631 \u0645\u0647\u0627\u062c\u0631 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u061b \u062f\u0648\u0644\u062a \u062a\u0631\u0627\u0645\u067e \u0628\u0631\u0627\u06cc \u0634\u0647\u0631\u0648\u0646\u062f\u0627\u0646 \u0686\u0647\u0627\u0631 \u06a9\u0634\u0648\u0631 \u06f3\u06f0\u0631\u0648\u0632 \u0641\u0631\u0635\u062a \u062a\u0631\u06a9 \u062e\u0627\u06a9 \u062f\u0627\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/3/23/6314867",
+          "sourcecountry": "Iran",
+          "seendate": "20250324T040000Z"
+        },
+        {
+          "title": "\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d2a\u0d3f \u0d30\u0d3e\u0d1c\u0d40\u0d35\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d38\u0d28\u0d4d\u0d26\u0d30\u0d4d\u200d\u0d36\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d \u0d05\u0d28\u0d41\u0d2e\u0d24\u0d3f \u0d28\u0d3f\u0d37\u0d47\u0d27\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d15\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d02",
+          "url": "https://www.sirajlive.com/center-denies-permission-to-minister-p-rajeev-to-visit-america.html",
+          "sourcecountry": "India",
+          "seendate": "20250325T194500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-03-26",
+      "week_end": "2025-04-01",
+      "events": [
+        {
+          "title": "\u0d12\u0d32\u0d3f\u0d1a\u0d4d\u0d1a\u0d41\u0d2a\u0d4b\u0d2f\u0d24\u0d4d 4 \u0d32\u0d15\u0d4d\u0d37\u0d02 \u0d15\u0d4b\u0d1f\u0d3f \u0d21\u0d4b\u0d33\u0d30\u0d4d\u200d ; \u0d24\u0d3e\u0d30\u0d3f\u0d2b\u0d4d \u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d02 \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d46 \u0d38\u0d3e\u0d2e\u0d4d\u0d2a\u0d24\u0d4d\u0d24\u0d3f\u0d15 \u0d2e\u0d3e\u0d28\u0d4d\u0d26\u0d4d\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d24\u0d33\u0d4d\u0d33\u0d3f\u0d35\u0d3f\u0d1f\u0d41\u0d2e\u0d4b ?, recession , united states , america , donald trump , tariff war",
+          "url": "https://www.mathrubhumi.com/news/news-plus/is-the-us-heading-into-a-recession-donald-trump-tariff-war-1.10463043",
+          "sourcecountry": "India",
+          "seendate": "20250329T073000Z"
+        },
+        {
+          "title": "\u0631\u0627\u062f\u06cc\u0648 \u0627\u0631\u0648\u067e\u0627\u06cc \u0622\u0632\u0627\u062f \u0647\u0645\u0632\u0645\u0627\u0646 \u0628\u0627 \u0627\u0646\u062a\u0638\u0627\u0631 \u0628\u0631\u0627\u06cc \u062f\u0631\u06cc\u0627\u0641\u062a \u0628\u0648\u062f\u062c\u0647 \u060c \u0634\u06a9\u0627\u06cc\u062a \u062e\u0648\u062f \u0631\u0627 \u067e\u06cc\u06af\u06cc\u0631\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/rfe-rl-continues-lawsuit-as-it-awaits-funds-/33363351.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250329T004500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0647\u0632\u0627\u0631 \u06a9\u0627\u0631\u062a \u0637\u0644\u0627\u06cc\u06cc \u0627\u0642\u0627\u0645\u062a \u067e\u0646\u062c \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u06cc\u06a9 \u0647\u0641\u062a\u0647 \u0628\u0647 \u0641\u0631\u0648\u0634 \u0631\u0633\u06cc\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/3/27/6316222",
+          "sourcecountry": "Iran",
+          "seendate": "20250328T050000Z"
+        },
+        {
+          "title": "\u0639\u0628\u062f\u0627\u0644\u0642\u0647\u0627\u0631 \u0628\u0644\u062e\u06cc : \u062a\u0633\u0644\u06cc\u062d\u0627\u062a \u0628\u062c\u0627\u0645\u0627\u0646\u062f\u0647 \u0627\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0628\u0627\u0632\u06af\u0631\u062f\u0627\u0646\u062f\u0647 \u0646\u0645\u06cc\u200c\u0634\u0648\u0646\u062f",
+          "url": "https://www.khaama.com/persian/archives/153805",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20250329T090000Z"
+        },
+        {
+          "title": "\u062f\u0648\u0644\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0648\u0646\u062f \u0627\u0639\u0637\u0627\u06cc \u0628\u0631\u062e\u06cc \u062f\u0631\u062e\u0648\u0627\u0633\u062a\u200c\u0647\u0627\u06cc \u0627\u0642\u0627\u0645\u062a \u062f\u0627\u0626\u0645 \u0631\u0627 \u0645\u062a\u0648\u0642\u0641 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/trump-administration-stops-processing-some-green-cards-to-do-more-vetting-/33360433.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250326T101500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-04-02",
+      "week_end": "2025-04-08",
+      "events": [
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u062a\u0639\u0631\u0641\u0647\u200c\u0647\u0627 \u0631\u0627 \u0686\u0647 \u0637\u0648\u0631 \u0645\u062d\u0627\u0633\u0628\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u061f ",
+          "url": "https://www.bbc.com/persian/articles/czx4rz2xex5o",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250405T063000Z"
+        },
+        {
+          "title": "\u0d2a\u0d15\u0d30\u0d1a\u0d4d\u0d1a\u0d41\u0d19\u0d4d\u0d15\u0d02 - \u0d09\u0d2d\u0d2f\u0d15\u0d15\u0d4d\u0d37\u0d3f \u0d1a\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d15\u0d33\u0d3f\u0d32\u0d4d\u200d \u0d15\u0d23\u0d4d\u0d23\u0d41\u0d35\u0d46\u0d1a\u0d4d\u0d1a\u0d4d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f , \u0d07\u0d33\u0d35\u0d41\u0d15\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d38\u0d3e\u0d27\u0d4d\u0d2f\u0d24 , donald trump , announces , reciprocal tariff , impact on India",
+          "url": "https://www.mathrubhumi.com/news/news-plus/donald-trump-announces-reciprocal-tariff-impact-on-india-1.10479581",
+          "sourcecountry": "India",
+          "seendate": "20250403T150000Z"
+        },
+        {
+          "title": "\u0d15\u0d3e\u0d31\u0d41\u0d02 \u0d24\u0d41\u0d23\u0d3f\u0d2f\u0d41\u0d02 \u0d2e\u0d41\u0d24\u0d32\u0d4d\u200d \u0d15\u0d3e\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d41\u0d1f\u0d3f \u0d35\u0d30\u0d46 \u0d2e\u0d41\u0d1f\u0d4d\u0d1f\u0d41\u0d02 ; \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d1f\u0d3f\u0d24\u0d4d\u0d24\u0d40\u0d30\u0d41\u0d35\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d35\u0d3f\u0d32 \u0d15\u0d42\u0d1f\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d0e\u0d28\u0d4d\u0d24\u0d3f\u0d28\u0d46\u0d32\u0d4d\u0d32\u0d3e\u0d02 ? \u0d2a\u0d1f\u0d4d\u0d1f\u0d3f\u0d15 \u0d07\u0d24\u0d3e",
+          "url": "https://www.manoramanews.com/gulf-and-global/world/2025/04/03/trumps-tariff-policy-backfires-price-hikes-hit-american-consumers.html",
+          "sourcecountry": "India",
+          "seendate": "20250403T080000Z"
+        },
+        {
+          "title": "\u0622\u0646\u0686\u0647 \u062f\u0631\u0628\u0627\u0631\u0647\u0654 \u062a\u0639\u0631\u0641\u0647\u200c\u0647\u0627\u06cc \u06af\u0633\u062a\u0631\u062f\u0647\u0654 \u062a\u0631\u0627\u0645\u067e \u0645\u06cc\u200c\u062f\u0627\u0646\u06cc\u0645 \u060c \u0648 \u0646\u0645\u06cc\u200c\u062f\u0627\u0646\u06cc\u0645",
+          "url": "https://www.radiofarda.com/a/what-we-know-and-don-t-know-about-trump-s-massive-tariff-plan/33368347.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250402T074500Z"
+        },
+        {
+          "title": "US imposes  retaliatory tariff ; 26 percent duty on India |  \u0d2a\u0d15\u0d30\u0d1a\u0d4d\u0d1a\u0d41\u0d19\u0d4d\u0d15\u0d02  \u0d1a\u0d41\u0d2e\u0d24\u0d4d\u0d24\u0d3f \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15 ; \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d2e\u0d47\u0d32\u0d4d\u200d 26 \u0d36\u0d24\u0d2e\u0d3e\u0d28\u0d02 \u0d24\u0d40\u0d30\u0d41\u0d35 ; \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f \u0d38\u0d41\u0d39\u0d43\u0d24\u0d4d\u0d24\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
+          "url": "https://www.mangalam.com/news/detail/773717-latest-news-us-imposes-retaliatory-tariffs-26-percent-duty-on-india.html",
+          "sourcecountry": "India",
+          "seendate": "20250403T063000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-04-09",
+      "week_end": "2025-04-15",
+      "events": [
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 : \u0686\u06cc\u0646 \u0627\u0632 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0641\u0631\u06cc\u0628\u0646\u062f\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u06a9\u0627\u0631\u06a9\u0646\u0627\u0646 \u0641\u0639\u0644\u06cc \u0648 \u0633\u0627\u0628\u0642 \u0641\u062f\u0631\u0627\u0644 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/us-intelligence-agency-warns-china-is-trying-to-recruit-government-employees/33378217.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250409T101500Z"
+        },
+        {
+          "title": "\u0d2f\u0d41\u0d0e\u0d38\u0d4d - \u0d1a\u0d48\u0d28 \u0d35\u0d4d\u0d2f\u0d3e\u0d2a\u0d3e\u0d30\u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d02 \u0d2e\u0d41\u0d31\u0d41\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41 ; \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d41\u0d1f\u0d46 \u0d2c\u0d4b\u0d2f\u0d3f\u0d19\u0d4d \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d35\u0d47\u0d23\u0d4d\u0d1f\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d1a\u0d48\u0d28",
+          "url": "https://www.chandrikadaily.com/us-china-trade-war-intensifies-china-does-not-want-americas-boeing-planes.html",
+          "sourcecountry": "India",
+          "seendate": "20250415T151500Z"
+        },
+        {
+          "title": "\u0633\u0631\u062e\u0637 \u062e\u0628\u0631\u0647\u0627 : \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u062c\u0644\u0628 \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc \u062a\u0648\u0633\u0637 \u062f\u0627\u062f\u0633\u062a\u0627\u0646 \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646 \u061b \u0631\u0635\u062f \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0645\u062a\u0642\u0627\u0636\u06cc\u0627\u0646 \u0648\u06cc\u0632\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
+          "url": "https://parsi.euronews.com/2025/04/10/headline-of-the-days-news",
+          "sourcecountry": "United States",
+          "seendate": "20250410T104500Z"
+        },
+        {
+          "title": "\u0645\u062d\u0633\u0646 \u0645\u0647\u062f\u0648\u06cc \u062d\u06cc\u0646 \u0645\u0635\u0627\u062d\u0628\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a \u0634\u0647\u0631\u0648\u0646\u062f\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0627\u0632\u062f\u0627\u0634\u062a \u0634\u062f",
+          "url": "https://news.gooya.com/2025/04/post-97147.php",
+          "sourcecountry": "Iran",
+          "seendate": "20250415T183000Z"
+        },
+        {
+          "title": "\u0627\u06cc\u0631\u0627\u0646 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u062f\u0648\u0631 \u0628\u0639\u062f\u06cc \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0628\u0627 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0647\u0645\u0686\u0646\u0627\u0646 \u062f\u0631 \u0645\u0633\u0642\u0637 \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f",
+          "url": "https://www.radiofarda.com/a/tehran-says-next-round-of-iran-us-nuclear-talks-in-oman-after-rome-named-by-officials/33385530.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250415T081500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-04-16",
+      "week_end": "2025-04-22",
+      "events": [
+        {
+          "title": "\u0d39\u0d42\u0d24\u0d3f\u0d15\u0d33\u0d46 \u0d24\u0d15\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d4d \u0d07\u0d31\u0d3e\u0d28\u0d46 \u0d35\u0d30\u0d41\u0d24\u0d3f\u0d2f\u0d3f\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d02 \u0d2b\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4b ?, Yemen US airstrike , Ras Isa oil port , Houthis , Iran , military conflict , missile attacks",
+          "url": "https://www.mathrubhumi.com/news/news-plus/us-airstrike-yemen-targeted-houthi-1.10523411",
+          "sourcecountry": "India",
+          "seendate": "20250420T110000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0632\u062f\u0627\u0634\u062a \u0639\u0636\u0648 \u067e\u06cc\u0634\u06cc\u0646 \u067e\u0627\u0631\u0644\u0645\u0627\u0646 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u062f\u0631 \u06a9\u0646\u06cc\u0627 \u0628\u0647 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647",
+          "url": "https://www.khaama.com/persian/archives/154598",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20250421T193000Z"
+        },
+        {
+          "title": "\u0d1a\u0d48\u0d28 \u0d15\u0d47\u0d3e\u0d33\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d47\u0d3e \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d24\u0d3e\u0d30\u0d3f\u0d2b\u0d4d \u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d24\u0d4d\u0d24\u0d3f\u0d7d ? \u0d21\u0d4d\u0d30\u0d3e\u0d17\u0d7a \u0d05\u0d23\u0d3f\u0d2f\u0d31\u0d2f\u0d3f\u0d7d \u0d30\u0d3e\u0d15\u0d3f\u0d2e\u0d3f\u0d28\u0d41\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d2f\u0d41\u0d27\u0d19\u0d4d\u0d19\u0d7e \u0d0e\u0d28\u0d4d\u0d24\u0d46\u0d3e\u0d15\u0d4d\u0d15\u0d46 ? ",
+          "url": "https://www.mathrubhumi.com/news/news-plus/china-us-trade-war-china-s-strategy-1.10517050",
+          "sourcecountry": "India",
+          "seendate": "20250417T110000Z"
+        },
+        {
+          "title": "\u0627\u0639\u062a\u0631\u0627\u0641 \u06cc\u06a9 \u0627\u06cc\u0631\u0627\u0646\u06cc\u200c - \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0628\u0647 \u062c\u0627\u0633\u0648\u0633\u06cc \u0627\u0632 \u0627\u062f\u0627\u0631\u0647 \u0647\u0648\u0627\u0646\u0648\u0631\u062f\u06cc \u0641\u062f\u0631\u0627\u0644 \u0628\u0631\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646",
+          "url": "https://parsi.euronews.com/2025/04/17/iranian-american-confesses-to-spying-federal-aviation-administration-for-iran",
+          "sourcecountry": "United States",
+          "seendate": "20250417T164500Z"
+        },
+        {
+          "title": "\u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc \u06a9\u0644\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0648 \u0628\u0627\u0632\u06cc \u06a9\u0646\u0648\u0646\u06cc \u062f\u0648\u0644\u062a \u062a\u0631\u0627\u0645\u067e \u060c \u062c\u0641\u0631\u06cc \u0633\u0627\u06a9\u0633",
+          "url": "https://news.gooya.com/2025/04/post-97296.php",
+          "sourcecountry": "Iran",
+          "seendate": "20250421T053000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-04-23",
+      "week_end": "2025-04-29",
+      "events": [
+        {
+          "title": "\u062a\u0644\u0627\u0634 \u062f\u0648\u0644\u062a \u062a\u0631\u0627\u0645\u067e \u0628\u0631\u0627\u06cc \u0645\u0646\u062d\u0644 \u06a9\u0631\u062f\u0646 \u0635\u062f\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0627 \u062d\u06a9\u0645 \u0642\u0636\u0627\u06cc\u06cc \u0645\u062a\u0648\u0642\u0641 \u0634\u062f",
+          "url": "https://parsi.euronews.com/2025/04/23/us-federal-judge-blocks-trump-administration-from-dismantling-voice-of-america",
+          "sourcecountry": "United States",
+          "seendate": "20250423T203000Z"
+        },
+        {
+          "title": "\u062f\u0628\u06cc\u0631\u06a9\u0644 \u0646\u0627\u062a\u0648 : \u0631\u0648\u0633\u06cc\u0647 \u06cc\u06a9 \u062a\u0647\u062f\u06cc\u062f \u0628\u0644\u0646\u062f \u0645\u062f\u062a \u0627\u0633\u062a",
+          "url": "https://www.tasnimnews.com/fa/news/1404/02/05/3298625/%D8%AF%D8%A8%DB%8C%D8%B1%DA%A9%D9%84-%D9%86%D8%A7%D8%AA%D9%88-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%DB%8C%DA%A9-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D8%A8%D9%84%D9%86%D8%AF-%D9%85%D8%AF%D8%AA-%D8%A7%D8%B3%D8%AA",
+          "sourcecountry": "Iran",
+          "seendate": "20250425T081500Z"
+        },
+        {
+          "title": "\u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u0648\u06cc\u062a\u06a9\u0627\u0641 \u0628\u0627 \u067e\u0648\u062a\u06cc\u0646 \u062f\u0631 \u0645\u0633\u06a9\u0648 \u061b \u0627\u062d\u062a\u0645\u0627\u0644 \u062a\u063a\u06cc\u06cc\u0631 \u0633\u06cc\u0627\u0633\u062a \u0648\u0627\u0634\u06cc\u0646\u06af\u062a\u0646 \u062f\u0631 \u0645\u0648\u0631\u062f \u06a9\u0631\u06cc\u0645\u0647",
+          "url": "https://www.radiofarda.com/a/in-major-us-policy-shift-witkoff-and-putin-set-to-discuss-recognizing-crimea/33396623.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250425T120000Z"
+        },
+        {
+          "title": "\u0628\u0644\u0648\u0645\u0628\u0631\u06af : \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+          "url": "https://news.gooya.com/2025/04/post-97557.php",
+          "sourcecountry": "Iran",
+          "seendate": "20250429T174500Z"
+        },
+        {
+          "title": "| \u0d35\u0d4d\u0d2f\u0d3e\u0d2a\u0d3e\u0d30\u0d15\u0d4d\u0d15\u0d30\u0d3e\u0d30\u0d4d\u200d \u0d28\u0d3f\u0d2c\u0d28\u0d4d\u0d27\u0d28\u0d15\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d\u200c \u0d05\u0d28\u0d4d\u0d24\u0d3f\u0d2e\u0d30\u0d42\u0d2a\u0d02 \u0d28\u0d32\u0d4d\u200d\u0d15\u0d3f : \u0d35\u0d3e\u0d28\u0d4d\u200d\u0d38\u0d4d\u200c",
+          "url": "https://www.mangalam.com/news/detail/777137-india.html",
+          "sourcecountry": "India",
+          "seendate": "20250423T044500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-04-30",
+      "week_end": "2025-05-06",
+      "events": [
+        {
+          "title": "\u067e\u06cc\u0627\u0645 \u0648\u0632\u06cc\u0631 \u062f\u0641\u0627\u0639 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0627\u06cc\u0631\u0627\u0646 : \u062a\u0627\u0648\u0627\u0646 \u062d\u0645\u0627\u06cc\u062a \u0627\u0632 \u062d\u0648\u062b\u06cc\u200c\u0647\u0627 \u0631\u0627 \u062e\u0648\u0627\u0647\u06cc\u062f \u067e\u0631\u062f\u0627\u062e\u062a",
+          "url": "https://parsi.euronews.com/2025/05/01/pentagon-chief-warns-iran-of-consequences-for-supporting-houthis",
+          "sourcecountry": "United States",
+          "seendate": "20250501T051500Z"
+        },
+        {
+          "title": "\u062a\u0648\u0627\u0641\u0642\u06cc \u0645\u0628\u0646\u06cc \u0628\u0631 \u062f\u0633\u062a\u0631\u0633\u06cc \u0627\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0645\u0646\u0627\u0628\u0639 \u0645\u0639\u062f\u0646\u06cc \u06a9\u0645\u06cc\u0627\u0628 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0627\u0645\u0636\u0627 \u0634\u062f",
+          "url": "https://www.khaama.com/persian/archives/154935",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20250501T084500Z"
+        },
+        {
+          "title": "\u0d39\u0d42\u0d24\u0d3f\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d46\u0d24\u0d3f\u0d30\u0d3e\u0d2f \u0d38\u0d48\u0d28\u0d3f\u0d15 \u0d28\u0d1f\u0d2a\u0d1f\u0d3f\u0d15\u0d7e \u0d1a\u0d4b\u0d7c\u0d28\u0d4d\u0d28 \u0d38\u0d02\u0d2d\u0d35\u0d02 : \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d26\u0d47\u0d36\u0d40\u0d2f \u0d38\u0d41\u0d30\u0d15\u0d4d\u0d37 \u0d09\u0d2a\u0d26\u0d47\u0d37\u0d4d\u0d1f\u0d3e\u0d35\u0d4d \u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d2e\u0d4a\u0d34\u0d3f\u0d2f\u0d41\u0d28\u0d4d\u0d28\u0d41",
+          "url": "https://www.mathrubhumi.com/news/world/mike-waltz-resigns-us-national-security-adviser-donald-trump-1.10554693",
+          "sourcecountry": "India",
+          "seendate": "20250502T000000Z"
+        },
+        {
+          "title": "\u062f\u0633\u062a\u0648\u0631 \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647 \u0647\u06af\u0633\u062a \u0628\u0647 \u067e\u0646\u062a\u0627\u06af\u0648\u0646",
+          "url": "https://www.khabaronline.ir/news/2059979/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%A8%DB%8C-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D9%87%DA%AF%D8%B3%D8%AA-%D8%A8%D9%87-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86",
+          "sourcecountry": "Iran",
+          "seendate": "20250506T041500Z"
+        },
+        {
+          "title": "\u062f\u0631\u0628\u0627\u0631\u0647 \u0642\u0631\u0627\u0631\u062f\u0627\u062f \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0628\u0631\u0627\u06cc \u0627\u06a9\u062a\u0634\u0627\u0641 \u0645\u0646\u0627\u0628\u0639 \u0637\u0628\u06cc\u0639\u06cc \u0686\u0647 \u0645\u06cc\u200c\u062f\u0627\u0646\u06cc\u0645 \u061f ",
+          "url": "https://www.bbc.com/persian/articles/c3v94k6y261o",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250502T043000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-05-07",
+      "week_end": "2025-05-13",
+      "events": [
+        {
+          "title": "Antidumping : Investigation On Imports Of PVC Suspension Resin From The United States",
+          "url": "https://www.mondaq.com:443/unitedstates/economic-analysis/1621498/antidumping-investigation-on-imports-of-pvc-suspension-resin-from-the-united-states",
+          "sourcecountry": "United States",
+          "seendate": "20250509T083000Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u06cc\u06a9 \u067e\u0627\u0644\u0627\u06cc\u0634\u06af\u0627\u0647 \u00ab \u0642\u0648\u0631\u06cc \u00bb \u062f\u06cc\u06af\u0631 \u0686\u06cc\u0646 \u0631\u0627 \u062a\u062d\u0631\u06cc\u0645 \u06a9\u0631\u062f \u06a9\u0647 \u0627\u0632 \u0627\u06cc\u0631\u0627\u0646 \u0646\u0641\u062a \u0645\u06cc\u200c\u062e\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/us-again-targets-iran-oil-despite-talks/33408479.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250508T153000Z"
+        },
+        {
+          "title": "\u06cc\u06a9 \u062f\u0627\u062f\u06af\u0627\u0647 \u062a\u062c\u062f\u06cc\u062f\u0646\u0638\u0631 \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062d\u06a9\u0645 \u00ab \u062a\u0639\u0644\u06cc\u0642 \u0645\u0648\u0642\u062a \u00bb \u0627\u062e\u062a\u0635\u0627\u0635 \u0628\u0648\u062f\u062c\u0647\u0654 \u0631\u0627\u062f\u06cc\u0648 \u0622\u0632\u0627\u062f\u06cc \u0631\u0627 \u0631\u062f \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/in-emergency-ruling-us-appeals-court-reverses-halt-to-funding-for-radio-free-europe/33408615.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250508T194500Z"
+        },
+        {
+          "title": "\u062a\u0645\u062f\u06cc\u062f \u06f6\u06f0 \u0631\u0648\u0632\u0647 \u0648\u0636\u0639\u06cc\u062a \u062d\u0641\u0627\u0638\u062a \u0645\u0648\u0642\u062a \u067e\u0646\u0627\u0647\u062c\u0648\u06cc\u0627\u0646 \u0627\u0641\u063a\u0627\u0646 \u062f\u0631 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647",
+          "url": "https://www.khaama.com/persian/archives/155218",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20250510T063000Z"
+        },
+        {
+          "title": "\u062a\u062d\u0631\u06cc\u0645 \u00ab \u0634\u0628\u06a9\u0647 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f\u06cc \u00bb \u0627\u0646\u062a\u0642\u0627\u0644 \u0646\u0641\u062a \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u0686\u06cc\u0646 \u0627\u0632 \u0633\u0648\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
+          "url": "https://www.radiofarda.com/a/us-imposes-sanctions-on-network-sending-iranian-oil-to-china/33412692.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250513T170000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-05-14",
+      "week_end": "2025-05-20",
+      "events": [
+        {
+          "title": "\u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d \u0d15\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d28\u0d4d\u0d28 \u0d16\u0d24\u0d4d\u0d24\u0d31\u0d3f\u0d28\u0d4d\u0d31\u0d46 3411 \u0d15\u0d4b\u0d1f\u0d3f\u0d2f\u0d41\u0d1f\u0d46  \u0d2a\u0d31\u0d15\u0d4d\u0d15\u0d41\u0d02 \u0d15\u0d4a\u0d1f\u0d4d\u0d1f\u0d3e\u0d30\u0d02 ; \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d02 \u0d15\u0d48\u0d2e\u0d3e\u0d31\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3f\u0d28\u0d4d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3f\u0d32\u0d46\u0d28\u0d4d\u0d24\u0d4d ? ",
+          "url": "https://www.mathrubhumi.com/news/news-plus/donald-trump-qatar-s-flying-palace-boeing-747-8-1.10584874",
+          "sourcecountry": "India",
+          "seendate": "20250514T073000Z"
+        },
+        {
+          "title": "\u0d13\u0d2a\u0d4d\u0d2a\u0d31\u0d47\u0d37\u0d7b \u0d38\u0d3f\u0d28\u0d4d\u0d26\u0d42\u0d7c \u0d35\u0d47\u0d33\u0d2f\u0d3f\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d41\u0d1f\u0d46 \u0d24\u0d40\u0d38\u0d4d\u0d24 \u0d2a\u0d4d\u0d30\u0d39\u0d3e\u0d7c ; \u0d2c\u0d02\u0d17\u0d4d\u0d32\u0d3e\u0d26\u0d47\u0d36\u0d3f\u0d28\u0d41\u0d02 \u0d1a\u0d48\u0d28\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41\u0d02 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d4d",
+          "url": "https://www.mathrubhumi.com/news/news-plus/indias-teesta-prahar-military-exercise-a-message-to-china-and-bangladesh-1.10594896",
+          "sourcecountry": "India",
+          "seendate": "20250518T130000Z"
+        },
+        {
+          "title": "\u0639\u0644\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc : \u06af\u0645\u0627\u0646 \u0646\u0645\u06cc\u200c\u06a9\u0646\u0645 \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0628\u0627 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0646\u062a\u06cc\u062c\u0647 \u0628\u0631\u0633\u062f \u061b \u0646\u0645\u06cc\u200c\u062f\u0627\u0646\u06cc\u0645 \u0686\u0647 \u062e\u0648\u0627\u0647\u062f \u0634\u062f",
+          "url": "https://www.radiofarda.com/a/iran-reviewing-proposal-for-5th-round-of-nuclear-talks-deputy-foreign-min-says/33419101.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250520T100000Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e : \u0645\u06cc\u0632\u0628\u0627\u0646\u0627\u0646 \u0639\u0631\u0628 \u062a\u0634\u0646\u0647 \u0645\u062d\u0628\u062a \u0628\u0648\u062f\u0646\u062f ! ",
+          "url": "https://news.gooya.com/2025/05/post-98014.php",
+          "sourcecountry": "Iran",
+          "seendate": "20250516T100000Z"
+        },
+        {
+          "title": "\u0d2f\u0d41\u0d0e\u0d38\u0d3f\u0d28\u0d4d \u0d2a\u0d41\u0d31\u0d24\u0d4d\u0d24\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d4b\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d2a\u0d23\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d41\u0d02 \u0d28\u0d3f\u0d15\u0d41\u0d24\u0d3f ! \u0d28\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d23\u0d2e\u0d2f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d35\u0d30\u0d41\u0d02 \u0d35\u0d46\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d3e\u0d15\u0d41\u0d02",
+          "url": "https://www.manoramanews.com/gulf-and-global/world/2025/05/17/donald-trump-remittance-tax-h1b-visa-holders.html",
+          "sourcecountry": "India",
+          "seendate": "20250517T190000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-05-21",
+      "week_end": "2025-05-27",
+      "events": [
+        {
+          "title": "\u0698\u06cc\u0627\u0626\u0648 \u0648\u0627\u0646\u06af \u060c \u0632\u0646\u062f\u0627\u0646\u06cc \u067e\u06cc\u0634\u06cc\u0646 \u062f\u0631 \u0627\u06cc\u0631\u0627\u0646 \u060c \u00ab \u0628\u0647 \u0648\u0632\u0627\u0631\u062a \u062e\u0627\u0631\u062c\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u067e\u06cc\u0648\u0633\u062a\u0647 \u0627\u0633\u062a \u00bb ",
+          "url": "https://www.radiofarda.com/a/33421310.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250522T141500Z"
+        },
+        {
+          "title": "\u0d05\u0d30\u0d28\u0d42\u0d31\u0d4d\u0d31\u0d3e\u0d23\u0d4d\u0d1f\u0d3f\u0d28\u0d4d\u0d31\u0d46  \u0d15\u0d33\u0d4d\u0d33\u0d02 ; \u0d32\u0d4b\u0d15\u0d24\u0d4d\u0d24\u0d46 \u0d15\u0d30\u0d2f\u0d3f\u0d1a\u0d4d\u0d1a \u0d06 \u0d1a\u0d3f\u0d24\u0d4d\u0d30\u0d2e\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d24\u0d4d \u0d06\u0d30\u0d4d ? ",
+          "url": "https://www.mathrubhumi.com/news/news-plus/world-press-photo-suspends-attribution-of-historic-vietnam-war-image-nick-ut-napalm-girl-1.10602180",
+          "sourcecountry": "India",
+          "seendate": "20250521T103000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0633\u06cc \u0627\u0646 \u0627\u0646 : \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u062c\u062f\u06cc\u062f \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u062f\u0631 \u062d\u0627\u0644 \u0622\u0645\u0627\u062f\u0647 \u0634\u062f\u0646 \u0628\u0631\u0627\u06cc \u062d\u0645\u0644\u0647 \u0627\u062d\u062a\u0645\u0627\u0644\u06cc \u0628\u0647 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0627\u0633\u062a",
+          "url": "https://www.balatarin.com:443/permlink/2025/5/21/6337489",
+          "sourcecountry": "Iran",
+          "seendate": "20250521T080000Z"
+        },
+        {
+          "title": "IranPressNews : \u0627\u064a\u0631\u0627\u0646 \u067e\u0631\u0633 \u0646\u064a\u0648\u0632 \u0627\u062e\u0628\u0627\u0631 \u0627\u064a\u0631\u0627\u0646 \u0648 \u062c\u0647\u0627\u0646",
+          "url": "https://iranpressnews.com/source/243641.htm",
+          "sourcecountry": "Iran",
+          "seendate": "20250521T113000Z"
+        },
+        {
+          "title": "\u062e\u0628\u0631\u0646\u06af\u0627\u0631 \u067e\u0648\u0644\u06cc\u062a\u06cc\u06a9\u0648 : \u0632\u0646\u062f\u0627\u0646\u06cc \u0633\u0627\u0628\u0642 \u0627\u06cc\u0631\u0627\u0646 \u0645\u0634\u0627\u0648\u0631 \u0627\u0631\u0634\u062f \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u062f",
+          "url": "https://parsi.euronews.com/2025/05/22/former-prisoner-in-iran-becomes-senior-adviser-to-us-secretary-of-state",
+          "sourcecountry": "United States",
+          "seendate": "20250522T071500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-05-28",
+      "week_end": "2025-06-03",
+      "events": [
+        {
+          "title": "\u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d \u0d24\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d1f\u0d3f ; \u0d05\u0d27\u0d3f\u0d15\u0d24\u0d40\u0d30\u0d41\u0d35 \u0d31\u0d26\u0d4d\u0d26\u0d3e\u0d15\u0d4d\u0d15\u0d3f \u0d2b\u0d46\u0d21\u0d31\u0d32\u0d4d\u200d \u0d15\u0d4b\u0d1f\u0d24\u0d3f",
+          "url": "https://www.chandrikadaily.com/backlash-to-trump-federal-court-overturns-surcharge.html",
+          "sourcecountry": "India",
+          "seendate": "20250529T064500Z"
+        },
+        {
+          "title": "\u0d0e\u0d28\u0d4d\u0d24\u0d41\u0d15\u0d46\u0d3e\u0d23\u0d4d\u0d1f\u0d4d \u0d1a\u0d48\u0d28\u0d40\u0d38\u0d4d \u0d35\u0d3f\u0d26\u0d4d\u0d2f\u0d3e\u0d7c\u0d25\u0d3f\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d35\u0d3f\u0d32\u0d15\u0d4d\u0d15\u0d4d ? ",
+          "url": "https://www.mathrubhumi.com/news/news-plus/us-to-revoke-visas-of-chinese-students-1.10627753",
+          "sourcecountry": "India",
+          "seendate": "20250531T070000Z"
+        },
+        {
+          "title": "\u0627\u06a9\u0633\u06cc\u0648\u0633 : \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u0627\u0645\u0644 \u063a\u0646\u06cc\u200c\u0633\u0627\u0632\u06cc \u0645\u062d\u062f\u0648\u062f \u0627\u0648\u0631\u0627\u0646\u06cc\u0648\u0645 \u062f\u0631 \u062e\u0627\u06a9 \u0627\u06cc\u0631\u0627\u0646 \u0645\u06cc\u200c\u0634\u0648\u062f",
+          "url": "https://www.radiofarda.com/a/us-nuclear-deal-offer-allows-iran-to-enrich-uranium---axios/33432108.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250602T210000Z"
+        },
+        {
+          "title": "\u06f3 \u0646\u0634\u0627\u0646\u0647 \u0627\u0632 \u0634\u06a9\u0644\u200c\u06af\u06cc\u0631\u06cc \u0645\u0648\u062c \u0636\u062f \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u0633\u0637\u062d \u062c\u0647\u0627\u0646\u06cc",
+          "url": "https://www.bbc.com/persian/articles/c1w3exr5e92o",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250529T121500Z"
+        },
+        {
+          "title": "\u0d2e\u0d38\u0d4d\u200c\u0d15\u0d3f\u0d28\u0d4d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d46 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d07\u0d1f\u0d1e\u0d4d\u0d1e\u0d4d \u0d15\u0d41\u0d15\u0d4d\u0d15\u0d41\u0d02 ; \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d41\u0d1f\u0d46  \u0d06\u0d2a\u0d4d\u0d2a\u0d3f\u0d33\u0d4d\u200d  \u0d38\u0d4d\u0d35\u0d2a\u0d4d\u200c\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d05\u0d15\u0d32\u0d46\u0d2f\u0d4b ?, apple ceo tim cook donald trump tariff war",
+          "url": "https://www.mathrubhumi.com/technology/tech-plus/apple-ceo-tim-cook-donald-trump-tariff-war-1.10620028",
+          "sourcecountry": "India",
+          "seendate": "20250529T121500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-06-04",
+      "week_end": "2025-06-10",
+      "events": [
+        {
+          "title": "\u0d05\u0d28\u0d3e\u0d35\u0d43\u0d24\u0d2e\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d05\u0d28\u0d3e\u0d35\u0d43\u0d24\u0d2e\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d2f\u0d41 \u0d0e\u0d38\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d39\u0d3f\u0d02\u0d38\u0d4d\u0d30\u0d2e\u0d41\u0d16\u0d02",
+          "url": "https://www.sirajlive.com/the-violent-face-of-the-us-is-being-exposed.html",
+          "sourcecountry": "India",
+          "seendate": "20250611T004500Z"
+        },
+        {
+          "title": "\u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d41\u0d33\u0d4d\u0d33 \u0d0f\u0d31\u0d4d\u0d31\u0d41\u0d2e\u0d41\u0d1f\u0d4d\u0d1f\u0d7d \u0d24\u0d41\u0d1f\u0d7c\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d38\u0d4d\u0d15\u0d4d ; US - \u0d7d \u0d2a\u0d41\u0d24\u0d3f\u0d2f \u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30\u0d40\u0d2f\u0d2a\u0d3e\u0d7c\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d35\u0d47\u0d23\u0d4d\u0d1f\u0d3f \u0d0e\u0d15\u0d4d\u0d38\u0d3f\u0d7d \u0d05\u0d2d\u0d3f\u0d2a\u0d4d\u0d30\u0d3e\u0d2f\u0d38\u0d7c\u0d35\u0d47",
+          "url": "https://www.mathrubhumi.com/news/world/is-it-time-to-create-a-new-political-party-in-america-asks-elon-musk-1.10644018",
+          "sourcecountry": "India",
+          "seendate": "20250606T053000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0633\u0641\u0631 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u0627\u0645\u0644 \u0627\u0642\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0645\u0630\u0647\u0628\u06cc \u0648 \u0642\u0648\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0646\u0645\u06cc\u200c\u0634\u0648\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/6/5/6343803",
+          "sourcecountry": "Iran",
+          "seendate": "20250605T163000Z"
+        },
+        {
+          "title": "Trump 2025 travel ban : Uncle Sam new no - fly list just got bigger ; this is what has been banned and barred",
+          "url": "https://timesofindia.indiatimes.com/etimes/trending/trump-2025-travel-ban-uncle-sams-new-no-fly-list-just-got-bigger-this-is-what-has-been-banned-and-barred/articleshow/121654258.cms",
+          "sourcecountry": "India",
+          "seendate": "20250605T161500Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u0642\u0637\u0639\u0646\u0627\u0645\u0647\u0654 \u0622\u062a\u0634\u200c\u0628\u0633 \u0641\u0648\u0631\u06cc \u062f\u0631 \u063a\u0632\u0647 \u0648 \u0628\u0631\u062f\u0627\u0634\u062a\u0646 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627\u06cc \u0627\u0645\u062f\u0627\u062f\u0631\u0633\u0627\u0646\u06cc \u0631\u0627 \u0648\u062a\u0648 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/us-vetoes-un-security-council-resolution-demanding-an-immediate-gaza-ceasefire/33434615.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250605T111500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-06-11",
+      "week_end": "2025-06-17",
+      "events": [
+        {
+          "title": "\u0d05\u0d28\u0d3e\u0d35\u0d43\u0d24\u0d2e\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d05\u0d28\u0d3e\u0d35\u0d43\u0d24\u0d2e\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d2f\u0d41 \u0d0e\u0d38\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d39\u0d3f\u0d02\u0d38\u0d4d\u0d30\u0d2e\u0d41\u0d16\u0d02",
+          "url": "https://www.sirajlive.com/the-violent-face-of-the-us-is-being-exposed.html",
+          "sourcecountry": "India",
+          "seendate": "20250611T004500Z"
+        },
+        {
+          "title": "\u0d32\u0d4b\u0d38\u0d4d \u0d0f\u0d1e\u0d4d\u0d1a\u0d32\u0d4d\u200d\u0d38\u0d3f\u0d32\u0d4d\u200d \u0d1a\u0d30\u0d3f\u0d24\u0d4d\u0d30\u0d02 \u0d06\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d3f\u0d15\u0d4d\u0d15\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d28\u0d4d\u0d28\u0d41",
+          "url": "https://www.sirajlive.com/history-is-repeating-itself-in-los-angeles.html",
+          "sourcecountry": "India",
+          "seendate": "20250613T004500Z"
+        },
+        {
+          "title": "\u0d07\u0d38\u0d4d\u0d30\u0d2f\u0d47\u0d7d \u0d07\u0d31\u0d3e\u0d28\u0d46 \u0d06\u0d15\u0d4d\u0d30\u0d2e\u0d3f\u0d1a\u0d4d\u0d1a\u0d47\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d2d\u0d4d\u0d2f\u0d42\u0d39\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d3f\u0d1f\u0d46 \u0d2a\u0d36\u0d4d\u0d1a\u0d3f\u0d2e\u0d47\u0d37\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d24\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28 \u0d28\u0d40\u0d15\u0d4d\u0d15\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d0e\u0d38\u0d4d , Israel , Iran , conflict , attack , nuclear , US , Middle East , tensions , withdrawal , Trump , Netanyahu",
+          "url": "https://www.mathrubhumi.com/news/world/israel-iran-conflict-us-withdrawal-1.10658363",
+          "sourcecountry": "India",
+          "seendate": "20250612T060000Z"
+        },
+        {
+          "title": "\u062f\u06cc\u067e\u0644\u0645\u0627\u0633\u06cc \u06a9\u0631\u0647\u200c\u062c\u0646\u0648\u0628\u06cc \u062f\u0631 \u0639\u0635\u0631 \u0645\u06cc\u0648\u0646\u06af",
+          "url": "https://www.khabaronline.ir/news/2076549/%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D9%85%DB%8C%D9%88%D9%86%DA%AF",
+          "sourcecountry": "Iran",
+          "seendate": "20250612T043000Z"
+        },
+        {
+          "title": "\u0d2e\u0d3e\u0d2a\u0d4d\u0d2a\u0d41\u0d2a\u0d31\u0d1e\u0d4d\u0d1e\u0d4d \u0d0e\u0d32\u0d4b\u0d23\u0d4d\u200d \u0d2e\u0d38\u0d4d\u200c\u0d15\u0d4d ; \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d2e\u0d1e\u0d4d\u0d1e\u0d41\u0d30\u0d41\u0d15\u0d4d\u0d15\u0d02",
+          "url": "https://www.sirajlive.com/elon-musk-apologizes-snow-melts-in-america.html",
+          "sourcecountry": "India",
+          "seendate": "20250611T201500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-06-18",
+      "week_end": "2025-06-24",
+      "events": []
+    },
+    {
+      "week_start": "2025-06-25",
+      "week_end": "2025-07-01",
+      "events": []
+    },
+    {
+      "week_start": "2025-07-02",
+      "week_end": "2025-07-08",
+      "events": [
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d35\u0d3f\u0d30\u0d41\u0d26\u0d4d\u0d27 \u0d2c\u0d4d\u0d30\u0d3f\u0d15\u0d4d\u0d38\u0d4d \u0d28\u0d2f\u0d19\u0d4d\u0d19\u0d33\u0d4b\u0d1f\u0d4d \u0d1a\u0d47\u0d30\u0d41\u0d28\u0d4d\u0d28 \u0d30\u0d3e\u0d1c\u0d4d\u0d2f\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d24\u0d4d\u0d24\u0d4d \u0d36\u0d24\u0d2e\u0d3e\u0d28\u0d02 \u0d05\u0d27\u0d3f\u0d15 \u0d24\u0d40\u0d30\u0d41\u0d35 ; \u0d35\u0d28\u0d4d\u200d \u0d2d\u0d40\u0d37\u0d23\u0d2f\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
+          "url": "https://janayugomonline.com/trump-threatens-10-percent-additional-tariff-on-countries-that-join-anti-us-brics-policies/",
+          "sourcecountry": "India",
+          "seendate": "20250707T061500Z"
+        },
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d35\u0d3f\u0d30\u0d41\u0d26\u0d4d\u0d27 \u0d2c\u0d4d\u0d30\u0d3f\u0d15\u0d4d\u200c\u0d38\u0d4d \u0d28\u0d2f\u0d19\u0d4d\u0d19\u0d33\u0d4b\u0d1f\u0d4d \u0d1a\u0d47\u0d30\u0d41\u0d28\u0d4d\u0d28 \u0d30\u0d3e\u0d1c\u0d4d\u0d2f\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d 10 % \u0d05\u0d27\u0d3f\u0d15 \u0d24\u0d40\u0d30\u0d41\u0d35 ; \u0d2d\u0d40\u0d37\u0d23\u0d3f\u0d2f\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d , Trump , BRICS , tariff , trade war , India , Brazil , Russia , China , South Africa , anti - US , Gaza , Iran",
+          "url": "https://www.mathrubhumi.com/news/world/trump-threatens-tariff-brics-nations-1.10726444",
+          "sourcecountry": "India",
+          "seendate": "20250707T063000Z"
+        },
+        {
+          "title": "\u0627\u0632 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u062a\u0627 \u0627\u06cc\u0631\u0627\u0646 \u061b \u0622\u06cc\u0627 \u0645\u062f\u0627\u062e\u0644\u0647 \u0646\u0638\u0627\u0645\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062c\u0648\u0627\u0628 \u0645\u06cc\u200c\u062f\u0647\u062f \u061f ",
+          "url": "https://www.bbc.com/persian/articles/c74wd023w0ko",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250703T143000Z"
+        },
+        {
+          "title": "\u0d2e\u0d3f\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d30\u0d4d\u200d \u0d2f\u0d42\u0d23\u0d3f\u0d35\u0d47\u0d34\u0d4d\u0d38\u0d4d \u0d2a\u0d1f\u0d4d\u0d1f\u0d02 \u0d28\u0d47\u0d1f\u0d3f\u0d2f \u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d2f\u0d02\u0d15\u0d3e\u0d30\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d35\u0d3f\u0d1c\u0d2f\u0d17\u0d3e\u0d25",
+          "url": "https://www.manoramanews.com/health/wellness/fitness/2025/07/08/sidharth-balakrishnan-npc-mr-universe-indian-bodybuilder.html",
+          "sourcecountry": "India",
+          "seendate": "20250708T111500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u067e\u0648\u062a\u06cc\u0646 \u0627\u0632 \u0631\u0648\u0627\u0628\u0637 \u062a\u0627\u0631\u06cc\u062e\u06cc \u00ab \u0628\u0633\u06cc\u0627\u0631 \u062f\u0648\u0633\u062a\u0627\u0646\u0647 \u00bb \u0631\u0648\u0633\u06cc\u0647 \u0648 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062a\u0645\u062c\u06cc\u062f \u06a9\u0631\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/7/6/6357553",
+          "sourcecountry": "Iran",
+          "seendate": "20250707T023000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-07-09",
+      "week_end": "2025-07-15",
+      "events": [
+        {
+          "title": "  \u0d05\u0d28\u0d4d\u0d28\u0d4d \u0d2f\u0d41 . \u0d0e\u0d38\u0d4d \u0d15\u0d3e\u0d2a\u0d3f\u0d31\u0d4d\u0d31\u0d4b\u0d33\u0d3f\u0d32\u0d4d\u200d \u0d2a\u0d3e\u0d31\u0d3f\u0d2f \u0d2a\u0d24\u0d3e\u0d15 \u0d0e\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d2f\u0d3f \u0d24\u0d3e\u0d34\u0d46\u0d2f\u0d3f\u0d31\u0d19\u0d4d\u0d19\u0d3f , \u0d1c\u0d4b \u0d2c\u0d48\u0d21\u0d28\u0d4d\u200d \u0d06\u0d26\u0d30\u0d35\u0d4b\u0d1f\u0d46 \u0d38\u0d2e\u0d30\u0d4d\u200d\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41 , Valsala Sekhar , Autobiography , Pathayil Patharathe , Migration , U . S Senate , Joe Biden",
+          "url": "https://www.mathrubhumi.com/literature/columns/valsala-sekhar-autobiography-pathayil-patharathe-1.10735712",
+          "sourcecountry": "India",
+          "seendate": "20250711T093000Z"
+        },
+        {
+          "title": "South Sudan National Day",
+          "url": "https://www.zawya.com/en/press-release/africa-press-releases/south-sudan-national-day-hkkdpmp0",
+          "sourcecountry": "United Arab Emirates",
+          "seendate": "20250710T094500Z"
+        },
+        {
+          "title": "Globe Newswire Press Releases and News",
+          "url": "https://windsorstar.com:443/category/globe-newswire/",
+          "sourcecountry": "Canada",
+          "seendate": "20250714T210000Z"
+        },
+        {
+          "title": "\u0686\u0647 \u0686\u06cc\u0632\u06cc \u062a\u0631\u0627\u0645\u067e \u0631\u0627 \u062a\u0627 \u0627\u06cc\u0646 \u062d\u062f \u0646\u06af\u0631\u0627\u0646 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u061f ",
+          "url": "https://www.khabaronline.ir/news/2088301/%DA%86%D9%87-%DA%86%DB%8C%D8%B2%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B1%D8%A7-%D8%AA%D8%A7-%D8%A7%DB%8C%D9%86-%D8%AD%D8%AF-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+          "sourcecountry": "Iran",
+          "seendate": "20250711T084500Z"
+        },
+        {
+          "title": "\u0632\u0646\u06af \u062e\u0637\u0631 \u0628\u0631\u0627\u06cc \u0631\u0648\u0633\u06cc\u0647 \u0628\u0647 \u0635\u062f\u0627 \u062f\u0631\u0622\u0645\u062f",
+          "url": "https://www.khabaronline.ir/news/2089472/%D8%B2%D9%86%DA%AF-%D8%AE%D8%B7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D9%87-%D8%B5%D8%AF%D8%A7-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF",
+          "sourcecountry": "Iran",
+          "seendate": "20250714T054500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-07-16",
+      "week_end": "2025-07-22",
+      "events": [
+        {
+          "title": "Laufende Fusionskontrollverfahren : H . I . G . Capital LLC , Miami , Vereinigte Staaten von Amerika / Erwerb von Anteilen an der und Kontrolle \u00fcber die WKM Wohnkonzept Management GmbH , Berlin",
+          "url": "https://www.finanznachrichten.de/nachrichten-2025-07/65962149-laufende-fusionskontrollverfahren-h-i-g-capital-llc-miami-vereinigte-staaten-von-amerika-erwerb-von-anteilen-an-der-und-kontrolle-ueber-die-wkm-wo-019.htm",
+          "sourcecountry": "Germany",
+          "seendate": "20250722T074500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0633\u0641\u0627\u0631\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u062f\u0645\u0634\u0642 \u0627\u0632 \u0634\u0647\u0631\u0648\u0646\u062f\u0627\u0646 \u062e\u0648\u062f \u062e\u0648\u0627\u0633\u062a \u06a9\u0647 \u0647\u0631\u0686\u0647 \u0632\u0648\u062f\u062a\u0631 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u0627\u0631\u062f\u0646 \u062e\u0627\u06a9 \u0633\u0648\u0631\u06cc\u0647 \u0631\u0627 \u062a\u0631\u06a9 \u06a9\u0646\u0646\u062f ! ",
+          "url": "https://www.balatarin.com:443/permlink/2025/7/21/6363298",
+          "sourcecountry": "Iran",
+          "seendate": "20250721T191500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0646\u06cc\u0648\u0632\u0648\u06cc\u06a9 : \u0641\u0631\u0645\u0627\u0646\u062f\u0647\u0627\u0646 \u0633\u067e\u0627\u0647 \u0622\u0645\u0627\u062f\u0647 \u0627\u0632\u0633\u0631\u06af\u06cc\u0631\u06cc \u062c\u0646\u06af \u0628\u0627 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0647\u0633\u062a\u0646\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/7/19/6362351",
+          "sourcecountry": "Iran",
+          "seendate": "20250719T123000Z"
+        },
+        {
+          "title": "\u0d28\u0d4b\u0d23\u0d4d\u200d \u0d35\u0d46\u0d1c\u0d4d \u0d2a\u0d3e\u0d32\u0d3f\u0d28\u0d4d \u0d05\u0d28\u0d41\u0d2e\u0d24\u0d3f \u0d35\u0d47\u0d23\u0d02 , \u0d2a\u0d31\u0d4d\u0d31\u0d3f\u0d32\u0d4d\u0d32\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f ; \u0d2a\u0d3e\u0d7d\u0d28\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d15\u0d41\u0d1f\u0d41\u0d19\u0d4d\u0d19\u0d3f \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f - \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d35\u0d4d\u0d2f\u0d3e\u0d2a\u0d3e\u0d30 \u0d15\u0d30\u0d3e\u0d7c , India - US trade , dairy dispute , non - vegetarian milk , vegetarian feed , Indian dairy farmers , US dairy",
+          "url": "https://www.mathrubhumi.com/news/news-plus/india-us-dairy-dispute-non-veg-milk-us-trade-deal-1.10765713",
+          "sourcecountry": "India",
+          "seendate": "20250721T110000Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e : \u0627\u0641\u063a\u0627\u0646\u200c\u0647\u0627\u06cc \u06af\u06cc\u0631\u0645\u0627\u0646\u062f\u0647 \u062f\u0631 \u0627\u0645\u0627\u0631\u0627\u062a \u0631\u0627 \u0646\u062c\u0627\u062a \u0645\u06cc\u200c\u062f\u0647\u0645",
+          "url": "http://www.afghanpaper.com/nbody.php?id=177654",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20250721T093000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-07-23",
+      "week_end": "2025-07-29",
+      "events": [
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0628\u0647 \u062a\u0648\u0627\u0641\u0642 \u062a\u062c\u0627\u0631\u06cc \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u0627\u06cc \u0628\u0627 \u0698\u0627\u067e\u0646 \u062f\u0633\u062a \u06cc\u0627\u0641\u062a \u061b \u0627\u0631\u0632\u0634 \u0633\u0647\u0627\u0645 \u062e\u0648\u062f\u0631\u0648\u0633\u0627\u0632\u0627\u0646 \u0627\u0641\u0632\u0627\u06cc\u0634 \u06cc\u0627\u0641\u062a",
+          "url": "https://www.radiofarda.com/a/trump-strikes-tariff-deal-with-japan-auto-stocks-surge/33481554.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250723T080000Z"
+        },
+        {
+          "title": "TRF \u0d2d\u0d40\u0d15\u0d30\u0d38\u0d02\u0d18\u0d1f\u0d28 : \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d3f\u0d7d \u0d0e\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d2a\u0d4d\u0d2a\u0d4b\u0d7e  \u0d2f\u0d41\u0d1f\u0d47\u0d7a  \u0d05\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d2a\u0d3e\u0d15\u0d4d \u0d09\u0d2a\u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f , \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d28\u0d1f\u0d2a\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d3f\u0d28\u0d4d\u0d24\u0d41\u0d23",
+          "url": "https://www.mathrubhumi.com/news/world/trf-terrorist-organization-pakistan-deputy-pm-ishaq-dar-usa-1.10779021",
+          "sourcecountry": "India",
+          "seendate": "20250726T174500Z"
+        },
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d2a\u0d4b\u0d23\u0d4d\u200d \u0d24\u0d3e\u0d30\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4a\u0d2a\u0d4d\u0d2a\u0d02 \u0d38\u0d46\u0d32\u0d4d\u200d\u0d2b\u0d3f ; \u0d12\u0d31\u0d4d\u0d31 \u0d06\u0d34\u0d4d\u0d1a \u0d15\u0d4a\u0d23\u0d4d\u0d1f\u0d4d \u0d2e\u0d3f\u0d32\u0d4d\u0d2f\u0d23\u0d4d\u200d \u0d2b\u0d4b\u0d33\u0d4b\u0d35\u0d47\u0d34\u0d4d\u0d38\u0d4d , \u0d12\u0d1f\u0d41\u0d35\u0d3f\u0d32\u0d4d\u200d \u0d2c\u0d47\u0d2c\u0d3f\u0d21\u0d4b\u0d33\u0d4d\u200d \u0d06\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d1a\u0d41\u0d30\u0d41\u0d33\u0d34\u0d3f\u0d1e\u0d4d\u0d1e\u0d41",
+          "url": "https://www.manoramanews.com/india/latest/2025/07/23/ai-baby-doll-archie-ex-boyfriend-arrested-fake-profile.html",
+          "sourcecountry": "India",
+          "seendate": "20250724T054500Z"
+        },
+        {
+          "title": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0627\u0632 \u0633\u0627\u0632\u0645\u0627\u0646 \u06cc\u0648\u0646\u0633\u06a9\u0648 \u062e\u0627\u0631\u062c \u0645\u06cc\u200c\u0634\u0648\u062f \u061b \u0627\u0638\u0647\u0627\u0631 \u062a\u0627\u0633\u0641 \u062f\u0628\u06cc\u0631\u06a9\u0644 \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644",
+          "url": "https://www.radiofarda.com/a/33481164.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250723T030000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f : \u0646\u062a\u0627\u0646\u06cc\u0627\u0647\u0648 \u062f\u0631\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u062a\u0646\u0647\u0627 \u062f\u0644\u06cc\u0644 \u0648\u062c\u0648\u062f \u06a9\u0634\u0648\u0631 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0627\u0633\u062a",
+          "url": "https://www.balatarin.com:443/permlink/2025/7/26/6365009",
+          "sourcecountry": "Iran",
+          "seendate": "20250726T130000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-07-30",
+      "week_end": "2025-08-05",
+      "events": [
+        {
+          "title": "\u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d2a\u0d31\u0d1e\u0d4d\u0d1e \u0d05\u0d28\u0d4d\u0d24\u0d7c\u0d35\u0d3e\u0d39\u0d3f\u0d28\u0d3f\u0d15\u0d7e \u0d28\u0d3f\u0d30\u0d40\u0d15\u0d4d\u0d37\u0d23\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d3e\u0d23\u0d4d ; \u0d05\u0d24\u0d4d \u0d24\u0d15\u0d7c\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d41\u0d02 \u0d1e\u0d19\u0d4d\u0d19\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d31\u0d4d\u0d31\u0d41\u0d02 - \u0d31\u0d37\u0d4d\u0d2f",
+          "url": "https://www.mathrubhumi.com/news/world/russia-have-enough-nuclear-submarines-to-face-trumps-submarines-says-russia-1.10798695",
+          "sourcecountry": "India",
+          "seendate": "20250802T121500Z"
+        },
+        {
+          "title": "\u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d24\u0d40\u0d30\u0d41\u0d35 \u0d2d\u0d40\u0d15\u0d30\u0d24\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d\u200c \u0d2e\u0d41\u0d1f\u0d4d\u0d1f\u0d41\u0d2e\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d24\u0d46 \u0d2e\u0d31\u0d41\u0d35\u0d34\u0d3f\u0d15\u0d33\u0d4d\u200d \u0d24\u0d47\u0d1f\u0d3e\u0d28\u0d4d\u200d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f , donald trump , US Tariffs India , Tariffs war , russi , New Delhi",
+          "url": "https://www.mathrubhumi.com/news/news-plus/india-s-reply-to-trump-s-25-tariffs-1.10793027",
+          "sourcecountry": "India",
+          "seendate": "20250731T174500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0632\u0627\u0631\u0647\u0627\u06cc \u0633\u0647\u0627\u0645 \u062c\u0647\u0627\u0646 \u062f\u0631 \u067e\u06cc \u062a\u0639\u0631\u0641\u0647\u200c\u0647\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0628\u0631 \u06f7\u06f0 \u06a9\u0634\u0648\u0631 \u062c\u0647\u0627\u0646 \u0633\u0642\u0648\u0637 \u06a9\u0631\u062f\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/trump-hits-more-countries-with-steep-tariffs-markets-tumble/33492031.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250801T161500Z"
+        },
+        {
+          "title": "\u0d05\u0d35 \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2a\u0d4d\u0d30\u0d1a\u0d3e\u0d30\u0d23\u0d19\u0d4d\u0d19\u0d7e , \u0d2f\u0d41\u0d0e\u0d38\u0d41\u0d2e\u0d3e\u0d2f\u0d41\u0d33\u0d4d\u0d33 \u0d09\u0d2d\u0d2f\u0d15\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d30\u0d3e\u0d31\u0d41\u0d15\u0d33\u0d4d\u200d \u0d2e\u0d30\u0d35\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d4d\u200d \u0d28\u0d40\u0d15\u0d4d\u0d15\u0d2e\u0d3f\u0d32\u0d4d\u0d32 - \u0d35\u0d3f\u0d26\u0d47\u0d36\u0d15\u0d3e\u0d30\u0d4d\u0d2f\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3e\u0d32\u0d2f\u0d02 , us india trade deal , fake reports , external affairs ministry",
+          "url": "https://www.mathrubhumi.com/news/world/ministry-of-external-affairs-on-fake-reports-after-india-us-trade-conflict-1.10801766",
+          "sourcecountry": "India",
+          "seendate": "20250803T173000Z"
+        },
+        {
+          "title": "Kosovo agreed to take in migrants , Trump writes a letter of thanks to Osmani , mentions the deep US - Kosovo connection",
+          "url": "https://www.gazetaexpress.com/en/kosova-pranoi-te-marre-migrante-trump-i-shkruan-leter-falenderuese-osmanit-permend-lidhjen-e-thelle-shba-kosove/",
+          "sourcecountry": "Kosovo",
+          "seendate": "20250805T221500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-08-06",
+      "week_end": "2025-08-12",
+      "events": [
+        {
+          "title": "us - india - trade - tensions - trump - tariffs - russia - oil | \u0d31\u0d37\u0d4d\u0d2f\u0d28\u0d4d\u200d \u0d0e\u0d23\u0d4d\u0d23 \u0d35\u0d3e\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3f\u0d32\u0d4d\u200d \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d0e\u0d24\u0d3f\u0d30\u0d4d\u200d\u0d2a\u0d4d\u0d2a\u0d4d \u0d24\u0d33\u0d4d\u0d33\u0d3f ; \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d46\u200d\u0d24\u0d3f\u0d30\u0d46 \u0d15\u0d1f\u0d41\u0d24\u0d4d\u0d24 \u0d28\u0d1f\u0d2a\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d4d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
+          "url": "https://www.manoramanews.com/gulf-and-global/world/2025/08/06/us-india-trade-tensions-trump-tariffs-russia-oil.html",
+          "sourcecountry": "India",
+          "seendate": "20250806T043000Z"
+        },
+        {
+          "title": "\u0d2a\u0d4a\u0d33\u0d4d\u0d33\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d2a\u0d15\u0d30\u0d1a\u0d4d\u0d1a\u0d41\u0d19\u0d4d\u0d15\u0d02 ; \u0d15\u0d41\u0d30\u0d41\u0d2e\u0d41\u0d33\u0d15\u0d4d , \u0d15\u0d3e\u0d2a\u0d4d\u0d2a\u0d3f , \u0d0f\u0d32\u0d02 , \u0d31\u0d2c\u0d4d\u0d2c\u0d30\u0d4d\u200d \u0d15\u0d30\u0d4d\u200d\u0d37\u0d15\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d24\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d1f\u0d3f , Indian exports , US Tariffs , trade war , farmers , spices , rubber , tea , coffee",
+          "url": "https://www.mathrubhumi.com/news/india/us-import-duty-hits-indian-exports-1.10818079",
+          "sourcecountry": "India",
+          "seendate": "20250809T023000Z"
+        },
+        {
+          "title": "\u0627\u06cc\u0631\u0627\u0646 : \u062f\u0631 \u0635\u0648\u0631\u062a \u0644\u063a\u0648 \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627 \u060c \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627\u06cc \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0631\u0627 \u0645\u06cc\u200c\u067e\u0630\u06cc\u0631\u06cc\u0645 \u060c \u067e\u0631\u062f\u0627\u062e\u062a \u063a\u0631\u0627\u0645\u062a \u067e\u06cc\u0634\u200c\u0634\u0631\u0637 \u0645\u0630\u0627\u06a9\u0631\u0647 \u0646\u06cc\u0633\u062a",
+          "url": "https://parsi.euronews.com/2025/08/11/iran-accepts-nuclear-restrictions-if-sanctions-lifted-compensation-not-precondition-neg",
+          "sourcecountry": "United States",
+          "seendate": "20250811T161500Z"
+        },
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d38\u0d2e\u0d4d\u0d2e\u0d30\u0d4d\u200d\u0d26\u0d4d\u0d26\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d \u0d35\u0d34\u0d19\u0d4d\u0d19\u0d3f\u0d32\u0d4d\u0d32\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d28\u0d30\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d2e\u0d4b\u0d21\u0d3f",
+          "url": "https://janayugomonline.com/prime-minister-narendra-modi-says-he-will-not-bow-to-american-pressure/",
+          "sourcecountry": "India",
+          "seendate": "20250807T070000Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0645\u062c\u0631\u06cc \u0641\u0627\u06a9\u0633 \u0646\u06cc\u0648\u0632 \u0631\u0627 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0645\u0639\u0627\u0648\u0646 \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f",
+          "url": "https://www.khaama.com/persian/archives/158129",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20250810T091500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-08-13",
+      "week_end": "2025-08-19",
+      "events": [
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d3e\u0d27\u0d3f\u0d2a\u0d24\u0d4d\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d \u0d30\u0d3e\u0d1c\u0d4d\u0d2f\u0d02 \u0d15\u0d40\u0d34\u0d1f\u0d19\u0d4d\u0d19\u0d30\u0d41\u0d24\u0d4d",
+          "url": "https://www.sirajlive.com/the-country-should-not-surrender-to-american-domination.html",
+          "sourcecountry": "India",
+          "seendate": "20250813T213000Z"
+        },
+        {
+          "title": "Behrami : Donika Gervalla prepared the ground for Serbia",
+          "url": "https://www.gazetaexpress.com/en/behrami-donika-gervalla-ia-beri-terrenin-e-gatshem-serbise/",
+          "sourcecountry": "Kosovo",
+          "seendate": "20250814T073000Z"
+        },
+        {
+          "title": "\u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d35\u0d4d\u0d2f\u0d3e\u0d2a\u0d3e\u0d30 \u0d1a\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a \u0d09\u0d2a\u0d47\u0d15\u0d4d\u0d37\u0d3f\u0d1a\u0d4d\u0d1a\u0d41 ; \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d38\u0d02\u0d18\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d28\u0d4d\u200d \u0d2f\u0d3e\u0d24\u0d4d\u0d30 \u0d31\u0d26\u0d4d\u0d26\u0d3e\u0d15\u0d4d\u0d15\u0d3f",
+          "url": "https://janayugomonline.com/india-abandons-us-trade-talks-india-trip-of-us-team-cancelled/",
+          "sourcecountry": "India",
+          "seendate": "20250817T173000Z"
+        },
+        {
+          "title": "\u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d02 \u0d24\u0d40\u0d30\u0d4d\u200d\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d1a\u0d48\u0d28\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d23\u0d3f\u0d2f\u0d3e\u0d2f\u0d47\u0d15\u0d4d\u0d15\u0d41\u0d02 ; \u0d05\u0d24\u0d3f\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d3f\u0d24\u0d4d\u0d24\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d02 \u0d24\u0d40\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d4d\u200d \u0d35\u0d3e\u0d19\u0d4d \u0d2f\u0d40 \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d32\u0d4d\u200d , China , India , Russia , Ukraine war , border dispute , Wang Yi , geopolitics , international relations",
+          "url": "https://www.mathrubhumi.com/news/news-plus/china-india-relations-ukraine-war-border-dispute-1.10845363",
+          "sourcecountry": "India",
+          "seendate": "20250819T070000Z"
+        },
+        {
+          "title": "\u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u0627\u0633\u0644\u0627\u0645\u200c\u0622\u0628\u0627\u062f \u0648 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u062f\u0631 \u0627\u0645\u0631 \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u0647\u0631\u0627\u0633\u200c\u0627\u0641\u06af\u0646\u06cc",
+          "url": "https://www.khaama.com/persian/archives/158275",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20250813T123000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-08-20",
+      "week_end": "2025-08-26",
+      "events": [
+        {
+          "title": "  \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d28\u0d4d\u200d  \u0d05\u0d27\u0d3f\u0d15\u0d24\u0d4d\u0d24\u0d40\u0d30\u0d41\u0d35\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d2e\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d42\u0d31\u0d41\u0d15\u0d33\u0d4d\u200d \u0d2c\u0d3e\u0d15\u0d4d\u0d15\u0d3f ; \u0d35\u0d46\u0d32\u0d4d\u0d32\u0d41\u0d35\u0d3f\u0d33\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f , \u0d2c\u0d26\u0d32\u0d41\u0d15\u0d33\u0d3f\u0d32\u0d4d\u200d  \u0d38\u0d4d\u0d35\u0d26\u0d47\u0d36\u0d3f  \u0d2f\u0d41\u0d02 , trump tariffs , india , steel , trade war , import duties , domestic production , international trade",
+          "url": "https://www.mathrubhumi.com/news/news-plus/india-challenges-trumps-steel-tariffs-1.10865180",
+          "sourcecountry": "India",
+          "seendate": "20250826T140000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0622\u0645\u0631\u06cc\u06a9\u0627 : \u0645\u063a\u0632\u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646 \u062f\u0631 \u062d\u0627\u0644 \u062a\u0631\u06a9 \u06a9\u0634\u0648\u0631 \u0647\u0633\u062a\u0646\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/8/25/6376000",
+          "sourcecountry": "Iran",
+          "seendate": "20250826T121500Z"
+        },
+        {
+          "title": "\u062f\u0648\u0631 \u062c\u062f\u06cc\u062f \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0639\u0644\u06cc\u0647 \u0627\u06cc\u0631\u0627\u0646 \u061b \u06f1\u06f3 \u0634\u0631\u06a9\u062a \u0648 \u0647\u0634\u062a \u06a9\u0634\u062a\u06cc \u062f\u0631 \u0641\u0647\u0631\u0633\u062a \u0633\u06cc\u0627\u0647 \u0642\u0631\u0627\u0631 \u06af\u0631\u0641\u062a\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/us-fresh-round-of-iran-related-sanctions-targeting-13-entitiess/33509625.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250821T230000Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u0686\u0647\u0627\u0631 \u0642\u0627\u0636\u06cc \u0648 \u0645\u0639\u0627\u0648\u0646 \u062f\u0627\u062f\u0633\u062a\u0627\u0646 \u062f\u06cc\u0648\u0627\u0646 \u06a9\u06cc\u0641\u0631\u06cc \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627 \u062a\u062d\u0631\u06cc\u0645 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/trump-administration-imposes-fresh-sanctions-on-four-icc-officials/33508620.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250820T180000Z"
+        },
+        {
+          "title": "\u062a\u0636\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u0628\u0631\u0627\u06cc \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0648\u0627\u0642\u0639\u0627 \u0628\u0647 \u0686\u0647 \u0645\u0639\u0646\u06cc \u0627\u0633\u062a \u061f ",
+          "url": "https://www.bbc.com/persian/articles/cj6ydl5zlgdo",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250821T001500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-08-27",
+      "week_end": "2025-09-02",
+      "events": [
+        {
+          "title": "United States Publishes Documents from Historic Armenia and Azerbaijan Meeting",
+          "url": "https://www.globalsecurity.org/military/library/news/2025/08/mil-250829-state01.htm",
+          "sourcecountry": "Syria",
+          "seendate": "20250830T111500Z"
+        },
+        {
+          "title": "\u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d15\u0d4d\u0d15\u0d4d \u0d35\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d02 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d2a\u0d4d\u0d30\u0d39\u0d30\u0d02",
+          "url": "https://janayugomonline.com/trumps-blow-to-india-again/",
+          "sourcecountry": "India",
+          "seendate": "20250827T164500Z"
+        },
+        {
+          "title": "\u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d41\u0d1f\u0d46 \u0d38\u0d4d\u0d35\u0d28\u0d4d\u0d24\u0d02 \u0d2c\u0d26\u0d7d \u0d2b\u0d32\u0d2a\u0d4d\u0d30\u0d26\u0d2e\u0d3e\u0d35\u0d41\u0d2e\u0d47\u0d3e \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d24\u0d40\u0d30\u0d41\u0d35\u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d24\u0d4d\u0d24\u0d3f\u0d7d ? ",
+          "url": "https://www.mathrubhumi.com/news/news-plus/donald-trump-s-50-tariffs-come-into-effect-today-india-prepares-strategy-1.10867729",
+          "sourcecountry": "India",
+          "seendate": "20250827T084500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062f\u0648\u0644\u062a \u0631\u0648\u0627\u0646\u062f\u0627 : \u0633\u0647 \u0646\u0641\u0631 \u0627\u0632 \u0645\u0647\u0627\u062c\u0631\u0627\u0646 \u0627\u062e\u0631\u0627\u062c\u06cc \u0627\u0632 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0642\u0635\u062f \u0628\u0627\u0632\u06af\u0634\u062a \u0628\u0647 \u06a9\u0634\u0648\u0631\u0634\u0627\u0646 \u0631\u0627 \u062f\u0627\u0631\u0646\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/8/28/6376976",
+          "sourcecountry": "Iran",
+          "seendate": "20250829T093000Z"
+        },
+        {
+          "title": "\u0d1f\u0d4d\u0d30\u0d46\u0d7b\u0d21\u0d3f\u0d19\u0d4d\u0d19\u0d3e\u0d2f\u0d3f  \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d08\u0d38\u0d4d \u0d21\u0d46\u0d21\u0d4d ; \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d15\u0d30\u0d23\u0d19\u0d4d\u0d19\u0d7e \u0d35\u0d3e\u0d7b\u0d38\u0d3f\u0d28\u0d4d\u0d31\u0d46  \u0d05\u0d24\u0d3f\u0d26\u0d3e\u0d30\u0d41\u0d23 \u0d26\u0d41\u0d30\u0d28\u0d4d\u0d24\u0d02  \u0d2a\u0d30\u0d3e\u0d2e\u0d30\u0d4d\u200d\u0d36\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d41 \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d46 , donald trump , jd vance , us president , latest malayalam news",
+          "url": "https://www.mathrubhumi.com/news/world/viral-trnd-in-x-after-jd-vance-remark-on-donald-trump-health-1.10875832",
+          "sourcecountry": "India",
+          "seendate": "20250830T080000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-09-03",
+      "week_end": "2025-09-09",
+      "events": [
+        {
+          "title": "\u0646\u06af\u0631\u0627\u0646\u06cc \u0627\u0631\u0648\u067e\u0627 \u0627\u0632 \u062e\u0631\u0648\u062c \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc",
+          "url": "https://www.tasnimnews.com/fa/news/1404/06/15/3393376/%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%AE%D8%B1%D9%88%D8%AC-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C",
+          "sourcecountry": "Iran",
+          "seendate": "20250906T134500Z"
+        },
+        {
+          "title": "\u0d35\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d02 \u0d1f\u0d3e\u0d15\u0d4d\u0d15\u0d4b ? \u0d1a\u0d41\u0d35\u0d1f\u0d41 \u0d2a\u0d3f\u0d34\u0d1a\u0d4d\u0d1a\u0d4d \u0d2a\u0d3f\u0d34\u0d24\u0d4d\u0d24\u0d40\u0d30\u0d41\u0d35 \u0d2a\u0d3f\u0d28\u0d4d\u200d\u0d35\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d4b \u0d2f\u0d41\u0d0e\u0d38\u0d4d ?, Trump , India , China , Russia , Modi , trade talks , tariffs , sanctions , foreign policy , SCO summit",
+          "url": "https://www.mathrubhumi.com/news/news-plus/taco-donald-trump-india-us-tarrifs-1.10891714",
+          "sourcecountry": "India",
+          "seendate": "20250906T171500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0648 \u06af\u0631\u0648\u0647 \u062a\u0628\u0647\u06a9\u0627\u0631 \u062f\u0631 \u0627\u06a9\u0648\u0627\u062f\u0648\u0631 \u0631\u0627 \u062f\u0631 \u0641\u0647\u0631\u0633\u062a \u062a\u0631\u0648\u0631\u06cc\u0633\u062a\u06cc \u0642\u0631\u0627\u0631 \u062f\u0627\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/9/4/6379348",
+          "sourcecountry": "Iran",
+          "seendate": "20250905T090000Z"
+        },
+        {
+          "title": "  Give my regards to Putin and Kim as you conspire against U : Trump sarcastic swipe at Xi on China Victory Day | World News",
+          "url": "https://indianexpress.com/article/world/give-my-regards-to-putin-and-kim-as-you-conspire-against-us-trumps-sarcastic-swipe-at-xi-on-chinas-victory-day-10227098/",
+          "sourcecountry": "India",
+          "seendate": "20250903T034500Z"
+        },
+        {
+          "title": "Holding ( s ) in Company | Company Announcement",
+          "url": "https://www.investegate.co.uk/announcement/rns/glenveagh-properties-cdi---glv/holding-s-in-company/9087440",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20250903T150000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-09-10",
+      "week_end": "2025-09-16",
+      "events": [
+        {
+          "title": "\u0628\u0633\u0646\u062a : \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647\u200c \u062e\u0627\u0637\u0631 \u0646\u0641\u062a \u0631\u0648\u0633\u06cc\u0647 \u0628\u0631 \u0686\u06cc\u0646 \u062a\u0639\u0631\u0641\u0647 \u0648\u0636\u0639 \u0646\u0645\u06cc\u200c\u06a9\u0646\u062f \u060c \u0645\u06af\u0631 \u0627\u06cc\u0646\u200c\u06a9\u0647 \u0627\u0631\u0648\u067e\u0627 \u067e\u06cc\u0634\u0642\u062f\u0645 \u0634\u0648\u062f",
+          "url": "https://www.radiofarda.com/a/update-1-bessent-says-us-won-t-hit-china-with-tariffs-over-russian-oil-unless-europe-goes-first/33531187.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250916T003000Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u0628\u06a9\u0647\u0654 \u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u06cc\u0634 \u0627\u0632 \u06f1\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0627\u0631\u0632 \u062f\u06cc\u062c\u06cc\u062a\u0627\u0644 \u062d\u0627\u0635\u0644 \u0627\u0632 \u0641\u0631\u0648\u0634 \u0646\u0641\u062a \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u062a\u062d\u0631\u06cc\u0645 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/us-sanctions-iranian-financiers-others-over-100m-in-cryptocurrency-transfers-from-iran-oil-sales/33532061.html",
+          "sourcecountry": "Iran",
+          "seendate": "20250916T190000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0631\u0648\u0628\u06cc\u0648 : \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0641\u0634\u0627\u0631 \u062d\u062f\u0627\u06a9\u062b\u0631\u06cc \u0628\u0631 \u0627\u06cc\u0631\u0627\u0646 \u0628\u0631\u0627\u06cc \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u062f\u0633\u062a\u06cc\u0627\u0628\u06cc \u0628\u0647 \u0633\u0644\u0627\u062d \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0627\u062f\u0627\u0645\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/9/15/6382754",
+          "sourcecountry": "Iran",
+          "seendate": "20250916T081500Z"
+        },
+        {
+          "title": "140 \u0d15\u0d4b\u0d1f\u0d3f \u0d1c\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d23\u0d4d\u0d1f\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d35\u0d40\u0d2e\u0d4d\u0d2a\u0d3f\u0d33\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41 , \u0d0e\u0d28\u0d4d\u0d28\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d02 \u0d1e\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d1a\u0d4b\u0d33\u0d02 \u0d35\u0d3e\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d3f\u0d32\u0d4d\u0d32 - \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d15\u0d4d\u0d15\u0d46\u0d24\u0d3f\u0d30\u0d47 US",
+          "url": "https://www.mathrubhumi.com/news/world/india-has-140-crore-people-but-wont-buy-us-corn-says-american-commerce-secretary-1.10913275",
+          "sourcecountry": "India",
+          "seendate": "20250914T201500Z"
+        },
+        {
+          "title": "Prime minister meets US vice president , secretary of state",
+          "url": "https://www.qatar-tribune.com/article/194188/latest-news/prime-minister-meets-us-vice-president-secretary-of-state",
+          "sourcecountry": "Qatar",
+          "seendate": "20250913T001500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-09-17",
+      "week_end": "2025-09-23",
+      "events": [
+        {
+          "title": "  H - 1B \u0d35\u0d3f\u0d38 \u0d28\u0d3f\u0d2f\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d23\u0d02 \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d28\u0d4d\u200d \u0d10\u0d1f\u0d3f \u0d2e\u0d47\u0d16\u0d32\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d26\u0d4b\u0d37\u0d15\u0d30\u0d02 ; \u0d2a\u0d15\u0d4d\u0d37\u0d47 , \u0d15\u0d42\u0d1f\u0d41\u0d24\u0d32\u0d4d\u200d \u0d2c\u0d3e\u0d27\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d15 \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d46 , H1 - B visa malayalam , Trump , Indian tech workers , US , visa immigration impact on India , reverse brain",
+          "url": "https://www.mathrubhumi.com/news/interview/trump-signs-proclamation-imposing-high-fee-for-h-1b-visa-applications-1.10929201",
+          "sourcecountry": "India",
+          "seendate": "20250920T141500Z"
+        },
+        {
+          "title": "\u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d1f\u0d15\u0d4d\u0d15\u0d02 23 \u0d30\u0d3e\u0d1c\u0d4d\u0d2f\u0d19\u0d4d\u0d19\u0d7e \u0d32\u0d39\u0d30\u0d3f \u0d2e\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46\u0d2f\u0d41\u0d02 \u0d28\u0d3f\u0d30\u0d4b\u0d27\u0d3f\u0d24 \u0d2e\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u0d09\u0d24\u0d4d\u0d2a\u0d3e\u0d26\u0d15\u0d30\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
+          "url": "https://www.mathrubhumi.com/news/world/trump-names-afghanistan-india-china-pakistan-among-major-illicit-drug-producing-countries-1.10923520",
+          "sourcecountry": "India",
+          "seendate": "20250918T090000Z"
+        },
+        {
+          "title": "\u0d35\u0d4d\u0d2f\u0d3e\u0d2a\u0d3e\u0d30 \u0d15\u0d30\u0d3e\u0d30\u0d4d\u200d \u0d1a\u0d30\u0d4d\u200d\u0d1a\u0d4d\u0d1a ; \u0d35\u0d3e\u0d23\u0d3f\u0d1c\u0d4d\u0d2f\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d2a\u0d3f\u0d2f\u0d42\u0d37\u0d4d \u0d17\u0d4b\u0d2f\u0d32\u0d4d\u200d \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d3f\u0d32\u0d47\u0d15\u0d4d\u0d15\u0d4d",
+          "url": "https://www.sirajlive.com/trade-deal-talks-commerce-minister-piyush-goyal-to-us.html",
+          "sourcecountry": "India",
+          "seendate": "20250920T044500Z"
+        },
+        {
+          "title": "\u0d2c\u0d02\u0d17\u0d4d\u0d32\u0d3e\u0d26\u0d47\u0d36\u0d3f\u0d32\u0d4d\u200d \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d3f\u0d31\u0d19\u0d4d\u0d19\u0d3f ! \u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2f\u0d02 \u0d05\u0d2a\u0d42\u0d30\u0d4d\u200d\u0d35\u0d2e\u0d42\u0d32\u0d15\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d02 \u0d1a\u0d48\u0d28\u0d2f\u0d41\u0d02 , \u0d15\u0d30\u0d41\u0d24\u0d32\u0d4b\u0d1f\u0d46 \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f , geopolitics , south asia , bangladesh , myanmar , india , china , united states",
+          "url": "https://www.mathrubhumi.com/news/news-plus/us-china-rivalry-intensifies-in-the-bay-of-bengal-1.10929125",
+          "sourcecountry": "India",
+          "seendate": "20250920T094500Z"
+        },
+        {
+          "title": "\u0d24\u0d3f\u0d30\u0d41\u0d2a\u0d4d\u0d2a\u0d42\u0d7c \u0d0e\u0d19\u0d4d\u0d19\u0d28\u0d46 \u0d24\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d2f\u0d31\u0d41\u0d02 ? \u0d28\u0d1f\u0d4d\u0d1f\u0d46\u0d32\u0d4d\u0d32\u0d4a\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d1a\u0d41\u0d19\u0d4d\u0d15\u0d02 ; \u0d15\u0d46\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d1f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d15\u0d47\u0d3e\u0d1f\u0d3f\u0d15\u0d33\u0d41\u0d1f\u0d46 \u0d24\u0d41\u0d23\u0d3f",
+          "url": "https://www.mathrubhumi.com/social/social-issues/tirupur-textile-crisis-trump-tariffs-1.10926204",
+          "sourcecountry": "India",
+          "seendate": "20250919T073000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-09-24",
+      "week_end": "2025-09-30",
+      "events": [
+        {
+          "title": "\u0d35\u0d46\u0d31\u0d41\u0d02 14 \u0d2c\u0d3f\u0d32\u0d4d\u0d2f\u0d23\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d07\u0d1f\u0d2a\u0d3e\u0d1f\u0d4d , \u0d1f\u0d3f\u0d15\u0d4d\u0d1f\u0d4b\u0d15\u0d3f\u0d28\u0d46 \u0d38\u0d4d\u0d35\u0d28\u0d4d\u0d24\u0d2e\u0d3e\u0d15\u0d4d\u0d15\u0d3f \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d41\u0d02 \u0d15\u0d42\u0d1f\u0d4d\u0d1f\u0d30\u0d41\u0d02 ; \u0d05\u0d35\u0d38\u0d3e\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d24\u0d4d\u0d24 \u0d26\u0d41\u0d30\u0d42\u0d39\u0d24\u0d15\u0d33\u0d4d\u200d",
+          "url": "https://www.mathrubhumi.com/news/news-plus/14-vsstvgiu",
+          "sourcecountry": "India",
+          "seendate": "20250930T070000Z"
+        },
+        {
+          "title": "\u0d2e\u0d1e\u0d4d\u0d1e\u0d41\u0d30\u0d41\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d38\u0d42\u0d1a\u0d28\u0d2f\u0d4b ? \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d15\u0d42\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d34\u0d4d\u0d1a \u0d28\u0d1f\u0d24\u0d4d\u0d24\u0d3f \u0d2a\u0d3e\u0d15\u0d4d \u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f\u0d2f\u0d41\u0d02 \u0d38\u0d48\u0d28\u0d3f\u0d15\u0d2e\u0d47\u0d27\u0d3e\u0d35\u0d3f\u0d2f\u0d41\u0d02",
+          "url": "https://www.mathrubhumi.com/news/world/us-president-donald-trump-meets-pakistan-primeminister-vcqe0krp",
+          "sourcecountry": "India",
+          "seendate": "20250926T063000Z"
+        },
+        {
+          "title": "\u0d05\u0d32\u0d3e\u0d38\u0d4d\u200c\u0d15\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d38\u0d2e\u0d40\u0d2a\u0d02 \u0d31\u0d37\u0d4d\u0d2f\u0d28\u0d4d\u200d \u0d2c\u0d4b\u0d02\u0d2c\u0d30\u0d4d\u200d ; \u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d2f\u0d1a\u0d4d\u0d1a\u0d4d \u0d2f\u0d41 . \u0d0e\u0d38\u0d4d ; \u0d06\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d32\u0d4d\u200d \u0d31\u0d37\u0d4d\u0d2f\u0d2f\u0d41\u0d1f\u0d46 \u0d15\u0d1f\u0d28\u0d4d\u0d28\u0d41\u0d15\u0d2f\u0d31\u0d4d\u0d31 \u0d36\u0d4d\u0d30\u0d2e\u0d02",
+          "url": "https://www.mathrubhumi.com/news/world/russian-bombers-near-alaska-us-intercepts-e4ie58w6",
+          "sourcecountry": "India",
+          "seendate": "20250925T111500Z"
+        },
+        {
+          "title": "\u0d2a\u0d3e\u0d15\u0d3f\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d4d\u200d \u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28\u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f \u0d37\u0d39\u0d2c\u0d3e\u0d38\u0d4d \u0d37\u0d30\u0d40\u0d2b\u0d41\u0d02 , \u0d38\u0d48\u0d28\u0d3f\u0d15 \u0d2e\u0d47\u0d27\u0d3e\u0d35\u0d3f \u0d05\u0d38\u0d40\u0d02 \u0d2e\u0d41\u0d28\u0d40\u0d31\u0d41\u0d02 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d15\u0d42\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d34\u0d4d\u0d1a \u0d28\u0d1f\u0d24\u0d4d\u0d24\u0d3f ; \u0d07\u0d30\u0d35\u0d30\u0d41\u0d02 \u0d2e\u0d39\u0d3e\u0d28\u0d4d\u0d2e\u0d3e\u0d30\u0d3e\u0d2f \u0d28\u0d47\u0d24\u0d3e\u0d15\u0d4d\u0d15\u0d33\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
+          "url": "https://janayugomonline.com/pakistani-prime-minister-shahbaz-sharif-and-army-chief-asim-munir-met-with-trump-trump-called-them-both-great-leaders/",
+          "sourcecountry": "India",
+          "seendate": "20250926T083000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 : \u0627\u06cc\u0631\u0627\u0646 \u0641\u0631\u0647\u0646\u06af\u06cc \u06a9\u0647\u0646 \u0648 \u062a\u0627\u0631\u06cc\u062e\u06cc \u067e\u0631\u0628\u0627\u0631 \u062f\u0627\u0631\u062f \u0627\u0645\u0627 \u062a\u062d\u062a \u0631\u0647\u0628\u0631\u06cc \u0627\u0641\u0631\u0627\u062f\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0646\u0628\u0627\u0644 \u0628\u06cc\u200c\u062b\u0628\u0627\u062a\u200c\u0633\u0627\u0632\u06cc \u0647\u0633\u062a\u0646\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/9/25/6386086",
+          "sourcecountry": "Iran",
+          "seendate": "20250925T173000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-10-01",
+      "week_end": "2025-10-07",
+      "events": [
+        {
+          "title": "\u0d07\u0d30\u0d41\u0d2a\u0d24\u0d3f\u0d28 \u0d2a\u0d26\u0d4d\u0d27\u0d24\u0d3f \u0d05\u0d02\u0d17\u0d40\u0d15\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d39\u0d2e\u0d3e\u0d38\u0d3f\u0d28\u0d4d \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d41\u0d1f\u0d46 \u0d05\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d36\u0d3e\u0d38\u0d28\u0d02",
+          "url": "https://www.sirajlive.com/us-issues-ultimatum-to-hamas-to-accept-20-point-plan.html",
+          "sourcecountry": "India",
+          "seendate": "20251003T193000Z"
+        },
+        {
+          "title": "\u0647\u0631\u06af\u0648\u0646\u0647 \u062d\u0645\u0644\u0647 \u0628\u0647 \u0642\u0637\u0631 \u062a\u0647\u062f\u06cc\u062f\u06cc \u0639\u0644\u06cc\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627\u0633\u062a \u061b \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0628\u0647 \u062f\u0648\u062d\u0647 \u062a\u0636\u0645\u06cc\u0646 \u0627\u0645\u0646\u06cc\u062a\u06cc \u062f\u0627\u062f",
+          "url": "https://parsi.euronews.com/2025/10/01/any-attack-on-qatar-is-a-threat-to-the-us-washington-gave-doha-security-guarantees",
+          "sourcecountry": "United States",
+          "seendate": "20251001T224500Z"
+        },
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d2f\u0d41\u0d1f\u0d46 \u0d38\u0d2e\u0d3e\u0d27\u0d3e\u0d28 \u0d2a\u0d26\u0d4d\u0d27\u0d24\u0d3f\u0d2f\u0d3f\u0d32\u0d46 \u0d1a\u0d3f\u0d32 \u0d09\u0d2a\u0d3e\u0d27\u0d3f\u0d15\u0d33\u0d4d\u200d \u0d05\u0d02\u0d17\u0d40\u0d15\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d4d\u200d \u0d24\u0d2f\u0d4d\u0d2f\u0d3e\u0d31\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d39\u0d2e\u0d3e\u0d38\u0d4d",
+          "url": "https://www.sirajlive.com/hamas-says-it-is-ready-to-accept-some-conditions-in-the-us-peace-plan.html",
+          "sourcecountry": "India",
+          "seendate": "20251004T051500Z"
+        },
+        {
+          "title": "  \u0d1e\u0d3e\u0d2f\u0d31\u0d3e\u0d34\u0d4d\u0d1a \u0d35\u0d48\u0d15\u0d3f\u0d1f\u0d4d\u0d1f\u0d4d \u0d06\u0d31\u0d3f\u0d28\u0d15\u0d02 \u0d38\u0d2e\u0d3e\u0d27\u0d3e\u0d28\u0d15\u0d4d\u0d15\u0d30\u0d3e\u0d31\u0d3f\u0d32\u0d4d\u200d \u0d0e\u0d24\u0d4d\u0d24\u0d3f\u0d1a\u0d4d\u0d1a\u0d47\u0d30\u0d23\u0d02 , \u0d07\u0d32\u0d4d\u0d32\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d32\u0d4d\u200d ...; \u0d39\u0d2e\u0d3e\u0d38\u0d3f\u0d28\u0d4d \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d",
+          "url": "https://www.mathrubhumi.com/news/world/deal-must-be-reached-by-sunday-6-pm-trump-ultimatum-to-hamas-marh8qlv",
+          "sourcecountry": "India",
+          "seendate": "20251003T161500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062d\u0632\u0628\u200c\u0627\u0644\u0644\u0647 \u0644\u0628\u0646\u0627\u0646 : \u0645\u06a9\u0627\u0646\u06cc\u0633\u0645 \u0645\u0627\u0634\u0647 \u0628\u062e\u0634\u06cc \u0627\u0632 \u0645\u0627\u0645\u0648\u0631\u06cc\u062a \u0633\u0631\u0646\u06af\u0648\u0646\u06cc \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0633\u062a",
+          "url": "https://www.balatarin.com:443/permlink/2025/9/30/6388068",
+          "sourcecountry": "Iran",
+          "seendate": "20251001T034500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-10-08",
+      "week_end": "2025-10-14",
+      "events": [
+        {
+          "title": "\u0d2c\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d32\u0d46 \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d35\u0d4d\u0d2f\u0d47\u0d3e\u0d2e\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d46\u0d24\u0d3f\u0d30\u0d46 \u0d12\u0d30\u0d41\u0d2e\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f - \u0d2a\u0d3e\u0d15\u0d4d - \u0d1a\u0d48\u0d28 - \u0d31\u0d37\u0d4d\u0d2f - \u0d07\u0d31\u0d3e\u0d28\u0d4d\u200d - \u0d05\u0d2b\u0d4d\u0d17\u0d3e\u0d7b",
+          "url": "https://www.mathrubhumi.com/news/news-plus/india-pak-china-russia-iran-vs-us-bagram-airbase-saidfo53",
+          "sourcecountry": "India",
+          "seendate": "20251009T150000Z"
+        },
+        {
+          "title": "\u067e\u0631\u0648\u0627\u0632 \u062c\u062a\u200c\u0647\u0627\u06cc \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0646\u0632\u062f\u06cc\u06a9\u06cc \u0645\u0631\u0632 \u0631\u0648\u0633\u06cc\u0647 \u061b \u0645\u0627\u0645\u0648\u0631\u06cc\u062a\u06cc \u06f1\u06f2 \u0633\u0627\u0639\u062a\u0647 \u0628\u0627 \u0647\u0645\u0631\u0627\u0647\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0646\u0627\u062a\u0648",
+          "url": "https://parsi.euronews.com/2025/10/11/british-jets-fly-near-russian-border-12-hour-mission-accompanied-us-and-nato",
+          "sourcecountry": "United States",
+          "seendate": "20251011T193000Z"
+        },
+        {
+          "title": "US will impose additional 100 % tariff on Chinese imports from November , Trump says | The Asahi Shimbun : Breaking News , Japan News and Analysis",
+          "url": "https://www.asahi.com/ajw/articles/16086243",
+          "sourcecountry": "Japan",
+          "seendate": "20251011T053000Z"
+        },
+        {
+          "title": "\u0d24\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d4d \u0d32\u0d2d\u0d3f\u0d1a\u0d4d\u0d1a \u0d28\u0d4a\u0d2c\u0d47\u0d32\u0d4d\u200d \u0d2a\u0d41\u0d30\u0d38\u0d4d\u200c\u0d15\u0d3e\u0d30\u0d02 \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d3f\u0d28\u0d4d \u0d15\u0d42\u0d1f\u0d3f \u0d38\u0d2e\u0d30\u0d4d\u200d\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3e\u0d2f\u0d3f \u0d2e\u0d30\u0d3f\u0d2f \u0d15\u0d4a\u0d31\u0d40\u0d28 \u0d2e\u0d1a\u0d4d\u0d1a\u0d3e\u0d21\u0d4b",
+          "url": "https://www.sirajlive.com/maria-corina-machado-says-she-will-dedicate-her-nobel-prize-to-trump.html",
+          "sourcecountry": "India",
+          "seendate": "20251010T183000Z"
+        },
+        {
+          "title": "US will impose additional 100 % tariff on Chinese imports from November , Trump says",
+          "url": "https://www.marketscreener.com/news/us-will-impose-additional-100-tariff-on-chinese-imports-from-november-trump-says-ce7d5adbda8bf22d",
+          "sourcecountry": "",
+          "seendate": "20251010T213000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-10-15",
+      "week_end": "2025-10-21",
+      "events": [
+        {
+          "title": "\u0d2f\u0d41\u0d0e\u0d38\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d38\u0d47\u0d3e\u0d2f\u0d3e\u0d2c\u0d40\u0d28\u0d4d\u200d \u0d35\u0d47\u0d23\u0d4d\u0d1f ; \u0d28\u0d3f\u0d32\u0d2a\u0d3e\u0d1f\u0d4d \u0d15\u0d1f\u0d41\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d1a\u0d48\u0d28 , \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d15\u0d30\u0d4d\u200d\u0d37\u0d15\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d4d \u0d15\u0d47\u0d3e\u0d1f\u0d3f\u0d15\u0d33\u0d41\u0d1f\u0d46 \u0d28\u0d37\u0d4d\u0d1f\u0d02",
+          "url": "https://janayugomonline.com/no-us-soybeans-china-and-american-farmers-have-lost-crores-by-tightening-their-stance/",
+          "sourcecountry": "India",
+          "seendate": "20251020T150000Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0628\u0627 \u06cc\u06a9 \u0648\u06cc\u062f\u0626\u0648 \u062f\u0648\u0628\u0627\u0631\u0647 \u062c\u0647\u0627\u0646 \u0631\u0627 \u0634\u0648\u06a9\u0647 \u06a9\u0631\u062f -- \u0632\u06cc\u0631\u062f\u0631\u06cc\u0627\u06cc\u06cc \u06a9\u0647 \u0647\u0632\u0627\u0631 \u062a\u06a9\u0647 \u0634\u062f",
+          "url": "https://news.gooya.com/2025/10/----7.php",
+          "sourcecountry": "Iran",
+          "seendate": "20251019T163000Z"
+        },
+        {
+          "title": "\u0686\u0647\u0627\u0631\u0645\u06cc\u0646 \u0647\u0641\u062a\u0647\u0654 \u062a\u0639\u0637\u06cc\u0644\u06cc \u062f\u0648\u0644\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u061b \u06f1\u06f4\u06f0\u06f0 \u06a9\u0627\u0631\u0645\u0646\u062f \u0627\u0645\u0646\u06cc\u062a \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0628\u0647 \u0645\u0631\u062e\u0635\u06cc \u0627\u062c\u0628\u0627\u0631\u06cc \u0631\u0641\u062a\u0646\u062f",
+          "url": "https://www.radiofarda.com/a/us-begins-sending-nuke-workers-home-as-shutdown-drags/33565488.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251021T083000Z"
+        },
+        {
+          "title": "Notice to holders of deeply subordinated perpetual bonds , ",
+          "url": "https://www.globenewswire.com/news-release/2025/10/15/3166806/0/en/Notice-to-holders-of-deeply-subordinated-perpetual-bonds-convertible-into-new-shares-or-exchangeable-for-existing-shares-of-Air-France-KLM-ISIN-FR001400DU47-the-HC-Bonds.html",
+          "sourcecountry": "United States",
+          "seendate": "20251015T070000Z"
+        },
+        {
+          "title": "\u0645\u062c\u0648\u0632 \u062a\u0631\u0627\u0645\u067e \u0628\u0647 \u0633\u06cc\u0627 \u0628\u0631\u0627\u06cc \u0639\u0645\u0644\u06cc\u0627\u062a \u0633\u0631\u06cc \u062f\u0631 \u062e\u0627\u06a9 \u0648\u0646\u0632\u0648\u0626\u0644\u0627 \u061b \u0686\u0646\u062f \u0633\u0631\u0646\u0634\u06cc\u0646 \u0642\u0627\u06cc\u0642\u06cc \u062f\u0631 \u062d\u0645\u0644\u0647 \u0627\u062e\u06cc\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062c\u0627\u0646 \u0633\u0627\u0644\u0645 \u0628\u0631\u062f\u0646\u062f",
+          "url": "https://parsi.euronews.com/2025/10/17/cia-secret-operations-in-venezuela-several-boat-passengers-survived-recent-us-attack",
+          "sourcecountry": "United States",
+          "seendate": "20251017T061500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-10-22",
+      "week_end": "2025-10-28",
+      "events": [
+        {
+          "title": "\u0d31\u0d37\u0d4d\u0d2f\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d41\u0d33\u0d4d\u0d33 \u0d0e\u0d23\u0d4d\u0d23 \u0d07\u0d31\u0d15\u0d4d\u0d15\u0d41\u0d2e\u0d24\u0d3f ; \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d28\u0d4d\u200d \u0d15\u0d2e\u0d4d\u0d2a\u0d28\u0d3f\u0d15\u0d33\u0d4d\u200d \u0d15\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30 \u0d38\u0d30\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d28\u0d3f\u0d32\u0d2a\u0d3e\u0d1f\u0d4d \u0d24\u0d47\u0d1f\u0d3f",
+          "url": "https://www.sirajlive.com/indian-companies-seek-central-government-39-s-stance-on-oil-import-from-russia.html",
+          "sourcecountry": "India",
+          "seendate": "20251025T041500Z"
+        },
+        {
+          "title": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u062f\u0648 \u0634\u0631\u06a9\u062a \u0628\u0632\u0631\u06af \u0646\u0641\u062a\u06cc \u0631\u0648\u0633\u06cc\u0647 \u0631\u0627 \u062a\u062d\u0631\u06cc\u0645 \u06a9\u0631\u062f",
+          "url": "https://www.khaama.com/persian/archives/160663",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20251023T100000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0648\u0646\u0633 \u062f\u0631 \u0627\u0633\u0631\u0627\u0626\u064a\u0644 \u067e\u06cc\u0634 \u0628\u06cc\u0646\u06cc \u06a9\u0631\u062f \u00ab \u0635\u0644\u062d \u00bb \u062f\u0648\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u062f\u0627\u0634\u062a \u060c \u06af\u0641\u062a \u062e\u0644\u0639 \u0633\u0644\u0627\u062d \u062d\u0645\u0627\u0633 \u0642\u0627\u0628\u0644 \u0645\u0630\u0627\u06a9\u0631\u0647 \u0646\u06cc\u0633\u062a",
+          "url": "https://www.balatarin.com:443/permlink/2025/10/22/6395169",
+          "sourcecountry": "Iran",
+          "seendate": "20251023T021500Z"
+        },
+        {
+          "title": "\u0d35\u0d46\u0d28\u0d3f\u0d38\u0d4d\u0d35\u0d47\u0d32\u0d28\u0d4d\u200d \u0d2a\u0d4d\u0d30\u0d38\u0d3f\u0d21\u0d28\u0d4d\u0d31\u0d3f\u0d28\u0d46 \u0d05\u0d1f\u0d4d\u0d1f\u0d3f\u0d2e\u0d31\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d4d\u200d \u0d28\u0d40\u0d15\u0d4d\u0d15\u0d02 ; \u0d2f\u0d41 \u0d0e\u0d38\u0d4d \u0d2f\u0d41\u0d26\u0d4d\u0d27\u0d15\u0d4d\u0d15\u0d2a\u0d4d\u0d2a\u0d32\u0d4d\u200d \u0d32\u0d3e\u0d31\u0d4d\u0d31\u0d3f\u0d28\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d24\u0d40\u0d30\u0d24\u0d4d\u0d24\u0d47\u0d15\u0d4d\u0d15\u0d4d",
+          "url": "https://www.sirajlive.com/move-to-overthrow-venezuelan-president-us-warship-heads-to-latin-american-coast.html",
+          "sourcecountry": "India",
+          "seendate": "20251026T041500Z"
+        },
+        {
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0631\u0627\u06cc \u0645\u0642\u0627\u0628\u0644\u0647 \u0628\u0627 \u0642\u0627\u0686\u0627\u0642 \u0645\u0648\u0627\u062f \u0645\u062e\u062f\u0631 \u0627\u0632 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u0644\u0627\u062a\u06cc\u0646 \u0646\u0627\u0648 \u0647\u0648\u0627\u067e\u06cc\u0645\u0627\u0628\u0631 \u0627\u0639\u0632\u0627\u0645 \u06a9\u0631\u062f",
+          "url": "https://www.radiofarda.com/a/us-military-to-deploy-aircraft-carrier-to-south-america/33569744.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251024T220000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-10-29",
+      "week_end": "2025-11-04",
+      "events": [
+        {
+          "title": "\u0627\u0632\u0633\u0631\u06af\u06cc\u0631\u06cc \u0622\u0632\u0645\u0627\u06cc\u0634 \u0633\u0644\u0627\u062d\u200c\u0647\u0627\u06cc \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0628\u0647\u200c\u062f\u0633\u062a\u0648\u0631 \u062a\u0631\u0627\u0645\u067e \u061b \u062a\u0627\u0631\u06cc\u062e\u0686\u0647 \u0622\u0632\u0645\u0627\u06cc\u0634\u200c\u0647\u0627 \u0648 \u0648\u0636\u0639\u06cc\u062a \u0627\u0645\u0631\u0648\u0632",
+          "url": "https://www.radiofarda.com/a/explainer-nuclear-testing-why-did-it-stop-why-test-and-who-has-nuclear-weapons-/33576844.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251030T120000Z"
+        },
+        {
+          "title": "\u062f\u0648\u0633\u062a\u06cc \u067e\u0631\u0647\u0632\u06cc\u0646\u0647 : \u0686\u0631\u0627 \u0641\u0634\u0627\u0631 \u062a\u0631\u0627\u0645\u067e \u0628\u0647 \u062c\u0627\u06cc \u06a9\u0644\u0645\u0628\u06cc\u0627 \u0628\u0631 \u0648\u0646\u0632\u0648\u0626\u0644\u0627 \u0645\u062a\u0645\u0631\u06a9\u0632 \u0634\u062f \u061b \u0646\u0642\u0634 \u0627\u06cc\u0631\u0627\u0646 \u0648 \u062d\u0632\u0628\u200c\u0627\u0644\u0644\u0647 \u0686\u06cc\u0633\u062a \u061f ",
+          "url": "https://parsi.euronews.com/2025/11/02/trump-pressure-focus-venezuela-colombia-role-iran-hezbollah",
+          "sourcecountry": "United States",
+          "seendate": "20251102T120000Z"
+        },
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d38\u0d4d\u0d35\u0d2a\u0d4d\u200c\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d 50 \u0d32\u0d15\u0d4d\u0d37\u0d02 \u0d30\u0d42\u0d2a ; \u0d05\u0d2a\u0d15\u0d1f\u0d02\u0d28\u0d3f\u0d31\u0d1e\u0d4d\u0d1e  \u0d21\u0d19\u0d4d\u0d15\u0d3f \u0d31\u0d42\u0d1f\u0d4d\u0d1f\u0d4d ; \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d28\u0d46 \u0d15\u0d4a\u0d32\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d3f \u0d2e\u0d28\u0d41\u0d37\u0d4d\u0d2f\u0d15\u0d4d\u0d15\u0d1f\u0d24\u0d4d\u0d24\u0d4d \u0d38\u0d02\u0d18\u0d02",
+          "url": "https://www.mathrubhumi.com/crime/news/haryana-teen-killed-donkey-route-us-trafficking-my1tiye6",
+          "sourcecountry": "India",
+          "seendate": "20251101T161500Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0628\u0627\u0644\u0627\u062e\u0631\u0647 \u00ab \u062a\u0627\u062c \u00bb \u0631\u0627 \u06af\u0631\u0641\u062a / \u0639\u06a9\u0633",
+          "url": "https://www.khabaronline.ir/news/2135486/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7%D9%84%D8%A7%D8%AE%D8%B1%D9%87-%D8%AA%D8%A7%D8%AC-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%B9%DA%A9%D8%B3",
+          "sourcecountry": "Iran",
+          "seendate": "20251029T073000Z"
+        },
+        {
+          "title": "\u0645\u0642\u0627\u0645 \u0627\u0631\u0634\u062f \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0631\u0627\u06cc \u067e\u06cc\u06af\u06cc\u0631\u06cc \u06a9\u0627\u0631\u0632\u0627\u0631 \u00ab \u0641\u0634\u0627\u0631 \u062d\u062f\u0627\u06a9\u062b\u0631\u06cc \u00bb \u0639\u0644\u06cc\u0647 \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u062e\u0627\u0648\u0631\u0645\u06cc\u0627\u0646\u0647 \u0648 \u0627\u0631\u0648\u067e\u0627 \u0645\u06cc\u200c\u0631\u0648\u062f",
+          "url": "https://www.radiofarda.com/a/top-us-sanctions-official-to-travel-to-middle-east-europe-to-discuss-maximum-pressure-on-iran/33578283.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251031T211500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-11-05",
+      "week_end": "2025-11-11",
+      "events": [
+        {
+          "title": "\u0627\u0641\u0632\u0627\u06cc\u0634 \u062a\u0646\u0634 \u0628\u06cc\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0648\u0646\u0632\u0648\u0626\u0644\u0627 \u061b \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0646\u0627\u0648 \u0647\u0648\u0627\u067e\u06cc\u0645\u0627\u0628\u0631 \u062c\u0647\u0627\u0646 \u0648\u0627\u0631\u062f \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u0644\u0627\u062a\u06cc\u0646 \u0634\u062f",
+          "url": "https://www.radiofarda.com/a/us-aircraft-carrier-arrives-in-latin-america-to-boost-anti-drug-operation/33587586.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251111T184500Z"
+        },
+        {
+          "title": "\u0645\u062f\u0648\u062f\u0641 \u0628\u0647 \u062a\u0631\u0627\u0645\u067e \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f",
+          "url": "https://www.khabaronline.ir/news/2139067/%D9%85%D8%AF%D9%88%D8%AF%D9%81-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF",
+          "sourcecountry": "Iran",
+          "seendate": "20251106T130000Z"
+        },
+        {
+          "title": "\u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d15\u0d2e\u0d4d\u0d2a\u0d28\u0d3f\u0d15\u0d33\u0d3f\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d30\u0d3f\u0d1a\u0d4d\u0d1a\u0d41\u0d35\u0d3f\u0d1f\u0d32\u0d4d\u200d \u0d15\u0d42\u0d1f\u0d41\u0d28\u0d4d\u0d28\u0d41 , \u0d28\u0d3f\u0d2f\u0d2e\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d15\u0d41\u0d31\u0d2f\u0d41\u0d28\u0d4d\u0d28\u0d41",
+          "url": "https://www.mathrubhumi.com/careers/news/us-companies-layoffs-hiring-dips-ez194fq1",
+          "sourcecountry": "India",
+          "seendate": "20251109T031500Z"
+        },
+        {
+          "title": "\u0d2e\u0d02\u0d26\u0d3e\u0d28\u0d3f \u0d1c\u0d2f\u0d3f\u0d1a\u0d4d\u0d1a\u0d41 ; \u0d1f\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d24\u0d4b\u0d31\u0d4d\u0d31\u0d41 | Sirajlive . com",
+          "url": "https://www.sirajlive.com/mandani-won-trump-lost.html",
+          "sourcecountry": "India",
+          "seendate": "20251105T203000Z"
+        },
+        {
+          "title": "The working visit of the President of Turkmenistan to the United States of America has begun",
+          "url": "https://tdh.gov.tm/index.php/en/post/46732/working-visit-president-turkmenistan-united-states-america-has-begun",
+          "sourcecountry": "Turkmenistan",
+          "seendate": "20251105T101500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-11-12",
+      "week_end": "2025-11-18",
+      "events": [
+        {
+          "title": "\u062f\u06cc\u062f\u0627\u0631 \u0628\u0646\u200c\u0633\u0644\u0645\u0627\u0646 \u0628\u0627 \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f \u061b \u0627\u0632 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u00ab \u06cc\u06a9 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u00bb \u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u062a\u0627 \u0627\u062d\u062a\u0645\u0627\u0644 \u067e\u06cc\u0648\u0633\u062a\u0646 \u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0628\u0647 \u067e\u06cc\u0645\u0627\u0646 \u0627\u0628\u0631\u0627\u0647\u06cc\u0645",
+          "url": "https://www.bbc.com/persian/live/ce869qym8rqt",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20251118T191500Z"
+        },
+        {
+          "title": "\u0627\u0645\u0631\u06cc\u06a9\u0627 \u0686\u0647\u0627\u0631 \u06af\u0631\u0648\u0647 \u0686\u067e\u200c\u06af\u0631\u0627 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0631\u0627 \u00ab \u062a\u0631\u0648\u0631\u06cc\u0633\u062a \u00bb \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f",
+          "url": "https://www.khaama.com/persian/archives/161656",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20251114T094500Z"
+        },
+        {
+          "title": "\u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u0637\u0644\u0633\u0645\u200c\u0634\u06a9\u0646\u06cc \u062f\u0631 \u062c\u0627\u0645 \u062c\u0647\u0627\u0646\u06cc",
+          "url": "https://www.khabaronline.ir/news/2141537/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%B7%D9%84%D8%B3%D9%85-%D8%B4%DA%A9%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+          "sourcecountry": "Iran",
+          "seendate": "20251112T061500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u06af\u0631\u0648\u0647 \u0646\u0632\u062f\u06cc\u06a9 \u0628\u0647 \u0631\u0698\u06cc\u0645 \u0648\u0646\u0632\u0648\u0626\u0644\u0627 \u062f\u0631 \u0641\u0647\u0631\u0633\u062a \u0633\u0627\u0632\u0645\u0627\u0646\u200c\u0647\u0627\u06cc \u062a\u0631\u0648\u0631\u06cc\u0633\u062a\u06cc \u061b \u200c \u067e\u0627\u0644\u0633\u200c\u0647\u0627\u06cc \u00ab \u0645\u0627\u062f\u0648\u0631\u0648 \u00bb \u0628\u0631\u0627\u06cc \u06af\u0641\u062a\u06af\u0648 \u0628\u0627 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+          "url": "https://www.balatarin.com:443/permlink/2025/11/17/6403893",
+          "sourcecountry": "Iran",
+          "seendate": "20251118T074500Z"
+        },
+        {
+          "title": "\u0648\u06cc\u062f\u06cc\u0648\u0647\u0627 . \u062a\u0631\u0627\u0645\u067e \u0644\u0627\u06cc\u062d\u0647 \u062a\u0623\u0645\u06cc\u0646 \u0628\u0648\u062f\u062c\u0647 \u0631\u0627 \u0627\u0645\u0636\u0627 \u06a9\u0631\u062f \u0648 \u0628\u0647 \u062a\u0639\u0637\u06cc\u0644\u06cc \u06f4\u06f3 \u0631\u0648\u0632\u0647 \u062f\u0648\u0644\u062a \u067e\u0627\u06cc\u0627\u0646 \u062f\u0627\u062f",
+          "url": "https://parsi.euronews.com/video/2025/11/13/tramp-laihh-tamin-bodgh-ra-amda-krd-o-bh-taatili-rozh-dolt-paian-dad",
+          "sourcecountry": "United States",
+          "seendate": "20251113T081500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-11-19",
+      "week_end": "2025-11-25",
+      "events": [
+        {
+          "title": "\u0627\u0631\u0648\u067e\u0627 \u0645\u0647\u06cc\u0627\u06cc \u0639\u0628\u0648\u0631 \u0627\u0632 \u062a\u0631\u0627\u0645\u067e \u0645\u06cc\u200c\u0634\u0648\u062f",
+          "url": "https://www.khabaronline.ir/news/2146743/%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D9%85%D9%87%DB%8C%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+          "sourcecountry": "Iran",
+          "seendate": "20251124T073000Z"
+        },
+        {
+          "title": "\u0d15\u0d4a\u0d32\u0d2a\u0d3e\u0d24\u0d15\u0d02 \u0d2e\u0d31\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3f\u0d24\u0d4d\u0d30\u0d2e\u0d3e\u0d2f\u0d3f ; \u0d0e\u0d2b\u0d4d - 35 \u0d35\u0d3e\u0d17\u0d4d\u0d26\u0d3e\u0d28\u0d02 , \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d38\u0d57\u0d26\u0d3f\u0d2f\u0d46 \u0d15\u0d42\u0d1f\u0d46 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d \u0d1a\u0d48\u0d28\u0d2f\u0d46 \u0d2a\u0d47\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d1f\u0d4d\u0d1f\u0d47\u0d3e ? ",
+          "url": "https://www.mathrubhumi.com/news/news-plus/us-saudi-relations-khashoggi-murder-f-35-deals-and-geopolitical-shifts-d3pqceh7",
+          "sourcecountry": "India",
+          "seendate": "20251121T070000Z"
+        },
+        {
+          "title": "\u067e\u0627\u06cc\u0627\u0646 \u0627\u062c\u0644\u0627\u0633 \u06af\u0631\u0648\u0647 \u0628\u06cc\u0633\u062a \u062f\u0631 \u0698\u0648\u0647\u0627\u0646\u0633\u0628\u0648\u0631\u06af \u062f\u0631 \u063a\u06cc\u0627\u0628 \u062a\u0631\u0627\u0645\u067e \u060c \u067e\u0648\u062a\u06cc\u0646 \u0648 \u0634\u06cc \u061b \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0645\u06cc\u0632\u0628\u0627\u0646 \u0628\u0639\u062f\u06cc \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f",
+          "url": "https://parsi.euronews.com/2025/11/23/g20-summit-ends-johannesburg-without-trump-putin-and-xi-us-next-host",
+          "sourcecountry": "United States",
+          "seendate": "20251123T224500Z"
+        },
+        {
+          "title": "\u067e\u0633 \u0627\u0632 \u0647\u0634\u062f\u0627\u0631 \u0627\u062f\u0627\u0631\u0647 \u0647\u0648\u0627\u0646\u0648\u0631\u062f\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u061b \u0686\u0646\u062f \u0634\u0631\u06a9\u062a \u0647\u0648\u0627\u06cc\u06cc \u067e\u0631\u0648\u0627\u0632\u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0628\u0647 \u0648\u0646\u0632\u0648\u0626\u0644\u0627 \u0644\u063a\u0648 \u06a9\u0631\u062f\u0646\u062f",
+          "url": "https://www.bbc.com/persian/articles/cgjn46n1xdwo",
+          "sourcecountry": "United Kingdom",
+          "seendate": "20251123T083000Z"
+        },
+        {
+          "title": "IranPressNews : \u0627\u064a\u0631\u0627\u0646 \u067e\u0631\u0633 \u0646\u064a\u0648\u0632 \u0627\u062e\u0628\u0627\u0631 \u0627\u064a\u0631\u0627\u0646 \u0648 \u062c\u0647\u0627\u0646",
+          "url": "https://iranpressnews.com/source/244686.htm",
+          "sourcecountry": "Iran",
+          "seendate": "20251119T163000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-11-26",
+      "week_end": "2025-12-02",
+      "events": [
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0648\u0632\u0627\u0631\u062a \u062e\u0627\u0631\u062c\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 : \u0622\u0645\u0627\u062f\u0647 \u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u00ab \u062c\u062f\u06cc \u0648 \u0645\u0633\u062a\u0642\u06cc\u0645 \u00bb \u0647\u0633\u062a\u06cc\u0645 \u0627\u0645\u0627 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0628\u0647 \u062a\u0647\u062f\u06cc\u062f \u0648 \u062e\u0635\u0648\u0645\u062a \u0627\u062f\u0627\u0645\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/11/27/6407394",
+          "sourcecountry": "Iran",
+          "seendate": "20251127T223000Z"
+        },
+        {
+          "title": "\u0645\u062a\u0646 \u0646\u0627\u0645\u0647 \u0631\u06cc\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0648\u0646\u0632\u0648\u0626\u0644\u0627 \u0628\u0647 \u062f\u0628\u06cc\u0631\u06a9\u0644 \u0627\u0648\u067e\u06a9",
+          "url": "http://www.afghanpaper.com/nbody.php?id=178450",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20251202T194500Z"
+        },
+        {
+          "title": "Qatar strongly condemns shooting near the White House",
+          "url": "https://thepeninsulaqatar.com/article/27/11/2025/qatar-strongly-condemns-shooting-near-the-white-house",
+          "sourcecountry": "Qatar",
+          "seendate": "20251126T214500Z"
+        },
+        {
+          "title": "\u0627\u0641\u0633\u0627\u0631 \u0627\u06cc\u0646\u0647\u0627 \u062f\u0631 \u062f\u0633\u062a \u0627\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0633\u062a ! ",
+          "url": "http://www.afghanpaper.com/nbody.php?id=178413",
+          "sourcecountry": "Afghanistan",
+          "seendate": "20251127T211500Z"
+        },
+        {
+          "title": "\u0d17\u0d42\u0d17\u0d3f\u0d33\u0d3f\u0d28\u0d4d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d46 98 , 000 \u0d15\u0d4b\u0d1f\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d0e\u0d10 \u0d21\u0d47\u0d31\u0d4d\u0d31 \u0d38\u0d46\u0d28\u0d4d\u0d31\u0d31\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d31\u0d3f\u0d32\u0d2f\u0d28\u0d4d\u200d\u0d38\u0d4d ; \u0d2a\u0d26\u0d4d\u0d27\u0d24\u0d3f \u0d06\u0d28\u0d4d\u0d27\u0d4d\u0d30\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+          "url": "https://www.mathrubhumi.com/technology/news/reliance-ai-data-center-india-l7qv5yi0",
+          "sourcecountry": "India",
+          "seendate": "20251128T043000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-12-03",
+      "week_end": "2025-12-09",
+      "events": [
+        {
+          "title": "\u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d3f\u0d32\u0d4d\u200d \u0d2a\u0d4b\u0d15\u0d23\u0d4b ? \u0d05\u0d2e\u0d47\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d28\u0d4d\u200d \u0d1f\u0d4d\u0d30\u0d46\u0d28\u0d4d\u200d\u0d21\u0d4d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d15\u0d4d\u0d15\u0d3e\u0d30\u0d4d\u200d \u0d36\u0d4d\u0d30\u0d26\u0d4d\u0d27\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d38\u0d4b\u0d39\u0d4b \u0d38\u0d39\u0d38\u0d4d\u0d25\u0d3e\u0d2a\u0d15\u0d28\u0d4d\u200d",
+          "url": "https://www.mathrubhumi.com/technology/news/zoho-founder-skip-college-youth-empowerment-eim8ll7m",
+          "sourcecountry": "India",
+          "seendate": "20251204T130000Z"
+        },
+        {
+          "title": "Pakistan records remittances inflow of $3 . 2 billion in November 2025",
+          "url": "https://pakobserver.net/pakistan-records-remittances-inflow-of-3-2-billion-in-november-2025/",
+          "sourcecountry": "Pakistan",
+          "seendate": "20251209T093000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0648\u0632\u06cc\u0631 \u062c\u0646\u06af \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 : \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0642\u0635\u062f \u062f\u0627\u0631\u062f \u0632\u0631\u0627\u062f\u062e\u0627\u0646\u0647 \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u06a9\u0646\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/12/7/6411062",
+          "sourcecountry": "Iran",
+          "seendate": "20251208T034500Z"
+        },
+        {
+          "title": "Ohio senator introduces legislation to eliminate dual citizenship for Americans",
+          "url": "https://komonews.com/news/nation-world/ohio-sen-moreno-introduces-legislation-to-eliminate-dual-citizenship-for-americans-supreme-court-colombia-united-states-america-first",
+          "sourcecountry": "United States",
+          "seendate": "20251204T003000Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e : \u067e\u0648\u062a\u06cc\u0646 \u0622\u0645\u0627\u062f\u0647 \u062d\u0644\u200c\u0648\u0641\u0635\u0644 \u062c\u0646\u06af \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0627\u0633\u062a",
+          "url": "https://www.khabaronline.ir/news/2151224/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%AD%D9%84-%D9%88%D9%81%D8%B5%D9%84-%D8%AC%D9%86%DA%AF-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%A7%D8%B3%D8%AA",
+          "sourcecountry": "Iran",
+          "seendate": "20251204T063000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-12-10",
+      "week_end": "2025-12-16",
+      "events": [
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0648\u0632\u0627\u0631\u062a \u062e\u0627\u0631\u062c\u0647\u0654 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0632 \u06f7\u06f0 \u06a9\u0634\u0648\u0631 \u0628\u0631\u0627\u06cc \u0645\u0634\u0627\u0631\u06a9\u062a \u062f\u0631 \u0646\u06cc\u0631\u0648\u06cc \u062a\u062b\u0628\u06cc\u062a \u063a\u0632\u0647 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u06a9\u0631\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/12/14/6413301",
+          "sourcecountry": "Iran",
+          "seendate": "20251215T163000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062d\u06a9\u0645 \u062a\u0627\u0632\u0647 \u062a\u0631\u0627\u0645\u067e : \u0645\u06cc\u062e\u0648\u0627\u06cc \u0628\u06cc\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u0628\u06a9\u0647 \u0627\u062c\u062a\u0645\u0627\u0639\u06cc\u062a \u0631\u0648 \u067e\u0627\u0628\u0644\u06cc\u06a9 \u06a9\u0646 ! ",
+          "url": "https://www.balatarin.com:443/permlink/2025/12/10/6411899",
+          "sourcecountry": "Iran",
+          "seendate": "20251210T154500Z"
+        },
+        {
+          "title": "\u0627\u0628\u0631\u0627\u0632 \u062a\u0645\u0627\u06cc\u0644 \u0632\u0644\u0646\u0633\u06a9\u06cc \u0628\u0647 \u062f\u0633\u062a \u06a9\u0634\u06cc\u062f\u0646 \u0627\u0632 \u0634\u0631\u0637 \u0627\u0644\u062d\u0627\u0642 \u0628\u0647 \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u0632\u0627\u06cc \u0636\u0645\u0627\u0646\u062a\u200c\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc",
+          "url": "https://www.radiofarda.com/a/zelenskyy-suggested-ukraine--relinquish-joining-nato-in-exchange-for-alternate-western-security-guarantees-/33623556.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251215T154500Z"
+        },
+        {
+          "title": "\u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u00ab \u062a\u0634\u062f\u06cc\u062f \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627 \u00bb \u0639\u0644\u06cc\u0647 \u062f\u06cc\u067e\u0644\u0645\u0627\u062a\u200c\u0647\u0627\u06cc\u0634 \u062f\u0631 \u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9 \u0628\u0647 \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0634\u06a9\u0627\u06cc\u062a \u06a9\u0631\u062f",
+          "url": "https://parsi.euronews.com/2025/12/11/iran-complains-to-un-tightening-restrictions-diplomats-in-new-york",
+          "sourcecountry": "United States",
+          "seendate": "20251211T200000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0627\u0628\u0631\u0627\u0632 \u062a\u0645\u0627\u06cc\u0644 \u0632\u0644\u0646\u0633\u06a9\u06cc \u0628\u0647 \u062f\u0633\u062a \u06a9\u0634\u06cc\u062f\u0646 \u0627\u0632 \u0634\u0631\u0637 \u0627\u0644\u062d\u0627\u0642 \u0628\u0647 \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u0632\u0627\u06cc \u0636\u0645\u0627\u0646\u062a\u200c\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc",
+          "url": "https://www.balatarin.com:443/permlink/2025/12/15/6413621",
+          "sourcecountry": "Iran",
+          "seendate": "20251216T111500Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-12-17",
+      "week_end": "2025-12-23",
+      "events": [
+        {
+          "title": "\u0686\u0631\u0627 \u062f\u0648\u0644\u062a \u062a\u0631\u0627\u0645\u067e \u0648\u0646\u0632\u0648\u0626\u0644\u0627 \u0631\u0627 \u062a\u062d\u062a \u0641\u0634\u0627\u0631 \u06af\u0630\u0627\u0634\u062a\u0647 \u0627\u0633\u062a \u061f ",
+          "url": "https://www.radiofarda.com/a/why-is-the-trump-administration-putting-pressure-on-venezuela-/33625371.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251217T103000Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u0634\u0647\u0631\u0648\u0646\u062f\u0627\u0646 \u0627\u06cc\u0646 \u06a9\u0634\u0648\u0631\u0647\u0627 \u062d\u0642 \u0648\u0631\u0648\u062f \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0627 \u0646\u062f\u0627\u0631\u0646\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/12/17/6414324",
+          "sourcecountry": "Iran",
+          "seendate": "20251217T214500Z"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u067e \u0634\u0647\u0631\u0648\u0646\u062f\u0627\u0646 \u0647\u0641\u062a \u06a9\u0634\u0648\u0631 \u062f\u06cc\u06af\u0631 \u0631\u0627 \u0628\u0647 \u0641\u0647\u0631\u0633\u062a \u00ab \u0645\u0646\u0639 \u06a9\u0627\u0645\u0644 \u0633\u0641\u0631 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u00bb \u0627\u0641\u0632\u0648\u062f",
+          "url": "https://www.radiofarda.com/a/trump-travel-ban-seven-countries-citizens-us/33624940.html",
+          "sourcecountry": "Iran",
+          "seendate": "20251217T011500Z"
+        },
+        {
+          "title": "\u0628\u0627\u0644\u0627\u062a\u0631\u06cc\u0646 : \u062a\u0631\u0627\u0645\u067e \u0634\u0647\u0631\u0648\u0646\u062f\u0627\u0646 \u0647\u0641\u062a \u06a9\u0634\u0648\u0631 \u062f\u06cc\u06af\u0631 \u0631\u0627 \u0628\u0647 \u0641\u0647\u0631\u0633\u062a \u00ab \u0645\u0646\u0639 \u06a9\u0627\u0645\u0644 \u0633\u0641\u0631 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u00bb \u0627\u0641\u0632\u0648\u062f",
+          "url": "https://www.balatarin.com:443/permlink/2025/12/17/6414135",
+          "sourcecountry": "Iran",
+          "seendate": "20251217T164500Z"
+        },
+        {
+          "title": "\u062e\u0628\u0631\u06af\u0627\u0647 \u061b \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0633\u0641\u0631 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06af\u0633\u062a\u0631\u0634 \u06cc\u0627\u0641\u062a \u2013 DW \u2013 \u06f1\u06f4\u06f0\u06f4 / \u06f9 / \u06f2\u06f6",
+          "url": "https://www.dw.com/fa-ir/%D8%AE%D8%A8%D8%B1%DA%AF%D8%A7%D9%87-%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D8%B3%D9%81%D8%B1-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA/live-75193872",
+          "sourcecountry": "Germany",
+          "seendate": "20251217T090000Z"
+        }
+      ]
+    },
+    {
+      "week_start": "2025-12-24",
+      "week_end": "2025-12-30",
+      "events": [],
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "week_start": "2025-12-31",
+      "week_end": "2025-12-31",
+      "events": [],
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ]
+}

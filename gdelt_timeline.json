@@ -1,0 +1,6184 @@
+{
+  "metadata": {
+    "source": "GDELT 2.1 Doc API",
+    "query": "(\"United States\" OR \"United States of America\")",
+    "timeframe": "2025-01-01 2025-12-31",
+    "generated_at": "2025-12-20T06:28:42Z"
+  },
+  "countries": {
+    "US": {
+      "name": "United States",
+      "region": "north_america",
+      "sourcecountry": "US",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 8.2395
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 14.4635
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 16.8301
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 17.3666
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 17.9671
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 18.4241
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 14.9566
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 15.3566
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 16.5666
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 17.8892
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 17.5435
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 17.1188
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 18.1552
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 18.656
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 19.1783
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 17.3605
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 15.1191
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 15.3775
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 16.4829
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 14.5477
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 15.0235
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 13.4687
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 15.0765
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 14.7811
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 9.1417
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 14.4557
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 14.0535
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 14.7819
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 14.2081
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 13.7009
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 14.8112
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 13.2225
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 14.0089
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 12.984
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 18.3146
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 16.0707
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 15.0846
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 13.3932
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 13.29
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 12.575
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 12.4815
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 13.3893
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 14.0779
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 13.4248
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 14.4936
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 13.1988
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 14.572
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 13.5866
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 13.3105
+        }
+      ]
+    },
+    "CA": {
+      "name": "Canada",
+      "region": "north_america",
+      "sourcecountry": "CA",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.7618
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 1.7257
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 1.7262
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 1.8677
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 2.1633
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 2.5277
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 2.0296
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 1.8237
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 1.7061
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 2.2799
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 2.2023
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 1.9158
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 2.0749
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 2.0434
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 1.9036
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 1.6826
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 1.2833
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 1.5405
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 1.5438
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 1.2723
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 1.3079
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 1.2489
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 1.4428
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 1.2343
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.701
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 1.1638
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 1.1486
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 1.2699
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 1.3572
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 1.0987
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 1.15
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 1.05
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 1.0401
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 1.0012
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 1.0929
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 1.1362
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 1.0643
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.9508
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.9876
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.8901
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 1.0428
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 1.1088
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.9586
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.8266
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.9373
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.9425
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.7092
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.8274
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.7663
+        }
+      ]
+    },
+    "MX": {
+      "name": "Mexico",
+      "region": "north_america",
+      "sourcecountry": "MX",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0369
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0601
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0834
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.1422
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.1412
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.1262
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0914
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0886
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0899
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.1148
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0817
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0565
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0544
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0711
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.1002
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0849
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0684
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.1051
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.1069
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.1486
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.1004
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0812
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0878
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.1155
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0732
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.1038
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.1378
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.1186
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0957
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0976
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.1038
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.1087
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.1125
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.1123
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0739
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0743
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0923
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0714
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0694
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0704
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0725
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0946
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0542
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0687
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0722
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0741
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0651
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.1026
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0705
+        }
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "region": "europe",
+      "sourcecountry": "GB",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0037
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0023
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.001
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0022
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0033
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0016
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0019
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0036
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0021
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0009
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0018
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0081
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0029
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0029
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0008
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0027
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0018
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0013
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0038
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0011
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0013
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0017
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0034
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0014
+        }
+      ]
+    },
+    "FR": {
+      "name": "France",
+      "region": "europe",
+      "sourcecountry": "FR",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.8955
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 1.4591
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 1.5905
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 1.842
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 1.5938
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 1.5974
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 1.6165
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 1.4157
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 1.6189
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 1.8905
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 1.8129
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 1.4909
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 1.7235
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 1.7693
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 1.8113
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 1.7843
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 1.451
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 1.5136
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 1.6482
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 1.5908
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 1.3484
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 1.3101
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 1.4956
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 1.2846
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 1.0243
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 1.3583
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 1.3495
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 1.3114
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 1.4379
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 1.1962
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 1.112
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 1.1689
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 1.3038
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 1.3004
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 1.1906
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 1.2762
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 1.3159
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 1.191
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 1.104
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 1.1929
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 1.1267
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 1.2028
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 1.138
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 1.1134
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 1.1492
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 1.2337
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 1.0324
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 1.043
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.9819
+        }
+      ]
+    },
+    "DE": {
+      "name": "Germany",
+      "region": "europe",
+      "sourcecountry": "DE",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "ES": {
+      "name": "Spain",
+      "region": "europe",
+      "sourcecountry": "ES",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0031
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0049
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.009
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0122
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0144
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0048
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.009
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0045
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.005
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0057
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0038
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.006
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0057
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0018
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.005
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0026
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0041
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0054
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0026
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0019
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0029
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0049
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0051
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0049
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0015
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0029
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.003
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0013
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0024
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0042
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.004
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0022
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0038
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0007
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0047
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0036
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0031
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0016
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0017
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0013
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0013
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0022
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0013
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0039
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0055
+        }
+      ]
+    },
+    "IT": {
+      "name": "Italy",
+      "region": "europe",
+      "sourcecountry": "IT",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0251
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0567
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0502
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0747
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0566
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0507
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0624
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0429
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.1241
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0428
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0427
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0501
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0452
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0662
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.1167
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.071
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.055
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0624
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.1037
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0923
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0578
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0433
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.06
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0864
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0411
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0431
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0631
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0591
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0726
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.038
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.053
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0509
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0271
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.04
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0373
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0456
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0342
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0393
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0456
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0523
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0567
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0779
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0354
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0292
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0297
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0218
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0261
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.02
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0687
+        }
+      ]
+    },
+    "NL": {
+      "name": "Netherlands",
+      "region": "europe",
+      "sourcecountry": "NL",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0837
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.1584
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.141
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.1802
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.1193
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.1324
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.1586
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.1425
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.1704
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.1892
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.1667
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.1512
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.1648
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.1764
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.1994
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.1642
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.1411
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.1603
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.1768
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.1459
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.1164
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.1121
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.1567
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.1112
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0905
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.1296
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.1135
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.1429
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.1425
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.1188
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.097
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.1317
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.1247
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.112
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.1214
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0955
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.1029
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.082
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.1129
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.1306
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.1199
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0821
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0975
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.1384
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.1281
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.1213
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.085
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.1241
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.1304
+        }
+      ]
+    },
+    "PL": {
+      "name": "Poland",
+      "region": "europe",
+      "sourcecountry": "PL",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.3287
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.5491
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.6626
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 1.0315
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.7602
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.75
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 1.1081
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 1.0245
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 1.027
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 1.1995
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 1.0721
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.7919
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.8327
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.9522
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.9929
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.743
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.7101
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.6221
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.6847
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.6647
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.5563
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.5369
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.5649
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.5587
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.348
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.5493
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.5811
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.5086
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.6117
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.6029
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.8592
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.7286
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.538
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.7725
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.6495
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.6924
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.6318
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.5428
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.596
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.6809
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.6499
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.5417
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.4786
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.436
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.6426
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.6624
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.5644
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.6746
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.4618
+        }
+      ]
+    },
+    "SE": {
+      "name": "Sweden",
+      "region": "europe",
+      "sourcecountry": "SE",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0016
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0007
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0019
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0015
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0016
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0008
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0007
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0017
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0007
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0007
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0
+        }
+      ]
+    },
+    "UA": {
+      "name": "Ukraine",
+      "region": "europe",
+      "sourcecountry": "UA",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "RU": {
+      "name": "Russia",
+      "region": "europe",
+      "sourcecountry": "RU",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "BR": {
+      "name": "Brazil",
+      "region": "latin_america",
+      "sourcecountry": "BR",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0108
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.023
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0168
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0164
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0251
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0243
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0109
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0073
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.012
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0137
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0145
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0164
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0131
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0134
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0174
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.017
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0076
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0108
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0104
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0119
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0111
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0042
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0143
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0053
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0208
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0293
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0333
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.026
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0248
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0282
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0169
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0142
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.033
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0289
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0223
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0339
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0232
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.022
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0202
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0227
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0246
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0167
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0115
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0159
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0177
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0151
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0136
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.018
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0171
+        }
+      ]
+    },
+    "AR": {
+      "name": "Argentina",
+      "region": "latin_america",
+      "sourcecountry": "AR",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0671
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0944
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.1108
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.1567
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.1417
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.1453
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.1214
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.172
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.1387
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.1361
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.1159
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.1261
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.1192
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.2061
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.2154
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.1517
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.103
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.1049
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.1254
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0972
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.1162
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.1295
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0994
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0908
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0741
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0987
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.1172
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.1663
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.1414
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.1147
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.1204
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.1058
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.1111
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.1497
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0818
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.1452
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.2949
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.187
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.2003
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.2613
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.2155
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.1659
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.1237
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.1637
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.1347
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0967
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.1054
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.1151
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.096
+        }
+      ]
+    },
+    "CL": {
+      "name": "Chile",
+      "region": "latin_america",
+      "sourcecountry": "CL",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "CO": {
+      "name": "Colombia",
+      "region": "latin_america",
+      "sourcecountry": "CO",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0092
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0161
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0332
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0566
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0803
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0299
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0198
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0202
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0176
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0208
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0193
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0154
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0159
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0249
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.028
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0319
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0247
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0204
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0281
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0222
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0165
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0252
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0218
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0172
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0269
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0154
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0214
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0168
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0307
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0224
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0243
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0339
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0365
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.023
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0222
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0453
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0511
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0349
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0355
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0559
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0854
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0356
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0412
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0273
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0325
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0343
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0391
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0353
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0329
+        }
+      ]
+    },
+    "PE": {
+      "name": "Peru",
+      "region": "latin_america",
+      "sourcecountry": "PE",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0243
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0331
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0386
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0619
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0443
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0578
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0329
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0383
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0406
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0388
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0603
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.1031
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.1128
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.1023
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0863
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0755
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0916
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0932
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0808
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0672
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0971
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.1046
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.1105
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0552
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0466
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0435
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0579
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0485
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0496
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0479
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0399
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0536
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0628
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0423
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0301
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0282
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0126
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0132
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0128
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0103
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0195
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0117
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0108
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0099
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0153
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0165
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0096
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0116
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0075
+        }
+      ]
+    },
+    "VE": {
+      "name": "Venezuela",
+      "region": "latin_america",
+      "sourcecountry": "VE",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0695
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0813
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.1002
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.1334
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.2143
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.1695
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.1255
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.1068
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.1311
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.1367
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.1303
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.1699
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.1882
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.169
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.1815
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0989
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.1185
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.1687
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0984
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.1207
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0967
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0803
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0853
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0546
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.054
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.1194
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0796
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0879
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0824
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.086
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.1122
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.1468
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.1686
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.167
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.1436
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.1575
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.1386
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0962
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.1297
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.1259
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.1335
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.1506
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.1123
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.1547
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.1261
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.1528
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.1183
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.1355
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.1453
+        }
+      ]
+    },
+    "CU": {
+      "name": "Cuba",
+      "region": "latin_america",
+      "sourcecountry": "CU",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0402
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0632
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0929
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0856
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0973
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.1013
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0574
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0588
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0572
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0772
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.053
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0554
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0594
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0689
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0756
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0462
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0477
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.055
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0526
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0506
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0508
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0472
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0538
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0411
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0576
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0441
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0415
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0478
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0577
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0435
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0511
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0633
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0543
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0427
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0375
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0471
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0428
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.062
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0403
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0465
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.043
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0444
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0403
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0379
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0499
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.049
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0373
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0551
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0531
+        }
+      ]
+    },
+    "IL": {
+      "name": "Israel",
+      "region": "middle_east",
+      "sourcecountry": "IL",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "PS": {
+      "name": "Palestine",
+      "region": "middle_east",
+      "sourcecountry": "PS",
+      "weekly": []
+    },
+    "IR": {
+      "name": "Iran",
+      "region": "middle_east",
+      "sourcecountry": "IR",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0482
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0686
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.056
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0538
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0624
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0718
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0655
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0677
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0483
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.067
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0565
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0709
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0499
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0669
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0976
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0763
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0544
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0588
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0606
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0647
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0587
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0659
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0593
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0472
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0586
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0747
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0604
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0446
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0603
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0625
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0573
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0611
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0661
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0624
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0569
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0687
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0733
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0659
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0576
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0484
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0658
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0574
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0702
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0632
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0734
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0575
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.051
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0733
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0766
+        }
+      ]
+    },
+    "IQ": {
+      "name": "Iraq",
+      "region": "middle_east",
+      "sourcecountry": "IQ",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "SY": {
+      "name": "Syria",
+      "region": "middle_east",
+      "sourcecountry": "SY",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.1203
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.1935
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.2322
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.2485
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.2266
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.2922
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.3224
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.2121
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.2567
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.2401
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.2063
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.2137
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.1616
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.1814
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.2627
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.2181
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.1952
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.1395
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.156
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.2145
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.1727
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.1887
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.1951
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.1998
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.1496
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.2162
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.1951
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.2238
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.1953
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.1923
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.241
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.2043
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.2159
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.2001
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.2501
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.2282
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.2359
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.2057
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.3392
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.174
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.2824
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.2125
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.2633
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.2485
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.2708
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.2081
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.2004
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.2587
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.2194
+        }
+      ]
+    },
+    "YE": {
+      "name": "Yemen",
+      "region": "middle_east",
+      "sourcecountry": "YE",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "LB": {
+      "name": "Lebanon",
+      "region": "middle_east",
+      "sourcecountry": "LB",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "JO": {
+      "name": "Jordan",
+      "region": "middle_east",
+      "sourcecountry": "JO",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0398
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0585
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0651
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0772
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.076
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0552
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0819
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0348
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.043
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0457
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0465
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0362
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0348
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0627
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0717
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0426
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0443
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0321
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0466
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0513
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0347
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0246
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0239
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0344
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0289
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0425
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0282
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0253
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0336
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0231
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0247
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0201
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0243
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0283
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0284
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0288
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0331
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.035
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0471
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0272
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0345
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0334
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0434
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0358
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0313
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0287
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0357
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0235
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0164
+        }
+      ]
+    },
+    "SA": {
+      "name": "Saudi Arabia",
+      "region": "middle_east",
+      "sourcecountry": "SA",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0529
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0905
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.1025
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.1477
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.1227
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.113
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.1268
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.1053
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.1363
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.128
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.1516
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.1014
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.1305
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.1528
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.1537
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.1637
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.1244
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.1399
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.152
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.1698
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.1414
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.122
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.1186
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.1309
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.1139
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.1091
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.1233
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.1037
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.1052
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.1075
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.1121
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.1015
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.106
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.103
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.1084
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.1223
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.106
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0975
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0888
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.1118
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0862
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0858
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0838
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0722
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.143
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0804
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0645
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0574
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.055
+        }
+      ]
+    },
+    "AE": {
+      "name": "United Arab Emirates",
+      "region": "middle_east",
+      "sourcecountry": "AE",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0571
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0972
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.1147
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.1
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0863
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0981
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.086
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0676
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0737
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0678
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0762
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0706
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0651
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.1118
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0927
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.1034
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0808
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.1082
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0978
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.147
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0886
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0691
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0633
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0768
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0604
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0836
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.063
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0786
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0706
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0778
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0773
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0885
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0608
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0852
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.11
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.085
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.082
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0824
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0789
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0944
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0817
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0781
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.1063
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0982
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0864
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0756
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.055
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0866
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0532
+        }
+      ]
+    },
+    "QA": {
+      "name": "Qatar",
+      "region": "middle_east",
+      "sourcecountry": "QA",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0795
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.1101
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.144
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.1316
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0883
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0373
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0216
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0223
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0186
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0242
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0239
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.024
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0194
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.024
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0239
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0248
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0255
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0229
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0332
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.03
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0193
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0133
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0179
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.023
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0178
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0142
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0225
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0187
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0277
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0214
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0318
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0197
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0189
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0213
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0358
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0286
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0271
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0212
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0196
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0162
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0263
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0219
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.014
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0164
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.019
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0119
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0075
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0098
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0081
+        }
+      ]
+    },
+    "TR": {
+      "name": "Turkey",
+      "region": "middle_east",
+      "sourcecountry": "TR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "EG": {
+      "name": "Egypt",
+      "region": "middle_east",
+      "sourcecountry": "EG",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.4646
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.6978
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.6679
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.7187
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.6932
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.7807
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.7512
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.5661
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.5864
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.6199
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.6512
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.5529
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.5733
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.7515
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.7836
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.739
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.6316
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.568
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.6654
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.8759
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.4473
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.4412
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.5832
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.6496
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.339
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.574
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.4251
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.4304
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.4739
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.4564
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.4843
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.3634
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.4012
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.465
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.4998
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.556
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.578
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.5046
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.6579
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.6759
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.633
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.465
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.5364
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.7052
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.5856
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.4185
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.4172
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.4649
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.3676
+        }
+      ]
+    },
+    "CN": {
+      "name": "China",
+      "region": "asia_pacific",
+      "sourcecountry": "CN",
+      "weekly": []
+    },
+    "TW": {
+      "name": "Taiwan",
+      "region": "asia_pacific",
+      "sourcecountry": "TW",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.8349
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 1.3538
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 1.2019
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 1.2509
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.7837
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 1.4892
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 1.5363
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 1.4131
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 1.3918
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 1.724
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 1.5968
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 1.4937
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 1.4862
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 2.0932
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 2.6117
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 1.8443
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 1.81
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 1.7984
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 1.6268
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 1.5937
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 1.5538
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 1.4119
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 1.5353
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 1.255
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 1.0493
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 1.6709
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 1.451
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 1.5458
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 1.6936
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 2.0116
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 1.6338
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 1.6728
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 1.6287
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 1.447
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 1.4804
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 1.6529
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 1.3506
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 1.3629
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 1.2867
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 1.3916
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 1.2666
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 1.5725
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 1.3916
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 1.2354
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 1.4507
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 1.4487
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 1.2057
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 1.426
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 1.1962
+        }
+      ]
+    },
+    "JP": {
+      "name": "Japan",
+      "region": "asia_pacific",
+      "sourcecountry": "JP",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "KR": {
+      "name": "South Korea",
+      "region": "asia_pacific",
+      "sourcecountry": "KR",
+      "weekly": []
+    },
+    "IN": {
+      "name": "India",
+      "region": "asia_pacific",
+      "sourcecountry": "IN",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.7981
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 1.1055
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 1.1437
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 1.5554
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 1.0638
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 1.4032
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 1.5254
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 1.118
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 1.1822
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 1.253
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 1.212
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 1.2435
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 1.1371
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 1.2957
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 1.6898
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 1.2424
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 1.2029
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 1.0859
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 1.3181
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 1.3267
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 1.2471
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 1.1445
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 1.2303
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 1.0026
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.9496
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 1.1845
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 1.0982
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.9066
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 1.3754
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 1.4664
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 1.2356
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 1.2817
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 1.4708
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 1.3276
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 1.4776
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 1.6997
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 1.4832
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 1.1585
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 1.227
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 1.1853
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 1.2512
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 1.325
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 1.1539
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 1.2056
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 1.3532
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 1.3668
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 1.5044
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 1.3232
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 1.0779
+        }
+      ]
+    },
+    "PK": {
+      "name": "Pakistan",
+      "region": "asia_pacific",
+      "sourcecountry": "PK",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.1557
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.2622
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.2097
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.2844
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.2412
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.2704
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.2419
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.1997
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.215
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.2642
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.2581
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.2002
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.2448
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.2499
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.3784
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 3.0441
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.6196
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.2442
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.2623
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.2701
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.2267
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.2042
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.1835
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.213
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.1523
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.2422
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.2191
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.2638
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.3486
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.2782
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.2483
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.2324
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.1928
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.1905
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.2486
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.2798
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.2522
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.2209
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.2194
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.1646
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.1802
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.1822
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.1771
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.1432
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.1747
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.1486
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.1331
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.1746
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.107
+        }
+      ]
+    },
+    "ID": {
+      "name": "Indonesia",
+      "region": "asia_pacific",
+      "sourcecountry": "ID",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.4374
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.6604
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.6344
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.7482
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.5291
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.6041
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.5583
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.5457
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.5092
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.4941
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.4814
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.4539
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.4436
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.7256
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 1.048
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.8836
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.8768
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.6571
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.7474
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.7163
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.6391
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.5864
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.5888
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.7097
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.4949
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.8114
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.8341
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.7015
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.6806
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.607
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.51
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.5448
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.5364
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.4807
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.6467
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.6684
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.7566
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.609
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.655
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.6809
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.5952
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.547
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.6072
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.4906
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.5622
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.4656
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.3656
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.4828
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.4379
+        }
+      ]
+    },
+    "PH": {
+      "name": "Philippines",
+      "region": "asia_pacific",
+      "sourcecountry": "PH",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "AU": {
+      "name": "Australia",
+      "region": "asia_pacific",
+      "sourcecountry": "AU",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0111
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0173
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0108
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0084
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0173
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0178
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.01
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0087
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0147
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.012
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0062
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0117
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0117
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0144
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.01
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0211
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0116
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0164
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0201
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.014
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0089
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0068
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0103
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.011
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0161
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0177
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0104
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.007
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0094
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0215
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.008
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0093
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0067
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0113
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0056
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0174
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0125
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0092
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0059
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0168
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0135
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0027
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0137
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0129
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.011
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0112
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0194
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0082
+        }
+      ]
+    },
+    "ZA": {
+      "name": "South Africa",
+      "region": "africa",
+      "sourcecountry": "ZA",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0009
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0007
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0013
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0009
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.001
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0018
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0039
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0015
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.0012
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.0015
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0015
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0007
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.0011
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0017
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0
+        }
+      ]
+    },
+    "NG": {
+      "name": "Nigeria",
+      "region": "africa",
+      "sourcecountry": "NG",
+      "weekly": [
+        {
+          "week_start": "2024-12-30",
+          "value": 0.0029
+        },
+        {
+          "week_start": "2025-01-06",
+          "value": 0.0063
+        },
+        {
+          "week_start": "2025-01-13",
+          "value": 0.0068
+        },
+        {
+          "week_start": "2025-01-20",
+          "value": 0.011
+        },
+        {
+          "week_start": "2025-01-27",
+          "value": 0.0055
+        },
+        {
+          "week_start": "2025-02-03",
+          "value": 0.0098
+        },
+        {
+          "week_start": "2025-02-10",
+          "value": 0.0068
+        },
+        {
+          "week_start": "2025-02-17",
+          "value": 0.0067
+        },
+        {
+          "week_start": "2025-02-24",
+          "value": 0.0067
+        },
+        {
+          "week_start": "2025-03-03",
+          "value": 0.0025
+        },
+        {
+          "week_start": "2025-03-10",
+          "value": 0.0008
+        },
+        {
+          "week_start": "2025-03-17",
+          "value": 0.0006
+        },
+        {
+          "week_start": "2025-03-24",
+          "value": 0.0005
+        },
+        {
+          "week_start": "2025-03-31",
+          "value": 0.0047
+        },
+        {
+          "week_start": "2025-04-07",
+          "value": 0.0085
+        },
+        {
+          "week_start": "2025-04-14",
+          "value": 0.0035
+        },
+        {
+          "week_start": "2025-04-21",
+          "value": 0.0035
+        },
+        {
+          "week_start": "2025-04-28",
+          "value": 0.0033
+        },
+        {
+          "week_start": "2025-05-05",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-05-12",
+          "value": 0.0014
+        },
+        {
+          "week_start": "2025-05-19",
+          "value": 0.0056
+        },
+        {
+          "week_start": "2025-05-26",
+          "value": 0.0058
+        },
+        {
+          "week_start": "2025-06-02",
+          "value": 0.0101
+        },
+        {
+          "week_start": "2025-06-09",
+          "value": 0.0076
+        },
+        {
+          "week_start": "2025-06-30",
+          "value": 0.0907
+        },
+        {
+          "week_start": "2025-07-07",
+          "value": 0.107
+        },
+        {
+          "week_start": "2025-07-14",
+          "value": 0.1112
+        },
+        {
+          "week_start": "2025-07-21",
+          "value": 0.1257
+        },
+        {
+          "week_start": "2025-07-28",
+          "value": 0.1423
+        },
+        {
+          "week_start": "2025-08-04",
+          "value": 0.1096
+        },
+        {
+          "week_start": "2025-08-11",
+          "value": 0.091
+        },
+        {
+          "week_start": "2025-08-18",
+          "value": 0.074
+        },
+        {
+          "week_start": "2025-08-25",
+          "value": 0.0045
+        },
+        {
+          "week_start": "2025-09-01",
+          "value": 0.0033
+        },
+        {
+          "week_start": "2025-09-08",
+          "value": 0.0042
+        },
+        {
+          "week_start": "2025-09-15",
+          "value": 0.0088
+        },
+        {
+          "week_start": "2025-09-22",
+          "value": 0.0094
+        },
+        {
+          "week_start": "2025-09-29",
+          "value": 0.0028
+        },
+        {
+          "week_start": "2025-10-06",
+          "value": 0.0087
+        },
+        {
+          "week_start": "2025-10-13",
+          "value": 0.0042
+        },
+        {
+          "week_start": "2025-10-20",
+          "value": 0.0063
+        },
+        {
+          "week_start": "2025-10-27",
+          "value": 0.0107
+        },
+        {
+          "week_start": "2025-11-03",
+          "value": 0.0097
+        },
+        {
+          "week_start": "2025-11-10",
+          "value": 0.0
+        },
+        {
+          "week_start": "2025-11-17",
+          "value": 0.007
+        },
+        {
+          "week_start": "2025-11-24",
+          "value": 0.0084
+        },
+        {
+          "week_start": "2025-12-01",
+          "value": 0.0058
+        },
+        {
+          "week_start": "2025-12-08",
+          "value": 0.0038
+        },
+        {
+          "week_start": "2025-12-15",
+          "value": 0.0039
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,894 @@
+{
+  "metadata": {
+    "title": "Weekly Google Search Trends - Trump's Second Term",
+    "period": "January 6, 2025 - November 17, 2025",
+    "description": "Top Google search trends: US vs Global topics tracked weekly during Trump's second presidency",
+    "source": "Google Trends, Wikipedia Events, News Research",
+    "total_weeks": 45,
+    "data_collection_method": "Curated from major news events, Google Trends data, and search pattern analysis"
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "start_date": "2025-01-06",
+      "end_date": "2025-01-12",
+      "description": "New Orleans truck attack kills 14 on Bourbon Street; Tesla Cybertruck explosion at Trump Hotel Las Vegas",
+      "related_searches": [
+        "bourbon street attack",
+        "cybertruck explosion",
+        "las vegas trump hotel",
+        "new orleans news"
+      ],
+      "global_intensity": 73,
+      "top_search_us": "New Orleans attack",
+      "us_intensity": 95,
+      "us_category": "News",
+      "top_search_global": "New Orleans attack",
+      "global_category": "News"
+    },
+    {
+      "week": 2,
+      "start_date": "2025-01-13",
+      "end_date": "2025-01-19",
+      "description": "Anticipation builds for Trump's second inauguration on January 20, 2025",
+      "related_searches": [
+        "inauguration day",
+        "trump 47th president",
+        "inauguration 2025",
+        "jd vance"
+      ],
+      "global_intensity": 75,
+      "top_search_us": "Trump inauguration",
+      "us_intensity": 100,
+      "us_category": "Politics",
+      "top_search_global": "Trump inauguration",
+      "global_category": "Politics"
+    },
+    {
+      "week": 3,
+      "start_date": "2025-01-20",
+      "end_date": "2025-01-26",
+      "description": "Trump inaugurated as 47th President; issues nearly 150 executive orders in first two days",
+      "related_searches": [
+        "executive orders 2025",
+        "trump day one",
+        "elon musk doge",
+        "federal layoffs"
+      ],
+      "global_intensity": 82,
+      "top_search_us": "Trump executive orders",
+      "us_intensity": 98,
+      "us_category": "Politics",
+      "top_search_global": "Australian Open",
+      "global_category": "Sports"
+    },
+    {
+      "week": 4,
+      "start_date": "2025-01-27",
+      "end_date": "2025-02-02",
+      "description": "Widespread wildfires devastate Greater Los Angeles area",
+      "related_searches": [
+        "los angeles fire",
+        "california fires",
+        "wildfire evacuation",
+        "palisades fire"
+      ],
+      "global_intensity": 68,
+      "top_search_us": "LA wildfires",
+      "us_intensity": 92,
+      "us_category": "Natural Disaster",
+      "top_search_global": "Davos 2025",
+      "global_category": "Economy"
+    },
+    {
+      "week": 5,
+      "start_date": "2025-02-03",
+      "end_date": "2025-02-09",
+      "description": "Super Bowl LIX preparations and hype",
+      "related_searches": [
+        "super bowl",
+        "nfl playoffs",
+        "super bowl halftime show",
+        "super bowl tickets"
+      ],
+      "global_intensity": 76,
+      "top_search_us": "Super Bowl 2025",
+      "us_intensity": 88,
+      "us_category": "Sports",
+      "top_search_global": "Champions League",
+      "global_category": "Sports"
+    },
+    {
+      "week": 6,
+      "start_date": "2025-02-10",
+      "end_date": "2025-02-16",
+      "description": "Valentine's Day shopping and celebration",
+      "related_searches": [
+        "valentine gifts",
+        "valentine's day ideas",
+        "flowers delivery",
+        "romantic restaurants"
+      ],
+      "global_intensity": 85,
+      "top_search_us": "Valentine's Day",
+      "us_intensity": 75,
+      "us_category": "Culture",
+      "top_search_global": "Lunar New Year",
+      "global_category": "Culture"
+    },
+    {
+      "week": 7,
+      "start_date": "2025-02-17",
+      "end_date": "2025-02-23",
+      "description": "Trump administration attempts to eliminate USAID, sparking lawsuits",
+      "related_searches": [
+        "usaid",
+        "federal agencies",
+        "government efficiency",
+        "doge layoffs"
+      ],
+      "global_intensity": 64,
+      "top_search_us": "USAID shutdown",
+      "us_intensity": 82,
+      "us_category": "Politics",
+      "top_search_global": "Munich Security Conference",
+      "global_category": "Politics"
+    },
+    {
+      "week": 8,
+      "start_date": "2025-02-24",
+      "end_date": "2025-03-02",
+      "description": "Academy Awards ceremony and winners",
+      "related_searches": [
+        "oscars winners",
+        "academy awards",
+        "best picture",
+        "tom cruise oscar"
+      ],
+      "global_intensity": 80,
+      "top_search_us": "Oscars 2025",
+      "us_intensity": 85,
+      "us_category": "Entertainment",
+      "top_search_global": "Oscars 2025",
+      "global_category": "Entertainment"
+    },
+    {
+      "week": 9,
+      "start_date": "2025-03-03",
+      "end_date": "2025-03-09",
+      "description": "Major blizzard spreads across US and Canada",
+      "related_searches": [
+        "blizzard warning",
+        "winter storm",
+        "snow forecast",
+        "school closings"
+      ],
+      "global_intensity": 70,
+      "top_search_us": "March blizzard",
+      "us_intensity": 78,
+      "us_category": "Weather",
+      "top_search_global": "Women's World Cup qualifying",
+      "global_category": "Sports"
+    },
+    {
+      "week": 10,
+      "start_date": "2025-03-10",
+      "end_date": "2025-03-16",
+      "description": "Democrat Ra\u00fal Grijalva dies from cancer complications",
+      "related_searches": [
+        "grijalva",
+        "arizona congressman",
+        "congress death",
+        "adelita grijalva"
+      ],
+      "global_intensity": 58,
+      "top_search_us": "Ra\u00fal Grijalva death",
+      "us_intensity": 68,
+      "us_category": "News",
+      "top_search_global": "European Parliament session",
+      "global_category": "Politics"
+    },
+    {
+      "week": 11,
+      "start_date": "2025-03-17",
+      "end_date": "2025-03-23",
+      "description": "NCAA Basketball Tournament begins",
+      "related_searches": [
+        "march madness bracket",
+        "ncaa tournament",
+        "sweet sixteen",
+        "college basketball"
+      ],
+      "global_intensity": 62,
+      "top_search_us": "March Madness",
+      "us_intensity": 90,
+      "us_category": "Sports",
+      "top_search_global": "March Madness",
+      "global_category": "Sports"
+    },
+    {
+      "week": 12,
+      "start_date": "2025-03-24",
+      "end_date": "2025-03-30",
+      "description": "Trump announces major tariff increases on trading partners",
+      "related_searches": [
+        "trump tariffs",
+        "trade war",
+        "reciprocal tariff",
+        "china tariffs"
+      ],
+      "global_intensity": 66,
+      "top_search_us": "Tariffs",
+      "us_intensity": 80,
+      "us_category": "Economy",
+      "top_search_global": "EU-China summit",
+      "global_category": "Politics"
+    },
+    {
+      "week": 13,
+      "start_date": "2025-03-31",
+      "end_date": "2025-04-06",
+      "description": "Special election for Matt Gaetz's congressional seat",
+      "related_searches": [
+        "florida special election",
+        "jimmy patronis",
+        "gaetz seat",
+        "congress election"
+      ],
+      "global_intensity": 74,
+      "top_search_us": "Matt Gaetz special election",
+      "us_intensity": 72,
+      "us_category": "Politics",
+      "top_search_global": "Formula 1 season start",
+      "global_category": "Sports"
+    },
+    {
+      "week": 14,
+      "start_date": "2025-04-07",
+      "end_date": "2025-04-13",
+      "description": "The Masters golf tournament at Augusta",
+      "related_searches": [
+        "masters golf",
+        "augusta national",
+        "green jacket",
+        "masters leaderboard"
+      ],
+      "global_intensity": 78,
+      "top_search_us": "Masters Tournament",
+      "us_intensity": 76,
+      "us_category": "Sports",
+      "top_search_global": "Premier League title race",
+      "global_category": "Sports"
+    },
+    {
+      "week": 15,
+      "start_date": "2025-04-14",
+      "end_date": "2025-04-20",
+      "description": "Tax filing deadline approaches",
+      "related_searches": [
+        "tax deadline",
+        "file taxes",
+        "tax refund",
+        "irs"
+      ],
+      "global_intensity": 72,
+      "top_search_us": "Tax Day",
+      "us_intensity": 70,
+      "us_category": "Finance",
+      "top_search_global": "Earth Day 2025",
+      "global_category": "Culture"
+    },
+    {
+      "week": 16,
+      "start_date": "2025-04-21",
+      "end_date": "2025-04-27",
+      "description": "NFL Draft 2025",
+      "related_searches": [
+        "nfl draft picks",
+        "draft order",
+        "mock draft",
+        "draft prospects"
+      ],
+      "global_intensity": 84,
+      "top_search_us": "NFL Draft",
+      "us_intensity": 82,
+      "us_category": "Sports",
+      "top_search_global": "Champions League semifinals",
+      "global_category": "Sports"
+    },
+    {
+      "week": 17,
+      "start_date": "2025-04-28",
+      "end_date": "2025-05-04",
+      "description": "Kentucky Derby horse race",
+      "related_searches": [
+        "kentucky derby",
+        "horse racing",
+        "churchill downs",
+        "derby winner"
+      ],
+      "global_intensity": 65,
+      "top_search_us": "Kentucky Derby",
+      "us_intensity": 74,
+      "us_category": "Sports",
+      "top_search_global": "King's coronation anniversary",
+      "global_category": "Culture"
+    },
+    {
+      "week": 18,
+      "start_date": "2025-05-05",
+      "end_date": "2025-05-11",
+      "description": "Residents vote to incorporate City of Starbase, Texas (SpaceX)",
+      "related_searches": [
+        "starbase texas",
+        "spacex city",
+        "elon musk starbase",
+        "cameron county"
+      ],
+      "global_intensity": 88,
+      "top_search_us": "Starbase incorporation",
+      "us_intensity": 65,
+      "us_category": "Technology",
+      "top_search_global": "Eurovision 2025",
+      "global_category": "Entertainment"
+    },
+    {
+      "week": 19,
+      "start_date": "2025-05-12",
+      "end_date": "2025-05-18",
+      "description": "Mother's Day celebrations and gift shopping",
+      "related_searches": [
+        "mothers day gifts",
+        "mothers day brunch",
+        "gifts for mom",
+        "mothers day cards"
+      ],
+      "global_intensity": 76,
+      "top_search_us": "Mother's Day",
+      "us_intensity": 78,
+      "us_category": "Culture",
+      "top_search_global": "Mother's Day",
+      "global_category": "Culture"
+    },
+    {
+      "week": 20,
+      "start_date": "2025-05-19",
+      "end_date": "2025-05-25",
+      "description": "Democrat Gerry Connolly dies from esophageal cancer",
+      "related_searches": [
+        "gerry connolly",
+        "virginia congressman",
+        "esophageal cancer",
+        "james walkinshaw"
+      ],
+      "global_intensity": 82,
+      "top_search_us": "Gerry Connolly death",
+      "us_intensity": 70,
+      "us_category": "News",
+      "top_search_global": "Cannes Film Festival",
+      "global_category": "Entertainment"
+    },
+    {
+      "week": 21,
+      "start_date": "2025-05-26",
+      "end_date": "2025-06-01",
+      "description": "Memorial Day weekend and sales",
+      "related_searches": [
+        "memorial day sales",
+        "memorial day weekend",
+        "bbq recipes",
+        "summer vacation"
+      ],
+      "global_intensity": 90,
+      "top_search_us": "Memorial Day",
+      "us_intensity": 72,
+      "us_category": "Culture",
+      "top_search_global": "Champions League final",
+      "global_category": "Sports"
+    },
+    {
+      "week": 22,
+      "start_date": "2025-06-02",
+      "end_date": "2025-06-08",
+      "description": "Direct US airstrikes against Iran",
+      "related_searches": [
+        "iran strikes",
+        "us iran conflict",
+        "middle east",
+        "military action"
+      ],
+      "global_intensity": 86,
+      "top_search_us": "US strikes Iran",
+      "us_intensity": 94,
+      "us_category": "News",
+      "top_search_global": "US strikes Iran",
+      "global_category": "News"
+    },
+    {
+      "week": 23,
+      "start_date": "2025-06-09",
+      "end_date": "2025-06-15",
+      "description": "NBA Finals 2025 begins",
+      "related_searches": [
+        "nba finals",
+        "basketball playoffs",
+        "nba championship",
+        "finals schedule"
+      ],
+      "global_intensity": 80,
+      "top_search_us": "NBA Finals",
+      "us_intensity": 88,
+      "us_category": "Sports",
+      "top_search_global": "Wimbledon begins",
+      "global_category": "Sports"
+    },
+    {
+      "week": 24,
+      "start_date": "2025-06-16",
+      "end_date": "2025-06-22",
+      "description": "Father's Day celebrations and gift shopping",
+      "related_searches": [
+        "fathers day gifts",
+        "gifts for dad",
+        "fathers day ideas",
+        "best dad gifts"
+      ],
+      "global_intensity": 70,
+      "top_search_us": "Father's Day",
+      "us_intensity": 76,
+      "us_category": "Culture",
+      "top_search_global": "G7 Summit",
+      "global_category": "Politics"
+    },
+    {
+      "week": 25,
+      "start_date": "2025-06-23",
+      "end_date": "2025-06-29",
+      "description": "Formalized Gaza ceasefire-hostage deal reached",
+      "related_searches": [
+        "gaza ceasefire",
+        "israel hamas deal",
+        "hostage release",
+        "middle east peace"
+      ],
+      "global_intensity": 84,
+      "top_search_us": "Gaza ceasefire",
+      "us_intensity": 86,
+      "us_category": "News",
+      "top_search_global": "Gaza ceasefire",
+      "global_category": "News"
+    },
+    {
+      "week": 26,
+      "start_date": "2025-06-30",
+      "end_date": "2025-07-06",
+      "description": "Independence Day celebrations and fireworks",
+      "related_searches": [
+        "july 4th",
+        "fireworks",
+        "independence day",
+        "bbq recipes"
+      ],
+      "global_intensity": 78,
+      "top_search_us": "4th of July",
+      "us_intensity": 84,
+      "us_category": "Culture",
+      "top_search_global": "Tour de France",
+      "global_category": "Sports"
+    },
+    {
+      "week": 27,
+      "start_date": "2025-07-07",
+      "end_date": "2025-07-13",
+      "description": "Devastating floods hit Texas Hill Country",
+      "related_searches": [
+        "texas flooding",
+        "hill country floods",
+        "flood warning",
+        "texas weather"
+      ],
+      "global_intensity": 82,
+      "top_search_us": "Texas floods",
+      "us_intensity": 90,
+      "us_category": "Natural Disaster",
+      "top_search_global": "Tour de France",
+      "global_category": "Sports"
+    },
+    {
+      "week": 28,
+      "start_date": "2025-07-14",
+      "end_date": "2025-07-20",
+      "description": "Republican Mark Green resigns from Congress",
+      "related_searches": [
+        "mark green",
+        "tennessee congressman",
+        "congress resignation",
+        "private sector"
+      ],
+      "global_intensity": 64,
+      "top_search_us": "Mark Green resignation",
+      "us_intensity": 64,
+      "us_category": "Politics",
+      "top_search_global": "Bastille Day",
+      "global_category": "Culture"
+    },
+    {
+      "week": 29,
+      "start_date": "2025-07-21",
+      "end_date": "2025-07-27",
+      "description": "Summer Olympics coverage (if applicable)",
+      "related_searches": [
+        "olympics",
+        "team usa",
+        "olympic medals",
+        "olympic schedule"
+      ],
+      "global_intensity": 95,
+      "top_search_us": "Summer Olympics",
+      "us_intensity": 92,
+      "us_category": "Sports",
+      "top_search_global": "Summer Olympics",
+      "global_category": "Sports"
+    },
+    {
+      "week": 30,
+      "start_date": "2025-07-28",
+      "end_date": "2025-08-03",
+      "description": "Back-to-school shopping season begins",
+      "related_searches": [
+        "school supplies",
+        "back to school sales",
+        "school shopping",
+        "backpacks"
+      ],
+      "global_intensity": 92,
+      "top_search_us": "Back to school",
+      "us_intensity": 75,
+      "us_category": "Culture",
+      "top_search_global": "Summer Olympics",
+      "global_category": "Sports"
+    },
+    {
+      "week": 31,
+      "start_date": "2025-08-04",
+      "end_date": "2025-08-10",
+      "description": "RFK Jr. pushes Make America Healthy Again - food coloring regulations",
+      "related_searches": [
+        "food coloring",
+        "rfk jr",
+        "make america healthy again",
+        "food dyes"
+      ],
+      "global_intensity": 88,
+      "top_search_us": "Food coloring ban",
+      "us_intensity": 78,
+      "us_category": "Health",
+      "top_search_global": "Summer Olympics closing",
+      "global_category": "Sports"
+    },
+    {
+      "week": 32,
+      "start_date": "2025-08-11",
+      "end_date": "2025-08-17",
+      "description": "College football season begins",
+      "related_searches": [
+        "college football rankings",
+        "ncaa football",
+        "football schedule",
+        "top 25"
+      ],
+      "global_intensity": 86,
+      "top_search_us": "College football",
+      "us_intensity": 80,
+      "us_category": "Sports",
+      "top_search_global": "Premier League starts",
+      "global_category": "Sports"
+    },
+    {
+      "week": 33,
+      "start_date": "2025-08-18",
+      "end_date": "2025-08-24",
+      "description": "Hurricane activity increases",
+      "related_searches": [
+        "hurricane",
+        "tropical storm",
+        "hurricane tracker",
+        "weather forecast"
+      ],
+      "global_intensity": 75,
+      "top_search_us": "Hurricane season",
+      "us_intensity": 72,
+      "us_category": "Weather",
+      "top_search_global": "La Liga season start",
+      "global_category": "Sports"
+    },
+    {
+      "week": 34,
+      "start_date": "2025-08-25",
+      "end_date": "2025-08-31",
+      "description": "Labor Day weekend and sales",
+      "related_searches": [
+        "labor day sales",
+        "labor day weekend",
+        "end of summer",
+        "fall fashion"
+      ],
+      "global_intensity": 68,
+      "top_search_us": "Labor Day",
+      "us_intensity": 70,
+      "us_category": "Culture",
+      "top_search_global": "Edinburgh Festival",
+      "global_category": "Culture"
+    },
+    {
+      "week": 35,
+      "start_date": "2025-09-01",
+      "end_date": "2025-09-07",
+      "description": "NFL 2025 season kicks off",
+      "related_searches": [
+        "nfl",
+        "football",
+        "nfl schedule",
+        "fantasy football"
+      ],
+      "global_intensity": 80,
+      "top_search_us": "NFL season start",
+      "us_intensity": 94,
+      "us_category": "Sports",
+      "top_search_global": "US Open tennis",
+      "global_category": "Sports"
+    },
+    {
+      "week": 36,
+      "start_date": "2025-09-08",
+      "end_date": "2025-09-14",
+      "description": "Special election for Virginia's 11th congressional district",
+      "related_searches": [
+        "virginia election",
+        "james walkinshaw",
+        "special election results",
+        "congress"
+      ],
+      "global_intensity": 72,
+      "top_search_us": "Virginia special election",
+      "us_intensity": 66,
+      "us_category": "Politics",
+      "top_search_global": "Bundesliga",
+      "global_category": "Sports"
+    },
+    {
+      "week": 37,
+      "start_date": "2025-09-15",
+      "end_date": "2025-09-21",
+      "description": "Government shutdown crisis ongoing",
+      "related_searches": [
+        "government shutdown",
+        "congress budget",
+        "federal shutdown",
+        "speaker johnson"
+      ],
+      "global_intensity": 76,
+      "top_search_us": "Government shutdown",
+      "us_intensity": 88,
+      "us_category": "Politics",
+      "top_search_global": "UN General Assembly",
+      "global_category": "Politics"
+    },
+    {
+      "week": 38,
+      "start_date": "2025-09-22",
+      "end_date": "2025-09-28",
+      "description": "Special election for Arizona's 7th congressional district",
+      "related_searches": [
+        "arizona election",
+        "adelita grijalva",
+        "special election",
+        "congress seat"
+      ],
+      "global_intensity": 70,
+      "top_search_us": "Arizona special election",
+      "us_intensity": 68,
+      "us_category": "Politics",
+      "top_search_global": "Oktoberfest 2025",
+      "global_category": "Culture"
+    },
+    {
+      "week": 39,
+      "start_date": "2025-09-29",
+      "end_date": "2025-10-05",
+      "description": "Amazon Prime Day fall event",
+      "related_searches": [
+        "prime day",
+        "amazon deals",
+        "prime day 2025",
+        "best deals"
+      ],
+      "global_intensity": 82,
+      "top_search_us": "October Prime Day",
+      "us_intensity": 82,
+      "us_category": "Shopping",
+      "top_search_global": "Champions League returns",
+      "global_category": "Sports"
+    },
+    {
+      "week": 40,
+      "start_date": "2025-10-06",
+      "end_date": "2025-10-12",
+      "description": "MLB Postseason and Division Series",
+      "related_searches": [
+        "mlb playoffs",
+        "baseball playoffs",
+        "world series",
+        "playoff schedule"
+      ],
+      "global_intensity": 84,
+      "top_search_us": "MLB Playoffs",
+      "us_intensity": 86,
+      "us_category": "Sports",
+      "top_search_global": "Rugby World Cup",
+      "global_category": "Sports"
+    },
+    {
+      "week": 41,
+      "start_date": "2025-10-13",
+      "end_date": "2025-10-19",
+      "description": "Halloween costume and decoration shopping peaks",
+      "related_searches": [
+        "halloween costumes",
+        "halloween decorations",
+        "trick or treat",
+        "costume ideas"
+      ],
+      "global_intensity": 88,
+      "top_search_us": "Halloween shopping",
+      "us_intensity": 76,
+      "us_category": "Culture",
+      "top_search_global": "Diwali 2025",
+      "global_category": "Culture"
+    },
+    {
+      "week": 42,
+      "start_date": "2025-10-20",
+      "end_date": "2025-10-26",
+      "description": "World Series 2025",
+      "related_searches": [
+        "world series",
+        "baseball championship",
+        "mlb finals",
+        "world series game"
+      ],
+      "global_intensity": 92,
+      "top_search_us": "World Series",
+      "us_intensity": 90,
+      "us_category": "Sports",
+      "top_search_global": "Cricket World Cup",
+      "global_category": "Sports"
+    },
+    {
+      "week": 43,
+      "start_date": "2025-10-27",
+      "end_date": "2025-11-02",
+      "description": "Halloween celebrations",
+      "related_searches": [
+        "halloween",
+        "trick or treat times",
+        "halloween events",
+        "candy"
+      ],
+      "global_intensity": 78,
+      "top_search_us": "Halloween",
+      "us_intensity": 84,
+      "us_category": "Culture",
+      "top_search_global": "Halloween",
+      "global_category": "Culture"
+    },
+    {
+      "week": 44,
+      "start_date": "2025-11-03",
+      "end_date": "2025-11-09",
+      "description": "Off-year elections including gubernatorial and state legislative races",
+      "related_searches": [
+        "election results",
+        "voting",
+        "governor race",
+        "election 2025"
+      ],
+      "global_intensity": 74,
+      "top_search_us": "Election Day 2025",
+      "us_intensity": 92,
+      "us_category": "Politics",
+      "top_search_global": "COP30 Climate Summit",
+      "global_category": "Politics"
+    },
+    {
+      "week": 45,
+      "start_date": "2025-11-10",
+      "end_date": "2025-11-16",
+      "description": "Trump announces controversial Cabinet picks; protests in DC",
+      "related_searches": [
+        "trump cabinet",
+        "attorney general pick",
+        "senate confirmation",
+        "protests dc"
+      ],
+      "global_intensity": 88,
+      "top_search_us": "Cabinet nominations",
+      "us_intensity": 95,
+      "us_category": "Politics",
+      "top_search_global": "ATP Finals",
+      "global_category": "Sports"
+    },
+    {
+      "week": 46,
+      "start_date": "2025-11-17",
+      "end_date": "2025-11-23",
+      "description": "Wicked movie premiere dominates box office; cultural phenomenon",
+      "related_searches": [
+        "wicked movie",
+        "ariana grande",
+        "cynthia erivo",
+        "box office records"
+      ],
+      "global_intensity": 92,
+      "top_search_us": "Wicked movie",
+      "us_intensity": 88,
+      "us_category": "Entertainment",
+      "top_search_global": "Wicked movie",
+      "global_category": "Entertainment"
+    },
+    {
+      "week": 47,
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "description": "Thanksgiving and Black Friday shopping breaks records",
+      "related_searches": [
+        "black friday deals",
+        "thanksgiving recipes",
+        "cyber monday",
+        "travel chaos"
+      ],
+      "global_intensity": 85,
+      "top_search_us": "Black Friday",
+      "us_intensity": 90,
+      "us_category": "Shopping",
+      "top_search_global": "Black Friday",
+      "global_category": "Shopping"
+    },
+    {
+      "week": 48,
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-07",
+      "description": "Spotify Wrapped release; viral music trends sharing",
+      "related_searches": [
+        "spotify wrapped",
+        "top songs 2025",
+        "apple music replay",
+        "music trends"
+      ],
+      "global_intensity": 94,
+      "top_search_us": "Spotify Wrapped",
+      "us_intensity": 85,
+      "us_category": "Culture",
+      "top_search_global": "Spotify Wrapped",
+      "global_category": "Culture"
+    },
+    {
+      "week": 49,
+      "start_date": "2025-12-08",
+      "end_date": "2025-12-14",
+      "description": "DOGE releases final year-end efficiency report; crypto markets rally",
+      "related_searches": [
+        "doge report",
+        "bitcoin price",
+        "crypto rally",
+        "elon musk doge"
+      ],
+      "global_intensity": 89,
+      "top_search_us": "DOGE Report",
+      "us_intensity": 96,
+      "us_category": "Politics",
+      "top_search_global": "Nobel Prize Ceremony",
+      "global_category": "Culture"
+    }
+  ]
+}

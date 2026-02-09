@@ -1,0 +1,64 @@
+{
+  "category": "attention",
+  "description": "Digital attention metrics from multiple sources",
+  "sources": [
+    "Google Trends API",
+    "Wikipedia Pageviews API",
+    "GDELT Project Event Database"
+  ],
+  "date_range": "2020-2025",
+  "update_frequency": "Weekly",
+  "files": [
+    {
+      "name": "wikipedia_pageviews.json",
+      "size_mb": 2.5,
+      "description": "Wikipedia article pageview counts",
+      "columns": ["date", "article", "views"]
+    },
+    {
+      "name": "trends_data.json",
+      "size_mb": 0.8,
+      "description": "Google Trends search interest over time",
+      "columns": ["date", "query", "interest"]
+    },
+    {
+      "name": "gdelt_timeline.json",
+      "size_mb": 0.13,
+      "description": "GDELT event mentions timeline",
+      "columns": ["date", "event_type", "count", "tone"]
+    },
+    {
+      "name": "gdelt_weekly_events.json",
+      "size_mb": 0.15,
+      "description": "GDELT weekly aggregated events",
+      "columns": ["week", "event_type", "count", "average_tone"]
+    },
+    {
+      "name": "events_unified.json",
+      "size_mb": 0.09,
+      "description": "Unified event data across all sources",
+      "columns": ["date", "event", "source", "impact"]
+    },
+    {
+      "name": "weekly_attention_timeline.json",
+      "size_mb": 0.06,
+      "description": "Weekly attention metrics timeline",
+      "columns": ["week", "metric", "value"]
+    },
+    {
+      "name": "weekly_trends.json",
+      "size_mb": 0.03,
+      "description": "Weekly trending topics",
+      "columns": ["week", "topic", "trend_score"]
+    },
+    {
+      "name": "unified_data.json",
+      "size_mb": 0.03,
+      "description": "Combined dataset across all attention sources",
+      "columns": ["date", "source", "metric", "value"]
+    }
+  ],
+  "fetcher_script": "tools/fetchers/fetch_attention_data.py",
+  "last_updated": "2025-12-23",
+  "notes": "Used by us-sentiment, trends-2025, and weekly-searches visualizations. Data consolidated from one-year/shared_data/ with symlinks for backward compatibility."
+}

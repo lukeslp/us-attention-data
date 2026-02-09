@@ -1,0 +1,917 @@
+{
+    "metadata": {
+        "title": "US Global Sentiment Impact Database",
+        "description": "Comprehensive database of US actions and events impacting global sentiment with geographic and temporal data for visualization",
+        "version": "2.0",
+        "last_updated": "2025-12-15",
+        "data_sources": [
+            "Pew Research Center",
+            "Gallup",
+            "Morning Consult",
+            "Various Academic Sources"
+        ]
+    },
+    "countries": [
+        {
+            "name": "Germany",
+            "code": "DE",
+            "region": "Europe",
+            "coordinates": [
+                51.1657,
+                10.4515
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2020,
+                    "favorability": 26,
+                    "confidence_in_president": 10
+                },
+                {
+                    "year": 2021,
+                    "favorability": 75,
+                    "confidence_in_president": 76
+                },
+                {
+                    "year": 2022,
+                    "favorability": 72,
+                    "confidence_in_president": 68
+                },
+                {
+                    "year": 2023,
+                    "favorability": 68,
+                    "confidence_in_president": 65
+                },
+                {
+                    "year": 2024,
+                    "favorability": 65,
+                    "confidence_in_president": 60
+                },
+                {
+                    "year": 2025,
+                    "favorability": 50,
+                    "confidence_in_president": 18
+                }
+            ]
+        },
+        {
+            "name": "France",
+            "code": "FR",
+            "region": "Europe",
+            "coordinates": [
+                46.2276,
+                2.2137
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2003,
+                    "favorability": 31,
+                    "note": "Post-Iraq War low"
+                },
+                {
+                    "year": 2014,
+                    "favorability": 78
+                },
+                {
+                    "year": 2020,
+                    "favorability": 31
+                },
+                {
+                    "year": 2021,
+                    "favorability": 65
+                },
+                {
+                    "year": 2024,
+                    "favorability": 56
+                }
+            ]
+        },
+        {
+            "name": "United Kingdom",
+            "code": "GB",
+            "region": "Europe",
+            "coordinates": [
+                55.3781,
+                -3.436
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2004,
+                    "favorability": 58,
+                    "note": "Post-Iraq War decline"
+                },
+                {
+                    "year": 2020,
+                    "favorability": 41
+                },
+                {
+                    "year": 2021,
+                    "favorability": 61
+                },
+                {
+                    "year": 2024,
+                    "favorability": 54
+                }
+            ]
+        },
+        {
+            "name": "Mexico",
+            "code": "MX",
+            "region": "Latin America",
+            "coordinates": [
+                23.6345,
+                -102.5528
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2015,
+                    "favorability": 66
+                },
+                {
+                    "year": 2017,
+                    "favorability": 30,
+                    "note": "Trump administration low"
+                },
+                {
+                    "year": 2023,
+                    "favorability": 63
+                },
+                {
+                    "year": 2024,
+                    "favorability": 61
+                },
+                {
+                    "year": 2025,
+                    "favorability": 29,
+                    "note": "Second Trump term decline"
+                }
+            ]
+        },
+        {
+            "name": "Brazil",
+            "code": "BR",
+            "region": "Latin America",
+            "coordinates": [
+                -14.235,
+                -51.9253
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2013,
+                    "favorability": 73
+                },
+                {
+                    "year": 2017,
+                    "favorability": 50
+                },
+                {
+                    "year": 2024,
+                    "favorability": 52
+                },
+                {
+                    "year": 2025,
+                    "favorability": 58
+                }
+            ]
+        },
+        {
+            "name": "Argentina",
+            "code": "AR",
+            "region": "Latin America",
+            "coordinates": [
+                -38.4161,
+                -63.6167
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2013,
+                    "favorability": 41
+                },
+                {
+                    "year": 2017,
+                    "favorability": 39
+                },
+                {
+                    "year": 2024,
+                    "favorability": 42
+                },
+                {
+                    "year": 2025,
+                    "favorability": 46
+                }
+            ]
+        },
+        {
+            "name": "Chile",
+            "code": "CL",
+            "region": "Latin America",
+            "coordinates": [
+                -35.6751,
+                -71.543
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2013,
+                    "favorability": 68
+                },
+                {
+                    "year": 2017,
+                    "favorability": 55
+                },
+                {
+                    "year": 2024,
+                    "favorability": 66
+                }
+            ]
+        },
+        {
+            "name": "Colombia",
+            "code": "CO",
+            "region": "Latin America",
+            "coordinates": [
+                4.5709,
+                -74.2973
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2013,
+                    "favorability": 66
+                },
+                {
+                    "year": 2017,
+                    "favorability": 56
+                },
+                {
+                    "year": 2024,
+                    "favorability": 67
+                }
+            ]
+        },
+        {
+            "name": "Poland",
+            "code": "PL",
+            "region": "Europe",
+            "coordinates": [
+                51.9194,
+                19.1451
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2022,
+                    "favorability": 79
+                },
+                {
+                    "year": 2023,
+                    "favorability": 93,
+                    "note": "Highest ever recorded"
+                },
+                {
+                    "year": 2024,
+                    "favorability": 86
+                }
+            ]
+        },
+        {
+            "name": "Israel",
+            "code": "IL",
+            "region": "Middle East",
+            "coordinates": [
+                31.0461,
+                34.8516
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2022,
+                    "favorability": 64
+                },
+                {
+                    "year": 2023,
+                    "favorability": 82,
+                    "note": "Post-Oct 7 solidarity"
+                },
+                {
+                    "year": 2024,
+                    "favorability": 75
+                },
+                {
+                    "year": 2025,
+                    "favorability": 83
+                }
+            ]
+        },
+        {
+            "name": "Japan",
+            "code": "JP",
+            "region": "Asia-Pacific",
+            "coordinates": [
+                36.2048,
+                138.2529
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2020,
+                    "favorability": 41
+                },
+                {
+                    "year": 2021,
+                    "favorability": 71
+                },
+                {
+                    "year": 2023,
+                    "favorability": 74
+                },
+                {
+                    "year": 2024,
+                    "favorability": 73
+                }
+            ]
+        },
+        {
+            "name": "South Korea",
+            "code": "KR",
+            "region": "Asia-Pacific",
+            "coordinates": [
+                35.9078,
+                127.7669
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2020,
+                    "favorability": 59
+                },
+                {
+                    "year": 2021,
+                    "favorability": 77
+                },
+                {
+                    "year": 2023,
+                    "favorability": 76
+                },
+                {
+                    "year": 2024,
+                    "favorability": 72
+                }
+            ]
+        },
+        {
+            "name": "Australia",
+            "code": "AU",
+            "region": "Asia-Pacific",
+            "coordinates": [
+                -25.2744,
+                133.7751
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2021,
+                    "favorability": 48
+                },
+                {
+                    "year": 2023,
+                    "favorability": 52
+                },
+                {
+                    "year": 2024,
+                    "favorability": 40,
+                    "note": "Sharp decline"
+                }
+            ]
+        },
+        {
+            "name": "Tunisia",
+            "code": "TN",
+            "region": "Middle East & North Africa",
+            "coordinates": [
+                33.8869,
+                9.5375
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2019,
+                    "favorability": 33
+                },
+                {
+                    "year": 2024,
+                    "favorability": 9,
+                    "note": "Record low"
+                }
+            ]
+        },
+        {
+            "name": "Turkey",
+            "code": "TR",
+            "region": "Middle East & North Africa",
+            "coordinates": [
+                38.9637,
+                35.2433
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2020,
+                    "favorability": 18
+                },
+                {
+                    "year": 2024,
+                    "favorability": 17
+                },
+                {
+                    "year": 2025,
+                    "favorability": 25
+                }
+            ]
+        },
+        {
+            "name": "Sweden",
+            "code": "SE",
+            "region": "Europe",
+            "coordinates": [
+                60.1282,
+                18.6435
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2023,
+                    "favorability": 62
+                },
+                {
+                    "year": 2025,
+                    "favorability": 19,
+                    "note": "Dramatic decline"
+                }
+            ]
+        },
+        {
+            "name": "Canada",
+            "code": "CA",
+            "region": "North America",
+            "coordinates": [
+                56.1304,
+                -106.3468
+            ],
+            "sentiment_timeline": [
+                {
+                    "year": 2021,
+                    "favorability": 69
+                },
+                {
+                    "year": 2023,
+                    "favorability": 60
+                },
+                {
+                    "year": 2024,
+                    "favorability": 54
+                },
+                {
+                    "year": 2025,
+                    "favorability": 34,
+                    "note": "Tariff impact"
+                }
+            ]
+        }
+    ],
+    "events": [
+        {
+            "id": "iraq_war_2003",
+            "date": "2003-03-20",
+            "name": "Iraq War Invasion",
+            "description": "US-led invasion of Iraq without UN Security Council approval",
+            "regions": [
+                "Europe",
+                "Middle East",
+                "Global"
+            ],
+            "impact_score": 85,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Germany",
+                "France",
+                "United Kingdom",
+                "Spain",
+                "Turkey"
+            ],
+            "polling_evidence": "France favorability dropped to 31%, Germany to historic lows, UK 58%",
+            "google_trends": "Massive spike in 'anti-American' searches globally",
+            "tags": [
+                "War",
+                "Unilateralism",
+                "WMD"
+            ]
+        },
+        {
+            "id": "abu_ghraib_2004",
+            "date": "2004-04-28",
+            "name": "Abu Ghraib Scandal",
+            "description": "Public revelation of torture and abuse of Iraqi prisoners by US military personnel",
+            "regions": [
+                "Middle East",
+                "Europe",
+                "Global"
+            ],
+            "impact_score": 75,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Iraq",
+                "Turkey",
+                "Egypt",
+                "Jordan",
+                "Germany",
+                "France"
+            ],
+            "polling_evidence": "Further deterioration of US image in Europe and Middle East",
+            "tags": [
+                "Human Rights",
+                "Torture",
+                "War Crimes"
+            ]
+        },
+        {
+            "id": "guantanamo_2002",
+            "date": "2002-01-11",
+            "name": "Guantanamo Bay Detention Facility Opened",
+            "description": "First detainees arrived at Guantanamo Bay detention camp",
+            "regions": [
+                "Europe",
+                "Latin America",
+                "Global"
+            ],
+            "impact_score": 70,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Germany",
+                "France",
+                "United Kingdom",
+                "Cuba"
+            ],
+            "polling_evidence": "Ongoing symbol of US human rights violations",
+            "tags": [
+                "Human Rights",
+                "Detention",
+                "War on Terror"
+            ]
+        },
+        {
+            "id": "snowden_2013",
+            "date": "2013-06-06",
+            "name": "Snowden NSA Revelations",
+            "description": "Edward Snowden revealed NSA mass surveillance programs including spying on allies",
+            "regions": [
+                "Europe",
+                "Latin America",
+                "Asia-Pacific"
+            ],
+            "impact_score": 80,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Germany",
+                "France",
+                "Brazil",
+                "Mexico"
+            ],
+            "polling_evidence": "Widespread disapproval in Germany, calls for digital sovereignty",
+            "tags": [
+                "Surveillance",
+                "Privacy",
+                "Espionage"
+            ]
+        },
+        {
+            "id": "guatemala_coup_1954",
+            "date": "1954-06-18",
+            "name": "Guatemalan Coup d'\u00c9tat",
+            "description": "CIA-backed overthrow of democratically elected President Jacobo \u00c1rbenz",
+            "regions": [
+                "Latin America"
+            ],
+            "impact_score": 75,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Guatemala",
+                "Nicaragua",
+                "El Salvador",
+                "Honduras"
+            ],
+            "polling_evidence": "Decades of civil war, foundational anti-American sentiment in Central America",
+            "tags": [
+                "Coup",
+                "Cold War",
+                "United Fruit Company"
+            ]
+        },
+        {
+            "id": "chile_coup_1973",
+            "date": "1973-09-11",
+            "name": "Chilean Coup d'\u00c9tat",
+            "description": "US-backed military coup ousting President Salvador Allende",
+            "regions": [
+                "Latin America"
+            ],
+            "impact_score": 85,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Chile",
+                "Argentina",
+                "Uruguay",
+                "Brazil"
+            ],
+            "polling_evidence": "Primary example in anti-American rhetoric across Latin America",
+            "tags": [
+                "Coup",
+                "Cold War",
+                "Human Rights",
+                "Pinochet"
+            ]
+        },
+        {
+            "id": "nicaragua_contras_1980s",
+            "date": "1981-01-01",
+            "name": "Nicaragua Contra War",
+            "description": "US backing of Contra rebels against Sandinista government, Iran-Contra scandal",
+            "regions": [
+                "Latin America"
+            ],
+            "impact_score": 70,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Nicaragua",
+                "Honduras",
+                "El Salvador",
+                "Costa Rica"
+            ],
+            "polling_evidence": "Civilian deaths, destabilization, drug trafficking linkages",
+            "tags": [
+                "Intervention",
+                "Iran-Contra",
+                "Drug War"
+            ]
+        },
+        {
+            "id": "afghanistan_withdrawal_2021",
+            "date": "2021-08-30",
+            "name": "Afghanistan Withdrawal",
+            "description": "Chaotic US military withdrawal from Afghanistan after 20 years",
+            "regions": [
+                "Europe",
+                "Asia-Pacific",
+                "Global"
+            ],
+            "impact_score": 60,
+            "sentiment_direction": "MixedNegative",
+            "affected_countries": [
+                "Afghanistan",
+                "Pakistan",
+                "United Kingdom",
+                "Germany"
+            ],
+            "polling_evidence": "Questions about US reliability, humanitarian crisis",
+            "tags": [
+                "Withdrawal",
+                "Taliban",
+                "Refugees"
+            ]
+        },
+        {
+            "id": "drone_kabul_2021",
+            "date": "2021-08-29",
+            "name": "Kabul Drone Strike (Civilian Casualties)",
+            "description": "US drone strike killed 10 Afghan civilians including 7 children, erroneously believed to be ISIS-K",
+            "regions": [
+                "Middle East",
+                "Asia-Pacific"
+            ],
+            "impact_score": 55,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Afghanistan",
+                "Pakistan"
+            ],
+            "polling_evidence": "Criticism of 'over-the-horizon' capabilities",
+            "tags": [
+                "Drone Strikes",
+                "Civilian Casualties"
+            ]
+        },
+        {
+            "id": "gaza_war_2023",
+            "date": "2023-10-07",
+            "name": "Gaza War - US Support for Israel",
+            "description": "Unwavering US diplomatic and military support for Israel during Gaza conflict",
+            "regions": [
+                "Middle East",
+                "Europe",
+                "Latin America",
+                "Global"
+            ],
+            "impact_score": 90,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Tunisia",
+                "Turkey",
+                "Egypt",
+                "Jordan",
+                "South Africa",
+                "Brazil",
+                "Ireland"
+            ],
+            "polling_evidence": "Net Israel favorability dropped 18.5 points in 42/43 countries, US seen as complicit",
+            "google_trends": "Spike in 'Gaza genocide' and 'US Israel' searches",
+            "tags": [
+                "Israel",
+                "Gaza",
+                "Human Rights",
+                "Humanitarian Crisis"
+            ]
+        },
+        {
+            "id": "trump_muslim_ban_2017",
+            "date": "2017-01-27",
+            "name": "Travel Ban (Muslim Ban)",
+            "description": "Executive order banning travel from several Muslim-majority countries",
+            "regions": [
+                "Middle East",
+                "Asia-Pacific"
+            ],
+            "impact_score": 70,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Iran",
+                "Iraq",
+                "Libya",
+                "Somalia",
+                "Sudan",
+                "Syria",
+                "Yemen"
+            ],
+            "polling_evidence": "Sharp decline in US favorability in Muslim-majority nations",
+            "tags": [
+                "Immigration",
+                "Islamophobia",
+                "Executive Order"
+            ]
+        },
+        {
+            "id": "trump_border_wall_2017",
+            "date": "2017-01-25",
+            "name": "Border Wall Executive Order",
+            "description": "Executive order for construction of border wall with Mexico",
+            "regions": [
+                "Latin America"
+            ],
+            "impact_score": 75,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "Mexico"
+            ],
+            "polling_evidence": "Mexico favorability dropped from 66% (2015) to 30% (2017)",
+            "tags": [
+                "Immigration",
+                "Border Security",
+                "Mexico Relations"
+            ]
+        },
+        {
+            "id": "paris_accord_withdrawal_2017",
+            "date": "2017-06-01",
+            "name": "Paris Climate Accord Withdrawal",
+            "description": "US withdrew from the Paris Agreement on climate change",
+            "regions": [
+                "Europe",
+                "Global"
+            ],
+            "impact_score": 65,
+            "sentiment_direction": "Negative",
+            "affected_countries": [
+                "France",
+                "Germany",
+                "Netherlands",
+                "Sweden",
+                "Denmark"
+            ],
+            "polling_evidence": "Decline in European trust of US leadership on global issues",
+            "tags": [
+                "Climate Change",
+                "Multilateralism",
+                "Environment"
+            ]
+        },
+        {
+            "id": "biden_inauguration_2021",
+            "date": "2021-01-20",
+            "name": "Biden Inauguration",
+            "description": "Transition from Trump to Biden administration",
+            "regions": [
+                "Europe",
+                "Asia-Pacific",
+                "Latin America",
+                "Global"
+            ],
+            "impact_score": -75,
+            "sentiment_direction": "Positive",
+            "affected_countries": [
+                "Germany",
+                "France",
+                "United Kingdom",
+                "Canada",
+                "Japan",
+                "South Korea"
+            ],
+            "polling_evidence": "Median 75% confidence in Biden vs 17% for Trump in 12 nations, 40+ point swing",
+            "tags": [
+                "Leadership Change",
+                "Restoration of Alliances"
+            ]
+        },
+        {
+            "id": "ukraine_support_2022",
+            "date": "2022-02-24",
+            "name": "Ukraine War Support",
+            "description": "Strong US support for Ukraine following Russian invasion",
+            "regions": [
+                "Europe"
+            ],
+            "impact_score": -60,
+            "sentiment_direction": "Positive",
+            "affected_countries": [
+                "Poland",
+                "Ukraine",
+                "Baltic States",
+                "Czech Republic"
+            ],
+            "polling_evidence": "Poland favorability reached 93% in 2023, highest ever",
+            "tags": [
+                "Ukraine",
+                "NATO",
+                "Russian Aggression",
+                "Security"
+            ]
+        }
+    ],
+    "sentiment_metrics": {
+        "global_average_favorability": {
+            "2003": 48,
+            "2008": 43,
+            "2009": 61,
+            "2017": 49,
+            "2020": 34,
+            "2021": 62,
+            "2023": 59,
+            "2024": 54,
+            "2025": 49
+        },
+        "confidence_in_us_president": {
+            "bush_2004": 28,
+            "obama_2009": 71,
+            "obama_2016": 64,
+            "trump_2017": 22,
+            "trump_2020": 17,
+            "biden_2021": 75,
+            "biden_2023": 59,
+            "trump_2025": 34
+        }
+    },
+    "regional_aggregates": {
+        "europe": {
+            "2020": 42,
+            "2021": 68,
+            "2024": 58,
+            "2025": 45,
+            "key_concerns": [
+                "NATO funding",
+                "Trade",
+                "Climate policy",
+                "Surveillance"
+            ]
+        },
+        "latin_america": {
+            "2015": 57,
+            "2017": 46,
+            "2023": 54,
+            "2024": 56,
+            "2025": 48,
+            "key_concerns": [
+                "Immigration",
+                "Intervention history",
+                "Trade tariffs",
+                "Drug war"
+            ]
+        },
+        "middle_east": {
+            "2020": 23,
+            "2023": 18,
+            "2024": 16,
+            "key_concerns": [
+                "Israel-Palestine",
+                "Military interventions",
+                "Drone strikes"
+            ]
+        },
+        "asia_pacific": {
+            "2021": 62,
+            "2023": 64,
+            "2024": 61,
+            "key_concerns": [
+                "Trade",
+                "China policy",
+                "Military presence"
+            ]
+        }
+    }
+}
