@@ -1,0 +1,26 @@
+{
+  "dataset_name": "Weekly Google Search Trends - Trump's Second Term",
+  "last_updated": "2026-01-15",
+  "source": "Google Trends, Wikipedia Events, News Research",
+  "record_count": 49,
+  "fields": {
+    "metadata.title": "Dataset title",
+    "metadata.period": "Coverage period (January 6, 2025 - November 17, 2025)",
+    "metadata.description": "Dataset description",
+    "metadata.source": "Data collection sources",
+    "metadata.total_weeks": "Planned total weeks (45, actual data contains 49)",
+    "metadata.data_collection_method": "Curation methodology",
+    "weeks[].week": "Week number in the series",
+    "weeks[].start_date": "Week start date",
+    "weeks[].end_date": "Week end date",
+    "weeks[].description": "Narrative description of the week's major search themes",
+    "weeks[].related_searches": "Array of related search queries for the week",
+    "weeks[].global_intensity": "Global search interest intensity score",
+    "weeks[].top_search_us": "Top trending search term in the US for this week",
+    "weeks[].us_intensity": "US-specific search interest intensity score",
+    "weeks[].us_category": "Category classification of the top US search",
+    "weeks[].top_search_global": "Top trending search term globally for this week",
+    "weeks[].global_category": "Category classification of the top global search"
+  },
+  "notes": "Curated weekly dataset of top Google search trends comparing US vs. global search topics during Trump's second presidency. Each week includes narrative context, intensity scores, and category classifications. Used by the weekly-searches and trends-2025 visualizations."
+}

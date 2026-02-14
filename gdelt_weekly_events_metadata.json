@@ -1,0 +1,24 @@
+{
+  "dataset_name": "GDELT Weekly Aggregated Events",
+  "last_updated": "2025-12-20",
+  "source": "GDELT 2.1 Doc API (Global Database of Events, Language, and Tone)",
+  "record_count": {
+    "weeks": 53,
+    "total_events": 245
+  },
+  "fields": {
+    "metadata.source": "API source identifier (GDELT 2.1 Doc API)",
+    "metadata.query": "Search query used to filter events",
+    "metadata.timeframe": "Date range of the query (2025-01-01 to 2025-12-31)",
+    "metadata.generated_at": "ISO 8601 timestamp when the data was fetched",
+    "metadata.note": "Clarification that events are top article titles, not sentiment scores",
+    "weekly_events[].week_start": "Start date of the week",
+    "weekly_events[].week_end": "End date of the week",
+    "weekly_events[].events": "Array of notable events for that week",
+    "weekly_events[].events[].title": "Article or event headline title",
+    "weekly_events[].events[].url": "URL of the source article",
+    "weekly_events[].events[].sourcecountry": "Country code of the article source",
+    "weekly_events[].events[].seendate": "Date when the article was observed by GDELT"
+  },
+  "notes": "Contains 245 notable news events across 53 weeks of 2025, organized by week. Events are top article titles per week from GDELT's monitoring of US-related global news coverage. Used by the one-year and weekly-searches visualizations."
+}

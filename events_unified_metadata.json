@@ -1,0 +1,25 @@
+{
+  "dataset_name": "Unified Events Database",
+  "last_updated": "2025-12-19",
+  "source": "Consolidated from unified_data.json, events-database.js, events.json, and weekly_trends.json",
+  "record_count": 177,
+  "fields": {
+    "metadata.version": "Schema version (3.0)",
+    "metadata.last_updated": "Date of last data update",
+    "metadata.sources": "Array of source files used to compile this dataset",
+    "metadata.total_events": "Total number of events in the dataset",
+    "events[].id": "Unique event identifier",
+    "events[].date": "Date of the event",
+    "events[].name": "Short name or title of the event",
+    "events[].description": "Detailed description of the event",
+    "events[].regions": "Geographic regions affected by the event",
+    "events[].impact_score": "Numeric impact assessment score",
+    "events[].sentiment_direction": "Direction of sentiment change (positive/negative/neutral)",
+    "events[].affected_countries": "List of countries affected by the event",
+    "events[].polling_evidence": "Related polling data or evidence of public opinion impact",
+    "events[].google_trends": "Related Google Trends search data",
+    "events[].tags": "Categorical tags for the event",
+    "events[].week": "Week number within the year"
+  },
+  "notes": "Master unified event database combining multiple attention data sources into a single timeline of 177 significant events. Includes impact scoring, sentiment analysis, and cross-referenced Google Trends data. Version 3.0 schema. Used by the one-year US global sentiment visualization."
+}

@@ -1,0 +1,27 @@
+{
+  "dataset_name": "US Global Sentiment Impact Database",
+  "last_updated": "2025-12-15",
+  "source": "Consolidated from Pew Research Center, Gallup, Morning Consult, and other polling/sentiment sources",
+  "record_count": {
+    "countries": 17,
+    "events": 15,
+    "sentiment_metrics": 2,
+    "regional_aggregates": 4
+  },
+  "fields": {
+    "metadata.title": "Dataset title",
+    "metadata.description": "Full dataset description",
+    "metadata.version": "Schema version (2.0)",
+    "metadata.last_updated": "Date of last update",
+    "metadata.data_sources": "Array of polling and research data sources",
+    "countries[].name": "Country name",
+    "countries[].code": "ISO country code",
+    "countries[].region": "Geographic region classification",
+    "countries[].coordinates": "Geographic coordinates [lat, lon]",
+    "countries[].sentiment_timeline": "Time series of sentiment data for the country",
+    "events[]": "Array of 15 major events with sentiment impact data",
+    "sentiment_metrics": "Aggregated sentiment metrics and scoring methodology",
+    "regional_aggregates": "Sentiment data aggregated by 4 world regions"
+  },
+  "notes": "Comprehensive database tracking how US actions and events impact global sentiment across 17 countries and 4 regions. Includes geographic and temporal data designed for visualization. Version 2.0 schema. Primary data source for the one-year US global sentiment project."
+}

@@ -1,0 +1,14 @@
+{
+  "dataset_name": "Wikipedia Event-Driven Article Pageviews",
+  "last_updated": "2026-01-22",
+  "source": "Wikimedia REST API (Pageviews)",
+  "record_count": 10,
+  "fields": {
+    "article": "Wikipedia article title",
+    "avg_daily_views": "Average daily pageviews over the analysis period",
+    "peak_views": "Maximum single-day pageview count",
+    "total_views": "Total accumulated pageviews",
+    "timeline": "Array of daily pageview counts with dates"
+  },
+  "notes": "Tracks 10 Wikipedia articles that experienced significant traffic spikes during major news events. Each article includes a daily timeline of pageviews showing how public attention surged in response to specific events. Companion dataset to wikipedia_trending.json."
+}

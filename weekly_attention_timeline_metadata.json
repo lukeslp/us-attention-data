@@ -1,0 +1,15 @@
+{
+  "dataset_name": "Weekly Regional Attention Timeline",
+  "last_updated": "2025-12-20",
+  "source": "Consolidated from Google Trends (google_trends_interest.json), GDELT (gdelt_timeline.json), and Wikipedia (wikipedia_pageviews.json)",
+  "record_count": 51,
+  "fields": {
+    "metadata.generated_at": "ISO 8601 timestamp when the data was generated",
+    "metadata.sources": "Array of source data files used",
+    "metadata.note": "Clarification that values are normalized relative attention scores, not sentiment",
+    "weekly_timeline[].week_start": "Start date of the week",
+    "weekly_timeline[].components": "Breakdown of attention by source (Google Trends, GDELT, Wikipedia)",
+    "weekly_timeline[].regions": "Regional attention scores broken down by world region"
+  },
+  "notes": "Contains 51 weeks of normalized attention scores combining Google Trends search interest, GDELT media coverage, and Wikipedia pageview data. Values are relative (not absolute sentiment). Regional breakdowns show how attention to US-related topics varied across world regions throughout 2025."
+}

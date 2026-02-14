@@ -1,0 +1,17 @@
+{
+  "dataset_name": "Google Trends Search Interest Data",
+  "last_updated": "2025-12-18",
+  "source": "Google Trends via pytrends API",
+  "record_count": 138,
+  "fields": {
+    "generated_at": "ISO 8601 timestamp when the data was fetched",
+    "timeframe": "Date range of the data collection period",
+    "geo": "Geographic region code (e.g., 'US')",
+    "terms": "Dictionary of search terms, each containing:",
+    "terms.*.term": "The search query string",
+    "terms.*.data": "Time series of search interest values",
+    "terms.*.related_queries": "Related search queries for this term",
+    "terms.*.metadata": "Additional metadata about the term's trends"
+  },
+  "notes": "Contains 138 search terms tracked over the period 2025-01-06 to 2025-12-18 for the US region. Each term includes a timeline of relative search interest (0-100 scale) and related queries. Used by the trends-2025 visualization project."
+}

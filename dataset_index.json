@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "created_at": "2026-02-14",
+    "updated_at": "2026-02-14",
+    "version": "1.0",
+    "total_datasets": 10,
+    "total_size_mb": 4.3,
+    "note": "US digital attention metrics from Wikipedia, Google Trends, and GDELT APIs"
+  },
+  "categories": {
+    "wikipedia": {
+      "description": "Wikipedia pageview metrics from Wikimedia REST API",
+      "datasets": [
+        {
+          "name": "Wikipedia Pageviews - Country Analysis",
+          "local_file": "data/wikipedia_pageviews.json",
+          "source": "Wikimedia REST API",
+          "size_mb": 2.5,
+          "records": "8 articles tracked across countries",
+          "last_updated": "2025-12-20",
+          "timeframe": "2025-01-01 to 2025-12-31",
+          "api_key_required": false,
+          "format": "JSON"
+        },
+        {
+          "name": "Wikipedia Trending Articles",
+          "local_file": "data/wikipedia_trending.json",
+          "source": "Wikimedia REST API",
+          "size_mb": 0.25,
+          "records": 500,
+          "last_updated": "2026-01-19",
+          "timeframe": "Last 90 days",
+          "format": "JSON"
+        },
+        {
+          "name": "Wikipedia Event Articles",
+          "local_file": "data/wikipedia_event_articles.json",
+          "source": "Wikimedia REST API",
+          "size_mb": 0.21,
+          "records": 10,
+          "last_updated": "2026-01-19",
+          "timeframe": "Event-driven tracking",
+          "format": "JSON"
+        }
+      ]
+    },
+    "google_trends": {
+      "description": "Google search interest data via pytrends API",
+      "datasets": [
+        {
+          "name": "Google Trends - Full Year Data",
+          "local_file": "data/trends_data.json",
+          "source": "Google Trends (pytrends)",
+          "size_mb": 0.81,
+          "records": "138 search terms",
+          "last_updated": "2025-12-18",
+          "timeframe": "2025-01-06 to 2025-12-18",
+          "geo": "US",
+          "format": "JSON"
+        },
+        {
+          "name": "Google Trends - Weekly Snapshot",
+          "local_file": "data/weekly_trends.json",
+          "source": "Google Trends (pytrends)",
+          "size_mb": 0.026,
+          "records": "Weekly aggregated",
+          "geo": "US",
+          "format": "JSON"
+        }
+      ]
+    },
+    "gdelt": {
+      "description": "GDELT 2.1 global event mentions and media coverage",
+      "datasets": [
+        {
+          "name": "GDELT Event Timeline",
+          "local_file": "data/gdelt_timeline.json",
+          "source": "GDELT 2.1 Doc API",
+          "size_mb": 0.13,
+          "records": "44 countries",
+          "last_updated": "2025-12-20",
+          "timeframe": "2025-01-01 to 2025-12-31",
+          "query": "(\"United States\" OR \"United States of America\")",
+          "format": "JSON"
+        },
+        {
+          "name": "GDELT Weekly Events",
+          "local_file": "data/gdelt_weekly_events.json",
+          "source": "GDELT 2.1 Doc API",
+          "size_mb": 0.15,
+          "records": "Weekly aggregated",
+          "timeframe": "2025",
+          "format": "JSON"
+        }
+      ]
+    },
+    "unified": {
+      "description": "Cross-source unified datasets combining Wikipedia, Trends, and GDELT",
+      "datasets": [
+        {
+          "name": "Events Unified",
+          "local_file": "data/events_unified.json",
+          "source": "Multi-source aggregation",
+          "size_mb": 0.088,
+          "records": 177,
+          "note": "Combines Wikipedia events with GDELT and Trends data",
+          "format": "JSON"
+        },
+        {
+          "name": "Unified Data",
+          "local_file": "data/unified_data.json",
+          "source": "Multi-source aggregation",
+          "size_mb": 0.027,
+          "records": 15,
+          "note": "High-level unified event analysis",
+          "format": "JSON"
+        },
+        {
+          "name": "Weekly Attention Timeline",
+          "local_file": "data/weekly_attention_timeline.json",
+          "source": "Multi-source aggregation",
+          "size_mb": 0.056,
+          "note": "Weekly cross-platform attention metrics",
+          "format": "JSON"
+        }
+      ]
+    }
+  },
+  "api_sources": {
+    "wikimedia": {
+      "name": "Wikimedia REST API",
+      "url": "https://wikimedia.org/api/rest_v1",
+      "docs": "https://wikimedia.org/api/rest_v1/#!/Pageviews_data",
+      "auth": "None required",
+      "rate_limit": "5000 requests/hour per IP",
+      "license": "CC0 (Public Domain)"
+    },
+    "google_trends": {
+      "name": "Google Trends via pytrends",
+      "package": "pytrends",
+      "docs": "https://github.com/GeneralMills/pytrends",
+      "auth": "None required",
+      "rate_limit": "Soft limits (use responsibly)",
+      "license": "Data subject to Google Terms of Service"
+    },
+    "gdelt": {
+      "name": "GDELT 2.1 Doc API",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "docs": "https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/",
+      "auth": "None required",
+      "rate_limit": "No official limit, use responsibly",
+      "license": "Free for research and commercial use"
+    }
+  },
+  "usage_notes": {
+    "loading_data": "All datasets are JSON format. Use json.load() or pandas.read_json() to load",
+    "metadata_files": "Each dataset has a companion *_metadata.json file with field descriptions and provenance",
+    "timeframes": "Most data covers calendar year 2025 (Jan 1 - Dec 31)",
+    "updates": "Datasets are static snapshots. Re-fetch from APIs for current data",
+    "visualizations": [
+      "One-Year US Global Sentiment (dr.eamer.dev/datavis/one-year)",
+      "Trends 2025 (dr.eamer.dev/datavis/trends-2025)",
+      "Wikipedia Attention Analytics (dr.eamer.dev/datavis/wiki-attention)"
+    ]
+  }
+}

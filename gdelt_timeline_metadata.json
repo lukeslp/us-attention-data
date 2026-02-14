@@ -1,0 +1,14 @@
+{
+  "dataset_name": "GDELT Event Mentions Timeline",
+  "last_updated": "2025-12-20",
+  "source": "GDELT 2.1 Doc API (Global Database of Events, Language, and Tone)",
+  "record_count": 44,
+  "fields": {
+    "metadata.source": "API source identifier (GDELT 2.1 Doc API)",
+    "metadata.query": "Search query used to filter events",
+    "metadata.timeframe": "Date range of the query (2025-01-01 to 2025-12-31)",
+    "metadata.generated_at": "ISO 8601 timestamp when the data was fetched",
+    "countries": "Dictionary of 44 country codes, each containing timeline data for that country"
+  },
+  "notes": "Tracks media mentions of United States-related events across 44 countries throughout 2025. Each country entry contains timeline data showing event coverage volume. Query: '(\"United States\" OR \"United States of America\")'. Used by the one-year US global sentiment visualization."
+}

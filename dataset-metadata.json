@@ -1,0 +1,123 @@
+{
+  "title": "US Attention Data",
+  "description": "Digital attention metrics tracking Wikipedia pageviews, Google Trends search interest, and GDELT global event coverage for United States-related topics throughout 2025.",
+  "version": "1.0.0",
+  "created": "2026-02-14",
+  "updated": "2026-02-14",
+  "author": {
+    "name": "Luke Steuber",
+    "email": "luke@lukesteuber.com",
+    "url": "https://lukesteuber.com",
+    "bluesky": "@lukesteuber.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "attention-metrics",
+    "wikipedia",
+    "google-trends",
+    "gdelt",
+    "pageviews",
+    "search-interest",
+    "media-coverage",
+    "digital-attention",
+    "us-politics",
+    "event-tracking",
+    "sentiment-analysis",
+    "time-series"
+  ],
+  "categories": [
+    "Social Science",
+    "Media Studies",
+    "Data Journalism",
+    "Political Science",
+    "Digital Humanities"
+  ],
+  "sources": [
+    {
+      "name": "Wikimedia REST API",
+      "url": "https://wikimedia.org/api/rest_v1",
+      "license": "CC0 Public Domain"
+    },
+    {
+      "name": "Google Trends",
+      "package": "pytrends",
+      "url": "https://github.com/GeneralMills/pytrends",
+      "license": "Apache 2.0 (package), Google TOS (data)"
+    },
+    {
+      "name": "GDELT 2.1 Doc API",
+      "url": "https://api.gdeltproject.org/api/v2/doc/doc",
+      "license": "Free for research and commercial use"
+    }
+  ],
+  "stats": {
+    "total_files": 20,
+    "data_files": 10,
+    "metadata_files": 10,
+    "total_size_mb": 4.3,
+    "date_range": "2025-01-01 to 2025-12-31",
+    "geographic_coverage": "United States (primary), 44 countries (GDELT)"
+  },
+  "files": {
+    "data": [
+      "data/wikipedia_pageviews.json",
+      "data/wikipedia_trending.json",
+      "data/wikipedia_event_articles.json",
+      "data/trends_data.json",
+      "data/weekly_trends.json",
+      "data/gdelt_timeline.json",
+      "data/gdelt_weekly_events.json",
+      "data/events_unified.json",
+      "data/unified_data.json",
+      "data/weekly_attention_timeline.json"
+    ],
+    "documentation": [
+      "README.md",
+      "LICENSE",
+      "dataset_index.json",
+      "dataset-metadata.json"
+    ],
+    "notebooks": [],
+    "scripts": []
+  },
+  "usage": {
+    "python": "import json; with open('data/wikipedia_pageviews.json') as f: data = json.load(f)",
+    "pandas": "import pandas as pd; df = pd.read_json('data/trends_data.json')",
+    "huggingface": "from datasets import load_dataset; ds = load_dataset('lukeslp/us-attention-data')"
+  },
+  "visualizations": [
+    {
+      "title": "One-Year US Global Sentiment",
+      "url": "https://dr.eamer.dev/datavis/one-year",
+      "uses": "data/gdelt_timeline.json"
+    },
+    {
+      "title": "Trends 2025",
+      "url": "https://dr.eamer.dev/datavis/trends-2025",
+      "uses": "data/trends_data.json"
+    },
+    {
+      "title": "Wikipedia Attention Analytics",
+      "url": "https://dr.eamer.dev/datavis/wiki-attention",
+      "uses": "data/wikipedia_pageviews.json"
+    }
+  ],
+  "citations": {
+    "bibtex": "@dataset{steuber2026attention,\n  title={US Attention Data: Digital Attention Metrics from Wikipedia, Google Trends, and GDELT},\n  author={Steuber, Luke},\n  year={2026},\n  publisher={GitHub/HuggingFace},\n  url={https://github.com/lukeslp/us-attention-data}\n}",
+    "apa": "Steuber, L. (2026). US Attention Data: Digital Attention Metrics from Wikipedia, Google Trends, and GDELT. Retrieved from https://github.com/lukeslp/us-attention-data"
+  },
+  "publishing": {
+    "github": {
+      "repo": "lukeslp/us-attention-data",
+      "url": "https://github.com/lukeslp/us-attention-data"
+    },
+    "huggingface": {
+      "dataset": "lukeslp/us-attention-data",
+      "url": "https://huggingface.co/datasets/lukeslp/us-attention-data"
+    },
+    "kaggle": {
+      "dataset": "lucassteuber/us-attention-data",
+      "url": "https://www.kaggle.com/datasets/lucassteuber/us-attention-data"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "dataset_name": "Wikipedia Trending Articles",
+  "last_updated": "2026-01-22",
+  "source": "Wikimedia REST API (Pageviews)",
+  "record_count": 500,
+  "fields": {
+    "title": "Wikipedia article title",
+    "total_views": "Total accumulated pageviews over the analysis period",
+    "days_in_top_100": "Number of days the article appeared in the daily top 100 most viewed",
+    "peak_views": "Maximum single-day pageview count",
+    "daily_views": "Array or object of daily pageview counts"
+  },
+  "notes": "Top 500 trending Wikipedia articles ranked by total pageviews. Includes persistence metrics (days_in_top_100) to distinguish sustained interest from single-day spikes. Companion dataset to wikipedia_event_articles.json."
+}
