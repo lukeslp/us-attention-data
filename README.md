@@ -1,3 +1,23 @@
+---
+license: mit
+task_categories:
+  - time-series-forecasting
+  - feature-extraction
+language:
+  - en
+tags:
+  - attention-metrics
+  - wikipedia
+  - gdelt
+  - google-trends
+  - united-states
+  - media-analysis
+  - time-series
+pretty_name: US Attention Data
+size_categories:
+  - 1K<n<10K
+---
+
 # US Attention Data
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)

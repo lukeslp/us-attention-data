@@ -1,6 +1,11 @@
 {
   "title": "US Attention Data",
-  "description": "Digital attention metrics tracking Wikipedia pageviews, Google Trends search interest, and GDELT global event coverage for United States-related topics throughout 2025.",
+  "id": "lucassteuber/us-attention-data",
+  "licenses": [{"name": "MIT"}],
+  "subtitle": "Wikipedia views, Google Trends, GDELT coverage for US topics in 2025",
+  "description": "Digital attention metrics tracking Wikipedia pageviews, Google Trends search interest, and GDELT global event coverage for United States-related topics throughout 2025.\n\n## Data Sources\n\n- **Wikimedia REST API**: CC0 Public Domain\n- **Google Trends** (via pytrends): Google TOS\n- **GDELT 2.1 Doc API**: Free for research and commercial use\n\n## Stats\n\n- 10 data files, 4.3 MB total\n- Date range: 2025-01-01 to 2025-12-31\n- Geographic coverage: United States (primary), 44 countries (GDELT)\n\n## Visualizations\n\n- [One-Year US Global Sentiment](https://dr.eamer.dev/datavis/one-year) - GDELT timeline\n- [Trends 2025](https://dr.eamer.dev/datavis/trends-2025) - Google Trends data\n- [Wikipedia Attention Analytics](https://dr.eamer.dev/datavis/wiki-attention) - Pageviews",
+  "isPrivate": false,
+  "original_description": "Digital attention metrics tracking Wikipedia pageviews, Google Trends search interest, and GDELT global event coverage for United States-related topics throughout 2025.",
   "version": "1.0.0",
   "created": "2026-02-14",
   "updated": "2026-02-14",
