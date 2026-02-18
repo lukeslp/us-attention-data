@@ -93,6 +93,12 @@ const gdelt = await d3.json("gdelt_weekly_events.json");
 
 ---
 
+## Distribution
+
+- **GitHub**: [lukeslp/us-attention-data](https://github.com/lukeslp/us-attention-data)
+- **Kaggle**: [lucassteuber/us-attention-data](https://www.kaggle.com/datasets/lucassteuber/us-attention-data)
+- **HuggingFace**: [lukeslp/us-attention-data](https://huggingface.co/datasets/lukeslp/us-attention-data)
+
 ## Related
 
 - [one-year visualization](https://dr.eamer.dev/datavis/one-year/) -- the viz this data powers

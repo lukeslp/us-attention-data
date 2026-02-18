@@ -146,6 +146,12 @@ Three live dashboards built on this data:
 }
 ```
 
+
+## Distribution
+
+- **GitHub**: [lukeslp/us-attention-data](https://github.com/lukeslp/us-attention-data)
+- **Kaggle**: [lucassteuber/us-attention-data](https://www.kaggle.com/datasets/lucassteuber/us-attention-data)
+
 ## License
 
 MIT License - See LICENSE file for details.
