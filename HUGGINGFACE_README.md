@@ -17,7 +17,7 @@ tags:
 - event-tracking
 pretty_name: US Attention Data
 size_categories:
-- n<1K
+- 1K<n<10K
 ---
 
 # US Attention Data
