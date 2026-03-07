@@ -109,7 +109,8 @@ const gdelt = await d3.json("gdelt_weekly_events.json");
 
 ## Author
 
-[Luke Steuber](https://lukesteuber.com) -- [@lukesteuber.com](https://bsky.app/profile/lukesteuber.com) on Bluesky
+**Luke Steuber** · [lukesteuber.com](https://lukesteuber.com) · [@lukesteuber.com](https://bsky.app/profile/lukesteuber.com)
+
 
 ## License
 
